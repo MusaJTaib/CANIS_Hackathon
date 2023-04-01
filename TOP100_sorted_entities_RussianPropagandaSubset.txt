@@ -1,0 +1,957 @@
+GPE, russia, 2743
+GPE, crimea, 403
+GPE, syria, 367
+GPE, poland, 310
+GPE, moscow, 288
+GPE, ukraine, 254
+GPE, germany, 224
+GPE, washington, 220
+GPE, ukrainian, 195
+GPE, moldova, 192
+GPE, georgia, 179
+GPE, france, 176
+GPE, brussels, 155
+GPE, kyiv, 142
+GPE, ussr, 132
+GPE, sweden, 106
+GPE, turkey, 97
+GPE, lithuania, 90
+GPE, minsk, 88
+GPE, estonia, 85
+GPE, china, 71
+GPE, uk, 69
+GPE, romania, 69
+GPE, maidan, 68
+GPE, venezuela, 62
+GPE, latvia, 62
+GPE, britain, 61
+GPE, hungary, 59
+GPE, soviet union, 57
+GPE, usa, 55
+GPE, america, 53
+GPE, iraq, 51
+GPE, montenegro, 51
+GPE, serbia, 47
+GPE, finland, 46
+GPE, london, 45
+GPE, berlin, 41
+GPE, hong kong, 40
+GPE, iran, 40
+GPE, donbas, 40
+GPE, salisbury, 39
+GPE, paris, 38
+GPE, warsaw, 37
+GPE, nbsp, 36
+GPE, yugoslavia, 34
+GPE, austria, 34
+GPE, conflict eastern ukraine, 34
+GPE, italy, 31
+GPE, bulgaria, 29
+GPE, slovakia, 28
+GPE, saudi arabia, 27
+GPE, kosovo, 27
+GPE, israel, 26
+GPE, libya, 26
+GPE, armenia, 26
+GPE, malaysia, 25
+GPE, putin, 24
+GPE, japan, 22
+GPE, greece, 22
+GPE, bolivia, 22
+GPE, munich, 21
+GPE, norway, 21
+GPE, afghanistan, 20
+GPE, chernobyl, 19
+GPE, united kingdom, 19
+GPE, tbilisi, 18
+GPE, denmark, 16
+GPE, saakashvili, 16
+GPE, nazi germany, 15
+GPE, wwii, 14
+GPE, yulia, 14
+GPE, azerbaijan, 14
+GPE, netherlands, 13
+GPE, new york, 13
+GPE, kaliningrad, 12
+GPE, spain, 11
+GPE, brazil, 11
+GPE, lviv, 11
+GPE, qatar, 11
+GPE, belgium, 10
+GPE, kazakhstan, 10
+GPE, kaunas, 10
+GPE, slovenia, 10
+GPE, us, 9
+GPE, usa germany, 9
+GPE, istanbul, 9
+GPE, mexico, 8
+GPE, cuba, 8
+GPE, annexed, 8
+GPE, north korea, 7
+GPE, chechnya, 7
+GPE, france germany, 7
+GPE, united state, 7
+GPE, ecuador, 7
+GPE, california, 7
+GPE, panama, 7
+GPE, great britain, 7
+GPE, ngo, 7
+GPE, catalonia, 7
+GPE, rome, 6
+
+CARDINAL, one, 279
+CARDINAL, two, 179
+CARDINAL, three, 86
+CARDINAL, 2016, 63
+CARDINAL, 2, 47
+CARDINAL, four, 29
+CARDINAL, 2018, 28
+CARDINAL, 2017, 24
+CARDINAL, hundred, 22
+CARDINAL, 20, 21
+CARDINAL, 911, 18
+CARDINAL, half, 18
+CARDINAL, thousand, 18
+CARDINAL, million, 17
+CARDINAL, 200, 15
+CARDINAL, 2015, 14
+CARDINAL, s400, 14
+CARDINAL, 2019, 13
+CARDINAL, 30, 12
+CARDINAL, 70, 11
+CARDINAL, dozen, 11
+CARDINAL, five, 11
+CARDINAL, 40, 11
+CARDINAL, 90, 11
+CARDINAL, 100, 10
+CARDINAL, 10, 10
+CARDINAL, 50, 10
+CARDINAL, hundred thousand, 9
+CARDINAL, 9m729, 8
+CARDINAL, ten, 7
+CARDINAL, 22, 7
+CARDINAL, 17, 7
+CARDINAL, 73, 7
+CARDINAL, nine, 7
+CARDINAL, 3, 7
+CARDINAL, 1, 7
+CARDINAL, 100000, 7
+CARDINAL, 14, 7
+CARDINAL, 280 thousand, 7
+CARDINAL, 24, 6
+CARDINAL, seven, 6
+CARDINAL, almost half, 6
+CARDINAL, 500, 6
+CARDINAL, 5 million, 6
+CARDINAL, 18, 6
+CARDINAL, eight, 6
+CARDINAL, ten thousand, 6
+CARDINAL, 80, 6
+CARDINAL, 120, 6
+CARDINAL, 184, 6
+CARDINAL, 13, 5
+CARDINAL, 12, 5
+CARDINAL, one million, 5
+CARDINAL, six, 5
+CARDINAL, 2380, 5
+CARDINAL, 300, 5
+CARDINAL, 370, 5
+CARDINAL, 10yearold, 5
+CARDINAL, 15, 5
+CARDINAL, twenty, 5
+CARDINAL, 2024, 4
+CARDINAL, 1500, 4
+CARDINAL, 25, 4
+CARDINAL, billion, 4
+CARDINAL, 67, 4
+CARDINAL, 10 million, 4
+CARDINAL, 11, 4
+CARDINAL, 2500, 4
+CARDINAL, 28, 4
+CARDINAL, 33000, 4
+CARDINAL, one thousand, 4
+CARDINAL, 55, 4
+CARDINAL, 43, 4
+CARDINAL, 33, 4
+CARDINAL, 2021, 3
+CARDINAL, 6, 3
+CARDINAL, 19, 3
+CARDINAL, 23, 3
+CARDINAL, 3 million, 3
+CARDINAL, number one, 3
+CARDINAL, 8090, 3
+CARDINAL, 1200, 3
+CARDINAL, 600, 3
+CARDINAL, two dozen, 3
+CARDINAL, 4, 3
+CARDINAL, 180, 3
+CARDINAL, 16, 3
+CARDINAL, 97, 3
+CARDINAL, 150, 3
+CARDINAL, 27, 3
+CARDINAL, 130, 3
+CARDINAL, fifty thousand, 3
+CARDINAL, 50000, 3
+CARDINAL, batallions, 3
+CARDINAL, 6000, 2
+CARDINAL, 60 million, 2
+CARDINAL, 75, 2
+CARDINAL, 12000, 2
+CARDINAL, zero, 2
+CARDINAL, 15 million, 2
+
+PERSON, vladimir putin, 70
+PERSON, putin, 61
+PERSON, george soros, 56
+PERSON, angela merkel, 46
+PERSON, hillary clinton, 46
+PERSON, donald trump, 39
+PERSON, robert mueller, 30
+PERSON, moldovan, 27
+PERSON, soros, 18
+PERSON, barrack, 17
+PERSON, andrijevica berane, 16
+PERSON, lgbt, 16
+PERSON, u eu, 15
+PERSON, mikheil saakashvili, 15
+PERSON, adolf hitler, 14
+PERSON, joe biden, 14
+PERSON, bellingcat, 14
+PERSON, donald, 13
+PERSON, theresa, 13
+PERSON, notre, 12
+PERSON, bellingcat antirussian, 12
+PERSON, emmanuel macron, 11
+PERSON, nadiya savchenko, 11
+PERSON, barack obama, 10
+PERSON, russia vladimir putin, 10
+PERSON, ukraine antirussian, 10
+PERSON, maria zakharova, 9
+PERSON, kaliningrad, 8
+PERSON, mueller, 8
+PERSON, volodymyr zelenskyy, 8
+PERSON, boris johnson, 8
+PERSON, brexit, 8
+PERSON, sergey skripal, 8
+PERSON, clinton, 8
+PERSON, federica mogherini, 8
+PERSON, francis, 8
+PERSON, chisinau dereck j hogan, 7
+PERSON, hogan, 7
+PERSON, azov, 7
+PERSON, johan bäckman, 7
+PERSON, viktor yanukovych u, 7
+PERSON, mikhail khodorkovsky, 7
+PERSON, igor druz, 7
+PERSON, john bolton, 6
+PERSON, hayat tahrir alsham, 6
+PERSON, kуiv, 6
+PERSON, sergei skripal, 6
+PERSON, mike pompeo, 6
+PERSON, orthodoxy tbilisi, 6
+PERSON, drang nach osten, 6
+PERSON, reich, 6
+PERSON, yulia, 6
+PERSON, jens stoltenberg, 6
+PERSON, roberto travan moment, 6
+PERSON, kamchatka chukotka, 6
+PERSON, poroshenkos, 6
+PERSON, zbigniew brzezinski, 6
+PERSON, victoria nuland vladislav surkov vladimir putin, 6
+PERSON, john mccain, 5
+PERSON, james baker, 5
+PERSON, nicolas maduro, 5
+PERSON, robert muellers, 5
+PERSON, maia sandu, 5
+PERSON, sandus, 5
+PERSON, walter hallstein, 5
+PERSON, azov sea, 5
+PERSON, sergei yulia, 5
+PERSON, jeanclaude juncker, 5
+PERSON, alexander litvinenko, 5
+PERSON, ukraine oleksandr turchynov, 5
+PERSON, nato eu, 5
+PERSON, viktor yanukovych, 5
+PERSON, arsen pavlov, 5
+PERSON, jo cox, 5
+PERSON, edward snowden, 5
+PERSON, bohuslav sobotka, 5
+PERSON, meps, 4
+PERSON, alexei, 4
+PERSON, uncle sam, 4
+PERSON, rothschild, 4
+PERSON, andrzej duda, 4
+PERSON, gorbachev, 4
+PERSON, mikhail gorbachev, 4
+PERSON, kurapaty, 4
+PERSON, ukraine kurt, 4
+PERSON, medvedev zelenskiy, 4
+PERSON, pau, 4
+PERSON, erdogan, 4
+PERSON, nadia smereka, 4
+PERSON, pablo miller, 4
+PERSON, maria butina, 4
+PERSON, james le, 4
+PERSON, nogo zone, 4
+PERSON, arseniy, 4
+PERSON, frankwalter steinmeier, 4
+PERSON, zeman, 4
+PERSON, leonid kravchuk, 4
+PERSON, boris nemtsov, 4
+PERSON, stanislav baretsky, 4
+PERSON, baretsky, 4
+
+LOC, europe, 581
+LOC, eastern europe, 40
+LOC, middle east, 28
+LOC, western europe, 17
+LOC, africa, 14
+LOC, u europe, 7
+LOC, asia, 7
+LOC, latin america, 7
+LOC, europe west, 6
+LOC, north ossetia, 6
+LOC, baltic sea, 5
+LOC, europe north america, 5
+LOC, balkan, 4
+LOC, east ukraine, 4
+LOC, russia europe confirmed, 4
+LOC, kherson, 4
+LOC, war east ukraine, 4
+LOC, north atlantic, 3
+LOC, ukraine europe, 3
+LOC, north atlantic alliance, 3
+LOC, russia europe, 3
+LOC, europe europe, 2
+LOC, sakhalin island kremlin, 2
+LOC, mediterranean, 2
+LOC, south china sea, 2
+LOC, u west, 2
+LOC, u eastern europe, 2
+LOC, south america, 2
+LOC, u middle east, 2
+LOC, mediterranean sea, 2
+LOC, u empire u, 2
+LOC, black sea blast, 2
+LOC, turkey odessa, 2
+LOC, europe kyiv, 1
+LOC, russia europe alliance, 1
+LOC, dresden east, 1
+LOC, u europe baltic, 1
+LOC, east south, 1
+LOC, asia u embassy, 1
+LOC, west ally, 1
+LOC, horde middle east north, 1
+LOC, europe u dictatorship minority, 1
+LOC, west kyivs, 1
+LOC, africa east, 1
+LOC, asia signal, 1
+LOC, caribbean, 1
+LOC, america europe, 1
+LOC, paul europe, 1
+LOC, men europe big roman bishop, 1
+LOC, west rosneft, 1
+LOC, north atlantic alliance black sea, 1
+LOC, europe finland czech republic organizing, 1
+LOC, middle east north africa thousand, 1
+LOC, western halfmoon, 1
+LOC, central europe, 1
+LOC, turkish republic, 1
+LOC, islam europe crucial, 1
+LOC, europe day, 1
+LOC, africa europe, 1
+LOC, africa middle east, 1
+LOC, south ossetian, 1
+LOC, west nile, 1
+LOC, biathletes sweden, 1
+LOC, central europe ukrainian, 1
+LOC, sniper, 1
+LOC, eastern europe baltic, 1
+LOC, baltic poland russophobic rhetoric west, 1
+LOC, scandinavia, 1
+LOC, eastern bloc, 1
+LOC, eastern city donetsk, 1
+LOC, 911 europe, 1
+LOC, hitler america, 1
+LOC, north atlantic treaty, 1
+LOC, marina, 1
+LOC, western europe western europe, 1
+LOC, west building, 1
+LOC, europe nato west, 1
+LOC, europe kiev, 1
+LOC, west russophobic, 1
+LOC, usa europe, 1
+LOC, mediterranean coast, 1
+LOC, bhutan kashmir indianpakistan conflict civil war afghanistan, 1
+LOC, middle east europe, 1
+LOC, europa europe, 1
+LOC, europe georgia, 1
+LOC, africa siberia u, 1
+LOC, siberia, 1
+LOC, mass middle east, 1
+LOC, eastern europe nato, 1
+LOC, sharia west, 1
+LOC, south russia, 1
+LOC, north peninsula, 1
+LOC, west russia, 1
+LOC, atlantic, 1
+LOC, mh17 usa, 1
+LOC, ukraine west organized, 1
+LOC, west east, 1
+LOC, eritrean europe u, 1
+
+NORP, russian, 1714
+NORP, ukrainian, 753
+NORP, european, 527
+NORP, american, 460
+NORP, belarusian, 254
+NORP, german, 200
+NORP, syrian, 199
+NORP, czech, 189
+NORP, british, 186
+NORP, nazi, 176
+NORP, soviet, 151
+NORP, baltic, 147
+NORP, georgian, 111
+NORP, crimean, 95
+NORP, french, 88
+NORP, muslim, 84
+NORP, swedish, 67
+NORP, islamic, 66
+NORP, nbsp, 63
+NORP, dutch, 60
+NORP, lithuanian, 54
+NORP, serbian, 48
+NORP, finnish, 44
+NORP, christian, 43
+NORP, romanian, 37
+NORP, arab, 36
+NORP, turkish, 36
+NORP, isi, 35
+NORP, estonian, 32
+NORP, bulgarian, 32
+NORP, eurasian, 30
+NORP, polish, 29
+NORP, malaysian, 27
+NORP, albanian, 27
+NORP, latvian, 27
+NORP, hungarian, 27
+NORP, tatar, 26
+NORP, african, 25
+NORP, democrat, 24
+NORP, austrian, 24
+NORP, sevastopol, 24
+NORP, italian, 22
+NORP, armenian, 21
+NORP, aleppo, 20
+NORP, venezuelan, 18
+NORP, chinese, 17
+NORP, islamist, 16
+NORP, jewish, 15
+NORP, israeli, 15
+NORP, norwegian, 15
+NORP, spanish, 14
+NORP, saudi, 13
+NORP, slovak, 12
+NORP, canadian, 11
+NORP, macedonian, 10
+NORP, neonazi, 10
+NORP, ussr, 9
+NORP, stalin, 9
+NORP, english, 9
+NORP, orthodox, 9
+NORP, bolivian, 9
+NORP, abkhazia, 8
+NORP, ukraine russian, 8
+NORP, scandinavian, 8
+NORP, republican, 8
+NORP, iranian, 7
+NORP, serb, 7
+NORP, catholic, 7
+NORP, western european, 7
+NORP, slavic, 7
+NORP, asf eastern europe, 7
+NORP, australian, 7
+NORP, iraqi, 7
+NORP, communist, 7
+NORP, srebrenica, 6
+NORP, antichristian, 6
+NORP, balkan, 6
+NORP, sergei, 6
+NORP, arabic, 6
+NORP, russian eastern, 6
+NORP, kurdish, 6
+NORP, bosnian, 5
+NORP, asian, 5
+NORP, zelenskyys, 5
+NORP, east ukrainian, 5
+NORP, palestinian, 5
+NORP, swiss, 5
+NORP, danish, 5
+NORP, wwii, 5
+NORP, ukranian, 5
+NORP, zionist, 4
+NORP, latin american, 4
+NORP, persian, 4
+NORP, islam, 4
+NORP, europe european, 4
+NORP, afghan, 4
+NORP, ukraine american, 4
+NORP, russian syrian, 4
+NORP, latin alphabet, 4
+NORP, odessa, 4
+
+ORG, eu, 765
+ORG, nato, 734
+ORG, united state, 177
+ORG, nbsp, 158
+ORG, european union, 103
+ORG, cia, 96
+ORG, un, 53
+ORG, osce, 48
+ORG, kremlin, 43
+ORG, pentagon, 43
+ORG, crimea, 34
+ORG, ukrainian authority, 34
+ORG, ukrainian army, 22
+ORG, maidan, 20
+ORG, ukraine petro, 20
+ORG, al qaeda, 19
+ORG, eu nato, 17
+ORG, visa, 17
+ORG, isi, 17
+ORG, u state department, 16
+ORG, berane nato, 16
+ORG, notre, 16
+ORG, nbsp nbsp, 15
+ORG, u, 15
+ORG, reuters, 14
+ORG, boeing, 14
+ORG, european commission, 14
+ORG, white house, 13
+ORG, eastern ukraine, 13
+ORG, ukrainian navy, 12
+ORG, bbc, 12
+ORG, syria nato, 12
+ORG, abkhazia south ossetia, 11
+ORG, su24, 11
+ORG, nato eu, 10
+ORG, cnn, 10
+ORG, u embassy, 10
+ORG, douma syria, 10
+ORG, kgb, 10
+ORG, mariupol, 9
+ORG, sergei skripal, 9
+ORG, american troop, 9
+ORG, un general assembly, 9
+ORG, islam, 9
+ORG, russian institute, 9
+ORG, russian air force, 8
+ORG, ukraine nbsp, 8
+ORG, wada, 8
+ORG, russophobia, 8
+ORG, u troop, 8
+ORG, notre dame de paris, 8
+ORG, mi6, 8
+ORG, ukrainian armed force, 8
+ORG, eastern partnership, 7
+ORG, sputnik estonia, 7
+ORG, euromaidan, 7
+ORG, annexation crimea, 7
+ORG, european union nato, 7
+ORG, ukrainian security, 7
+ORG, sbu, 7
+ORG, nato european union, 7
+ORG, united nation, 7
+ORG, un security council, 7
+ORG, united state america u, 7
+ORG, syria ukraine, 7
+ORG, andriy parubiy, 7
+ORG, eastern vanguard nato baltic, 7
+ORG, u navy, 7
+ORG, u medium report obama administration plan occupy, 7
+ORG, motorola, 7
+ORG, petro proshenkos chocolate company, 7
+ORG, south ossetia, 6
+ORG, u air force, 6
+ORG, u department, 6
+ORG, fbi, 6
+ORG, united state europe, 6
+ORG, mariupol eastern ukraine, 6
+ORG, presidium supreme council, 6
+ORG, u nato, 6
+ORG, control european union, 6
+ORG, koenigsberg murmansk region, 6
+ORG, isi fighter, 6
+ORG, norway barnevernet norway institution, 6
+ORG, swedish navy, 6
+ORG, national academy ground force, 6
+ORG, g7, 5
+ORG, sputnik lithuania sputnik latvia, 5
+ORG, united state america, 5
+ORG, usa nato, 5
+ORG, kerch, 5
+ORG, citizen european union, 5
+ORG, ukraine state security, 5
+ORG, mh370, 5
+ORG, u senate, 5
+ORG, ukraine corrupt country, 5
+ORG, u army, 5
+ORG, eu integration cooperation, 5
+ORG, border european union ukraine border service fully, 5
+ORG, frontex ukrainian, 5
+ORG, al jazeera, 5
+
+ORDINAL, first, 162
+ORDINAL, second, 70
+ORDINAL, third, 61
+ORDINAL, fifth, 15
+ORDINAL, 80th, 11
+ORDINAL, fourth, 10
+ORDINAL, 9th, 7
+ORDINAL, 4th, 6
+ORDINAL, firstly, 5
+ORDINAL, 53rd, 4
+ORDINAL, 2nd, 4
+ORDINAL, 75th, 4
+ORDINAL, 223rd, 3
+ORDINAL, secondly, 3
+ORDINAL, 3rd, 3
+ORDINAL, 11th, 3
+ORDINAL, 8th, 3
+ORDINAL, 70th, 2
+ORDINAL, 73rd, 2
+ORDINAL, 16th, 2
+ORDINAL, 6th, 2
+ORDINAL, 156th, 2
+ORDINAL, 57th, 2
+ORDINAL, 74th, 2
+ORDINAL, 10th, 1
+ORDINAL, 5th, 1
+ORDINAL, 76th, 1
+ORDINAL, 82nd, 1
+ORDINAL, 79th, 1
+ORDINAL, 21st, 1
+ORDINAL, 41st, 1
+ORDINAL, 14th, 1
+ORDINAL, 51st, 1
+ORDINAL, 1st, 1
+ORDINAL, sixth, 1
+
+DATE, 2014, 164
+DATE, today, 105
+DATE, week, 56
+DATE, last week, 52
+DATE, april 2018, 35
+DATE, february 2014, 31
+DATE, last year, 25
+DATE, 2020, 20
+DATE, march 2014, 18
+DATE, five year, 17
+DATE, 1990, 17
+DATE, 2018, 16
+DATE, 1999, 14
+DATE, 1938, 12
+DATE, two year, 12
+DATE, 1986, 11
+DATE, 15 year, 11
+DATE, 2013, 11
+DATE, recent year, 10
+DATE, year, 10
+DATE, 25 year, 10
+DATE, 2011, 9
+DATE, 2019, 9
+DATE, april 2014, 9
+DATE, christmas, 9
+DATE, november 2018, 8
+DATE, 1939, 8
+DATE, next year, 8
+DATE, 25 november 2018, 8
+DATE, 31st march 2019, 8
+DATE, several year old, 8
+DATE, 1991, 7
+DATE, february, 7
+DATE, four year, 7
+DATE, october, 7
+DATE, september, 7
+DATE, five year ago, 6
+DATE, september 2018, 6
+DATE, 5 year, 6
+DATE, several year, 6
+DATE, 30 year ago, 6
+DATE, several month, 6
+DATE, six month, 6
+DATE, daily, 6
+DATE, 11 january, 6
+DATE, 23 december, 6
+DATE, 15 december, 6
+DATE, winter, 5
+DATE, last month, 5
+DATE, august 2008, 5
+DATE, annual, 5
+DATE, 1990s, 5
+DATE, tomorrow, 5
+DATE, 17 july 2014, 5
+DATE, 1997, 5
+DATE, day, 5
+DATE, april 7 2018, 5
+DATE, 2006, 5
+DATE, august 2019, 5
+DATE, 2006 latejanuary, 5
+DATE, century, 5
+DATE, next week, 5
+DATE, several day week, 5
+DATE, 1930s, 4
+DATE, 20th century, 4
+DATE, next four year, 4
+DATE, yesterday, 4
+DATE, last five year, 4
+DATE, 18 march 2014, 4
+DATE, next month, 4
+DATE, month, 4
+DATE, 21st century, 4
+DATE, one year, 4
+DATE, year ago, 4
+DATE, march 2018, 4
+DATE, november 12 day, 4
+DATE, ukraine year ago, 4
+DATE, march 2019, 4
+DATE, 40 year, 4
+DATE, february 24th, 4
+DATE, early 1950s, 4
+DATE, summer, 4
+DATE, august, 4
+DATE, 2008, 4
+DATE, year eve, 4
+DATE, july, 4
+DATE, 14 october two, 4
+DATE, 12year, 4
+DATE, 11year, 4
+DATE, early 2000s, 4
+DATE, march 2016, 4
+DATE, 1948, 4
+DATE, january 2018, 4
+DATE, 80 year ago, 3
+DATE, past month, 3
+DATE, 1941, 3
+DATE, june 2019, 3
+DATE, 70 year, 3
+DATE, 20000 month, 3
+DATE, 2003, 3
+
+EVENT, world war ii, 31
+EVENT, world cup, 6
+EVENT, world war, 3
+EVENT, olympics, 3
+EVENT, world war iii, 3
+EVENT, world cup russia, 2
+EVENT, world war ii warsaw, 1
+EVENT, verkhovna rada, 1
+EVENT, world war ii antirussian gathering, 1
+EVENT, world war ii resolution, 1
+EVENT, world war ii museum, 1
+
+QUANTITY, 12 000, 4
+QUANTITY, 005 38773 million, 2
+QUANTITY, 82 mm, 2
+QUANTITY, 40 degree, 2
+QUANTITY, 400 km, 2
+QUANTITY, 100 tonne, 1
+QUANTITY, 500km, 1
+QUANTITY, 2500 kilometre, 1
+QUANTITY, 5 km, 1
+QUANTITY, approximately 50 ton, 1
+QUANTITY, 50 ton, 1
+QUANTITY, 40 ton, 1
+QUANTITY, 5000 euro, 1
+QUANTITY, 700 tonne, 1
+QUANTITY, 100 gram, 1
+QUANTITY, ten thousand dos, 1
+QUANTITY, one kilometre, 1
+QUANTITY, 300 meter, 1
+QUANTITY, 55 kilometre, 1
+QUANTITY, 500 ton, 1
+QUANTITY, 8000 ton, 1
+QUANTITY, 21000 czk, 1
+QUANTITY, 400 ton, 1
+QUANTITY, 200kg, 1
+QUANTITY, 2017 eurovision, 1
+QUANTITY, 5 1 izmir, 1
+QUANTITY, 5 000 euro, 1
+QUANTITY, one foot, 1
+QUANTITY, single gram flour, 1
+QUANTITY, one kilogram, 1
+QUANTITY, 10 kilometer, 1
+QUANTITY, 55 finn, 1
+QUANTITY, 7080 finn, 1
+QUANTITY, thousand kilometre, 1
+QUANTITY, 3000 isi, 1
+QUANTITY, 3 km, 1
+QUANTITY, 600km, 1
+
+FAC, deescalation zone, 5
+FAC, dpr lpr city western ukraine tradition kyiv, 4
+FAC, vatican, 2
+FAC, azov sea, 2
+FAC, kaliningrad sweden, 2
+FAC, kaliningrad, 2
+FAC, red square, 1
+FAC, rada disintegration ukrainian, 1
+FAC, kerch strait provocation, 1
+FAC, berlin wall country, 1
+FAC, u rukban, 1
+FAC, donbas east ukraine, 1
+FAC, vadim chernysh head, 1
+FAC, guantanamo, 1
+FAC, sniper, 1
+FAC, maidan square kiev west, 1
+FAC, montenegro nato, 1
+
+PRODUCT, mh17, 45
+PRODUCT, sevastopol, 6
+PRODUCT, 777, 3
+PRODUCT, assad, 3
+PRODUCT, s400, 2
+PRODUCT, mh17 catastrophe, 2
+PRODUCT, brno, 2
+PRODUCT, a321, 2
+PRODUCT, kursk, 1
+PRODUCT, 956 inhabitant sevastopol, 1
+PRODUCT, anp, 1
+PRODUCT, mh17 three, 1
+PRODUCT, normandy four, 1
+PRODUCT, maidan 3640, 1
+PRODUCT, mh17 ukraine, 1
+PRODUCT, m1, 1
+PRODUCT, f150, 1
+PRODUCT, 3quincucnidnyl benzilat bz russian, 1
+PRODUCT, battlecruiser pyotr, 1
+PRODUCT, soros nbsp, 1
+PRODUCT, abm antiballistic, 1
+PRODUCT, europe supreme, 1
+PRODUCT, anakonda, 1
+PRODUCT, fulbright, 1
+PRODUCT, siberia, 1
+PRODUCT, apache, 1
+PRODUCT, u european, 1
+
+MONEY, billion dollar, 6
+MONEY, hundred million dollar, 3
+MONEY, trillion u dollar, 2
+MONEY, around 80 bln, 2
+MONEY, 280 billion, 2
+MONEY, multibillion dollar, 2
+MONEY, million dollar, 2
+MONEY, 500 million euro, 2
+MONEY, 20 million euro, 2
+MONEY, 42 billion czk 15 billion, 2
+MONEY, 2 bln dollar, 1
+MONEY, 7 billion euro, 1
+MONEY, 300 million ruble, 1
+MONEY, 5 million swedish krona, 1
+MONEY, 50 billion eu, 1
+MONEY, ten hundred billion dollar, 1
+MONEY, 90 120 billion euro, 1
+MONEY, 380 million usd, 1
+MONEY, 9 billion usd, 1
+MONEY, 43 per cent, 1
+MONEY, 44 per cent, 1
+MONEY, 5 billion euro, 1
+MONEY, 97 billion, 1
+MONEY, 55 bln, 1
+MONEY, 2 million dollar, 1
+MONEY, 132 million 2017, 1
+MONEY, 34 billion, 1
+MONEY, 7 per cent, 1
+MONEY, 5 billion dollar, 1
+MONEY, 10 million usd 5, 1
+MONEY, 6 million euro, 1
+MONEY, trillion dollar, 1
+MONEY, usd 800 million, 1
+MONEY, 600 million dollar, 1
+MONEY, 8 billion usd, 1
+MONEY, 1 billion dollar, 1
+MONEY, 60 billion euro, 1
+MONEY, several ten billion euro, 1
+MONEY, 782 million euro, 1
+MONEY, 100 million dollar, 1
+MONEY, 140 million euro, 1
+MONEY, two million dollar, 1
+MONEY, 300000 peso, 1
+MONEY, 30000 peso, 1
+MONEY, 60 per cent, 1
+MONEY, 250 million dollar, 1
+MONEY, 333 million euro 2015, 1
+MONEY, 45 million dollar 4 million, 1
+MONEY, 98 billion dollar, 1
+MONEY, one billion u dollar, 1
+MONEY, 250 dollar, 1
+MONEY, 4 million usd, 1
+MONEY, 3 billion usd, 1
+MONEY, another billion imf, 1
+
+TIME, night, 4
+TIME, hour, 3
+TIME, several hour, 2
+TIME, several minute, 2
+TIME, early morning, 2
+TIME, seven second, 1
+TIME, 45 minute, 1
+TIME, two hour, 1
+TIME, 22 shortest night, 1
+TIME, 13am night, 1
+TIME, 15 30, 1
+TIME, working hour, 1
+TIME, half hour, 1
+TIME, evening, 1
+TIME, every night, 1
+TIME, last 48 hour, 1
+TIME, previous evening, 1
+
+PERCENT, 956 percent, 6
+PERCENT, 70 percent, 4
+PERCENT, 96 percent, 3
+PERCENT, two percent, 2
+PERCENT, 97 percent, 1
+PERCENT, 967 percent, 1
+PERCENT, 63 percent, 1
+PERCENT, 80 percent, 1
+PERCENT, 90 percent, 1
+PERCENT, 2 percent, 1
+PERCENT, 45 percent, 1
+PERCENT, 238 percent, 1
+PERCENT, 485 percent, 1
+PERCENT, 394 percent, 1
+PERCENT, 446 percent, 1
+PERCENT, 85 percent, 1
+PERCENT, 30 percent, 1
+PERCENT, 13 percent, 1
+PERCENT, 60 percent, 1
+PERCENT, nearly 96 percent, 1
+
+LAW, article 5, 3
+LAW, u quarter, 1
+LAW, article 7, 1
+LAW, article 138 ukrainian constitution, 1
+LAW, article 811 latvian, 1
+LAW, article 11, 1
+LAW, anniversary kiev liberation, 1
+LAW, victim wwii least 700000 100000 west wikipedia, 1
+LAW, article 26 freedom movement state contracting state shall, 1
+LAW, article 69, 1
+LAW, article 3 romanian territory colonized foreign population authority bucharest supporting immigration refugee measure, 1
+LAW, article 60, 1
+LAW, article 5 treaty, 1
+
+LANGUAGE, russian, 3
+LANGUAGE, arabic, 1
+LANGUAGE, english, 1
+
+WORK_OF_ART, nobel, 3
+WORK_OF_ART, tedx talk conference german university wuerzburg fighter paedophilia serbia warn, 1
+WORK_OF_ART, nobel peace, 1
+WORK_OF_ART, nobel laureate economics urge romania, 1
+WORK_OF_ART, russia usa east west, 1
+WORK_OF_ART, europe european commission, 1
+WORK_OF_ART, bible, 1
+
