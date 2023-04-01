@@ -1,0 +1,5127 @@
+GPE, russia, 2743
+GPE, crimea, 403
+GPE, syria, 367
+GPE, poland, 310
+GPE, moscow, 288
+GPE, ukraine, 254
+GPE, germany, 224
+GPE, washington, 220
+GPE, ukrainian, 195
+GPE, moldova, 192
+GPE, georgia, 179
+GPE, france, 176
+GPE, brussels, 155
+GPE, kyiv, 142
+GPE, ussr, 132
+GPE, sweden, 106
+GPE, turkey, 97
+GPE, lithuania, 90
+GPE, minsk, 88
+GPE, estonia, 85
+GPE, china, 71
+GPE, uk, 69
+GPE, romania, 69
+GPE, maidan, 68
+GPE, venezuela, 62
+GPE, latvia, 62
+GPE, britain, 61
+GPE, hungary, 59
+GPE, soviet union, 57
+GPE, usa, 55
+GPE, america, 53
+GPE, iraq, 51
+GPE, montenegro, 51
+GPE, serbia, 47
+GPE, finland, 46
+GPE, london, 45
+GPE, berlin, 41
+GPE, hong kong, 40
+GPE, iran, 40
+GPE, donbas, 40
+GPE, salisbury, 39
+GPE, paris, 38
+GPE, warsaw, 37
+GPE, nbsp, 36
+GPE, yugoslavia, 34
+GPE, austria, 34
+GPE, conflict eastern ukraine, 34
+GPE, italy, 31
+GPE, bulgaria, 29
+GPE, slovakia, 28
+GPE, saudi arabia, 27
+GPE, kosovo, 27
+GPE, israel, 26
+GPE, libya, 26
+GPE, armenia, 26
+GPE, malaysia, 25
+GPE, putin, 24
+GPE, japan, 22
+GPE, greece, 22
+GPE, bolivia, 22
+GPE, munich, 21
+GPE, norway, 21
+GPE, afghanistan, 20
+GPE, chernobyl, 19
+GPE, united kingdom, 19
+GPE, tbilisi, 18
+GPE, denmark, 16
+GPE, saakashvili, 16
+GPE, nazi germany, 15
+GPE, wwii, 14
+GPE, yulia, 14
+GPE, azerbaijan, 14
+GPE, netherlands, 13
+GPE, new york, 13
+GPE, kaliningrad, 12
+GPE, spain, 11
+GPE, brazil, 11
+GPE, lviv, 11
+GPE, qatar, 11
+GPE, belgium, 10
+GPE, kazakhstan, 10
+GPE, kaunas, 10
+GPE, slovenia, 10
+GPE, us, 9
+GPE, usa germany, 9
+GPE, istanbul, 9
+GPE, mexico, 8
+GPE, cuba, 8
+GPE, annexed, 8
+GPE, north korea, 7
+GPE, chechnya, 7
+GPE, france germany, 7
+GPE, united state, 7
+GPE, ecuador, 7
+GPE, california, 7
+GPE, panama, 7
+GPE, great britain, 7
+GPE, ngo, 7
+GPE, catalonia, 7
+GPE, rome, 6
+GPE, czechoslovakia, 6
+GPE, ussr west, 6
+GPE, belarus, 6
+GPE, skripal, 6
+GPE, argentina, 6
+GPE, west u, 6
+GPE, syria idlib, 6
+GPE, vinnytsia city, 6
+GPE, donetsk people republic, 6
+GPE, u magadan, 6
+GPE, norway karelia, 6
+GPE, kyrgyzstan, 6
+GPE, st petersburg, 5
+GPE, prague, 5
+GPE, albania, 5
+GPE, eurasia, 5
+GPE, canada, 5
+GPE, belarusrussia, 5
+GPE, bilderberg, 5
+GPE, yemen, 5
+GPE, vasily, 5
+GPE, new zealand, 5
+GPE, ireland, 5
+GPE, india, 5
+GPE, lnr, 5
+GPE, aleppo, 5
+GPE, ankara, 5
+GPE, campcamp2019, 5
+GPE, jordan, 4
+GPE, khan, 4
+GPE, australia, 4
+GPE, vietnam, 4
+GPE, west soviet union, 4
+GPE, caracas, 4
+GPE, yerevan, 4
+GPE, west integration, 4
+GPE, nicaragua, 4
+GPE, hague, 4
+GPE, alaska, 4
+GPE, ohio, 4
+GPE, kremlin, 4
+GPE, mosul, 4
+GPE, eu, 3
+GPE, beijing, 3
+GPE, wwi, 3
+GPE, west west, 3
+GPE, yalta, 3
+GPE, west germany, 3
+GPE, hong, 3
+GPE, abkhazia, 3
+GPE, vatican, 3
+GPE, england, 3
+GPE, sochi, 3
+GPE, budapest, 3
+GPE, soviet republic, 3
+GPE, saraqib, 3
+GPE, st george, 3
+GPE, anakonda18, 3
+GPE, east poland, 3
+GPE, west russophobia, 3
+GPE, gotland, 3
+GPE, western ukrainian city, 3
+GPE, kiev city, 3
+GPE, lviv ivanofrankivsk western ukrainian city, 3
+GPE, alqaeda, 3
+GPE, croatia, 3
+GPE, russia city, 3
+GPE, macedonia, 3
+GPE, ukrainian city, 3
+GPE, nuremberg, 3
+GPE, sentsov, 3
+GPE, gdr, 3
+GPE, bundeswehr, 3
+GPE, czech republic, 3
+GPE, south bessarabia, 3
+GPE, nan, 3
+GPE, stockholm, 3
+GPE, europe u, 3
+GPE, hollywood, 3
+GPE, mongolia, 3
+GPE, egypt, 3
+GPE, data, 3
+GPE, eritrea, 3
+GPE, riga, 3
+GPE, ussr germany, 2
+GPE, tallinn, 2
+GPE, tokyo, 2
+GPE, echr, 2
+GPE, poland germany, 2
+GPE, portugal, 2
+GPE, reunification, 2
+GPE, ossetia, 2
+GPE, arabia, 2
+GPE, europe united state, 2
+GPE, european city, 2
+GPE, georgia armenia, 2
+GPE, bosnia, 2
+GPE, belgrade, 2
+GPE, nevada, 2
+GPE, sudan, 2
+GPE, russia putin, 2
+GPE, shunevich, 2
+GPE, osce, 2
+GPE, spain germany, 2
+GPE, washington washington, 2
+GPE, vienna, 2
+GPE, gdansk, 2
+GPE, europe germany, 2
+GPE, north africa, 2
+GPE, prussia, 2
+GPE, netherlands turkey, 2
+GPE, east germany, 2
+GPE, u destabilisation venezuela, 2
+GPE, ukraine germany, 2
+GPE, america europe, 2
+GPE, colombia, 2
+GPE, u britain, 2
+GPE, republic, 2
+GPE, u west ukrainian, 2
+GPE, leningrad, 2
+GPE, uae, 2
+GPE, scotland, 2
+GPE, washington u, 2
+GPE, pakistan, 2
+GPE, morocco, 2
+GPE, bosnia herzegovina, 2
+GPE, syria turkey, 2
+GPE, salzburg, 2
+GPE, west israel, 2
+GPE, amesbury, 2
+GPE, south africa, 2
+GPE, kaunas county, 2
+GPE, coast crimea, 2
+GPE, ukraine city, 2
+GPE, persia, 2
+GPE, south korea, 2
+GPE, venice, 2
+GPE, korea, 2
+GPE, guatemala, 2
+GPE, south ossetian, 2
+GPE, havana, 2
+GPE, peru, 2
+GPE, holland, 2
+GPE, east africa, 2
+GPE, tel aviv, 2
+GPE, neonazi, 2
+GPE, rome city, 2
+GPE, orthodox, 2
+GPE, novorussia, 2
+GPE, sharapova, 2
+GPE, usa eu, 2
+GPE, switzerland, 2
+GPE, georgia u, 2
+GPE, medvedev, 2
+GPE, usa turkey, 2
+GPE, copenhagen, 2
+GPE, troop czech, 2
+GPE, kurdistan, 2
+GPE, bahamas, 2
+GPE, nofly zone, 2
+GPE, ramadi, 2
+GPE, isi turkey, 2
+GPE, paris berlin, 1
+GPE, ukraine ukraine, 1
+GPE, china germany, 1
+GPE, germany germany, 1
+GPE, ussr poland, 1
+GPE, pristina, 1
+GPE, prerevolutionary, 1
+GPE, south ossetia, 1
+GPE, europe united kingdom, 1
+GPE, u soviet union, 1
+GPE, potsdam, 1
+GPE, moscow united state, 1
+GPE, u poland, 1
+GPE, davos, 1
+GPE, europe united state transatlantic unity, 1
+GPE, kyoto, 1
+GPE, christchurch, 1
+GPE, guyana, 1
+GPE, london paris, 1
+GPE, ww2, 1
+GPE, ussr ukrainian space, 1
+GPE, naftogaz, 1
+GPE, turkey turkey, 1
+GPE, tanzania, 1
+GPE, east russia, 1
+GPE, rosaviatsia, 1
+GPE, kuuranne, 1
+GPE, bizec, 1
+GPE, nazi germany emerge, 1
+GPE, ussr soviet, 1
+GPE, nazi germany collective west, 1
+GPE, russia soviet union, 1
+GPE, sport jersey, 1
+GPE, north atlantic alliance, 1
+GPE, ussr ukraine, 1
+GPE, ngo u, 1
+GPE, dnr lnr, 1
+GPE, power germany, 1
+GPE, belarusianrussia, 1
+GPE, bucharest bucovina region, 1
+GPE, uzbekistan, 1
+GPE, romania u, 1
+GPE, russia eastern, 1
+GPE, petro, 1
+GPE, zelenskyi, 1
+GPE, germany u, 1
+GPE, bgm109, 1
+GPE, kong, 1
+GPE, new york time, 1
+GPE, peninsula, 1
+GPE, u germany, 1
+GPE, tehran, 1
+GPE, area eastern ukraine, 1
+GPE, bosnia herzegovina eu, 1
+GPE, republika srpska, 1
+GPE, bosnia herzegovina west, 1
+GPE, opec, 1
+GPE, chornobyl, 1
+GPE, kyiv prof ukraine, 1
+GPE, jerusalem, 1
+GPE, usa centre, 1
+GPE, lawenforcement, 1
+GPE, control, 1
+GPE, guatemala haiti, 1
+GPE, west vatican, 1
+GPE, west promotes, 1
+GPE, autonomous republic, 1
+GPE, donetsk lugansk, 1
+GPE, northern ireland, 1
+GPE, europe united state lugar, 1
+GPE, skripal united kingdom, 1
+GPE, russia theresa, 1
+GPE, sofia, 1
+GPE, usa venezuela, 1
+GPE, puerto rico, 1
+GPE, east bank, 1
+GPE, bloomberg, 1
+GPE, petro poroshenkos, 1
+GPE, west united, 1
+GPE, ukraine west, 1
+GPE, krakow, 1
+GPE, bucharest, 1
+GPE, west poland, 1
+GPE, west pretending, 1
+GPE, nazi germany culprit, 1
+GPE, crimeridden dangerous, 1
+GPE, austria slovakia, 1
+GPE, hongkong, 1
+GPE, luxembourg, 1
+GPE, united state west, 1
+GPE, uzbekistan kyrgyzstan, 1
+GPE, medium germany, 1
+GPE, aleppo province, 1
+GPE, azerbaijan turkey, 1
+GPE, new york u, 1
+GPE, united state america, 1
+GPE, dinamo, 1
+GPE, hama province, 1
+GPE, san jose, 1
+GPE, kaferzait, 1
+GPE, majlis, 1
+GPE, iceland, 1
+GPE, u united state, 1
+GPE, löfven, 1
+GPE, dublin, 1
+GPE, houston, 1
+GPE, north korea u, 1
+GPE, gothenburg, 1
+GPE, idaho, 1
+GPE, west different, 1
+GPE, philippine, 1
+GPE, militaryindustrial, 1
+GPE, russia united state, 1
+GPE, wartorn, 1
+GPE, helsinki, 1
+GPE, earlier ukraine sweden, 1
+GPE, krasnohrad city, 1
+GPE, richmond, 1
+GPE, crete hourslong, 1
+GPE, lugansk donbas, 1
+GPE, tartu, 1
+GPE, lutheran, 1
+GPE, edinburgh, 1
+GPE, tel aviv jerusalem, 1
+GPE, north africa middle east, 1
+GPE, peacekeeper, 1
+GPE, europe catalonia, 1
+GPE, world germany, 1
+GPE, west crimea, 1
+GPE, belgium belgium, 1
+GPE, chile, 1
+GPE, oregon, 1
+GPE, amsterdam, 1
+GPE, west shake, 1
+GPE, north korea west, 1
+GPE, dagestan, 1
+GPE, russophobe, 1
+GPE, donbas village, 1
+GPE, malmo, 1
+GPE, halle, 1
+GPE, refugee africa middle east, 1
+GPE, german democratic republic, 1
+GPE, europe czech republic, 1
+GPE, greenpeace, 1
+GPE, west nato, 1
+GPE, reich, 1
+GPE, yugoslavia hague, 1
+GPE, seraqeb, 1
+GPE, georgia syria, 1
+GPE, taiwan, 1
+GPE, xinjiang, 1
+GPE, tibet, 1
+GPE, madrid, 1
+GPE, europe united, 1
+GPE, turkey west, 1
+GPE, crown germany, 1
+GPE, west annexed, 1
+GPE, shahids, 1
+GPE, occupation, 1
+GPE, bandera, 1
+GPE, frankfurt, 1
+GPE, strasbourg, 1
+GPE, barbarossa germany, 1
+GPE, miami, 1
+GPE, ukraine crimea, 1
+GPE, west un, 1
+GPE, eduard, 1
+GPE, west russia, 1
+GPE, west moscow, 1
+GPE, america eu, 1
+GPE, phoenix, 1
+GPE, new york city, 1
+GPE, russia germany, 1
+GPE, new jersey, 1
+GPE, usa west, 1
+GPE, russiansrussiaputinprorussia, 1
+GPE, cleveland, 1
+GPE, europe osce, 1
+GPE, donbas eastern ukraine west, 1
+GPE, paralympic, 1
+GPE, tshirt putin, 1
+GPE, donetsk people republic minesweeper, 1
+GPE, oleg, 1
+GPE, riyadh, 1
+GPE, syria united state, 1
+GPE, savannah anselme, 1
+GPE, west london, 1
+GPE, odessa city, 1
+GPE, west necrophilia, 1
+GPE, brussels berlin, 1
+GPE, usa ukraine, 1
+GPE, baku, 1
+GPE, congo, 1
+GPE, war eastern, 1
+GPE, karadžićs, 1
+GPE, lvov, 1
+GPE, influx refugee germany, 1
+GPE, ukraine ukrainian, 1
+GPE, unicef, 1
+GPE, mexico city, 1
+GPE, turkey ukrainian, 1
+GPE, west ukraine turkey, 1
+GPE, turk, 1
+GPE, uk u, 1
+GPE, yegor kvasnyuk, 1
+GPE, europe eu fall, 1
+GPE, kharkiv ukrainian, 1
+GPE, ukraine lviv area, 1
+GPE, west kyiv, 1
+GPE, delete germany, 1
+GPE, west ukraine, 1
+GPE, intifada, 1
+GPE, cocacola, 1
+GPE, republic crimea, 1
+GPE, usa nato, 1
+GPE, bulgaria romania ukraine, 1
+GPE, isi, 1
+GPE, honduras, 1
+GPE, zvezda, 1
+GPE, wroclaw poznan, 1
+GPE, venezuela nauru, 1
+GPE, northwestern province, 1
+
+CARDINAL, one, 279
+CARDINAL, two, 179
+CARDINAL, three, 86
+CARDINAL, 2016, 63
+CARDINAL, 2, 47
+CARDINAL, four, 29
+CARDINAL, 2018, 28
+CARDINAL, 2017, 24
+CARDINAL, hundred, 22
+CARDINAL, 20, 21
+CARDINAL, 911, 18
+CARDINAL, half, 18
+CARDINAL, thousand, 18
+CARDINAL, million, 17
+CARDINAL, 200, 15
+CARDINAL, 2015, 14
+CARDINAL, s400, 14
+CARDINAL, 2019, 13
+CARDINAL, 30, 12
+CARDINAL, 70, 11
+CARDINAL, dozen, 11
+CARDINAL, five, 11
+CARDINAL, 40, 11
+CARDINAL, 90, 11
+CARDINAL, 100, 10
+CARDINAL, 10, 10
+CARDINAL, 50, 10
+CARDINAL, hundred thousand, 9
+CARDINAL, 9m729, 8
+CARDINAL, ten, 7
+CARDINAL, 22, 7
+CARDINAL, 17, 7
+CARDINAL, 73, 7
+CARDINAL, nine, 7
+CARDINAL, 3, 7
+CARDINAL, 1, 7
+CARDINAL, 100000, 7
+CARDINAL, 14, 7
+CARDINAL, 280 thousand, 7
+CARDINAL, 24, 6
+CARDINAL, seven, 6
+CARDINAL, almost half, 6
+CARDINAL, 500, 6
+CARDINAL, 5 million, 6
+CARDINAL, 18, 6
+CARDINAL, eight, 6
+CARDINAL, ten thousand, 6
+CARDINAL, 80, 6
+CARDINAL, 120, 6
+CARDINAL, 184, 6
+CARDINAL, 13, 5
+CARDINAL, 12, 5
+CARDINAL, one million, 5
+CARDINAL, six, 5
+CARDINAL, 2380, 5
+CARDINAL, 300, 5
+CARDINAL, 370, 5
+CARDINAL, 10yearold, 5
+CARDINAL, 15, 5
+CARDINAL, twenty, 5
+CARDINAL, 2024, 4
+CARDINAL, 1500, 4
+CARDINAL, 25, 4
+CARDINAL, billion, 4
+CARDINAL, 67, 4
+CARDINAL, 10 million, 4
+CARDINAL, 11, 4
+CARDINAL, 2500, 4
+CARDINAL, 28, 4
+CARDINAL, 33000, 4
+CARDINAL, one thousand, 4
+CARDINAL, 55, 4
+CARDINAL, 43, 4
+CARDINAL, 33, 4
+CARDINAL, 2021, 3
+CARDINAL, 6, 3
+CARDINAL, 19, 3
+CARDINAL, 23, 3
+CARDINAL, 3 million, 3
+CARDINAL, number one, 3
+CARDINAL, 8090, 3
+CARDINAL, 1200, 3
+CARDINAL, 600, 3
+CARDINAL, two dozen, 3
+CARDINAL, 4, 3
+CARDINAL, 180, 3
+CARDINAL, 16, 3
+CARDINAL, 97, 3
+CARDINAL, 150, 3
+CARDINAL, 27, 3
+CARDINAL, 130, 3
+CARDINAL, fifty thousand, 3
+CARDINAL, 50000, 3
+CARDINAL, batallions, 3
+CARDINAL, 6000, 2
+CARDINAL, 60 million, 2
+CARDINAL, 75, 2
+CARDINAL, 12000, 2
+CARDINAL, zero, 2
+CARDINAL, 15 million, 2
+CARDINAL, 2032, 2
+CARDINAL, 400000, 2
+CARDINAL, 1692, 2
+CARDINAL, 1 million, 2
+CARDINAL, 2000, 2
+CARDINAL, 200000, 2
+CARDINAL, 15 23, 2
+CARDINAL, 777, 2
+CARDINAL, 20212022, 2
+CARDINAL, 40 million, 2
+CARDINAL, 10000, 2
+CARDINAL, 298, 2
+CARDINAL, 13000, 2
+CARDINAL, 13 thousand, 2
+CARDINAL, 41, 2
+CARDINAL, 7, 2
+CARDINAL, 4 million, 2
+CARDINAL, 1000, 2
+CARDINAL, 956, 2
+CARDINAL, 70000, 2
+CARDINAL, almost 4 million, 2
+CARDINAL, 6 million, 2
+CARDINAL, 44 billion, 2
+CARDINAL, 40000, 2
+CARDINAL, 38, 2
+CARDINAL, 5, 2
+CARDINAL, 50 million, 2
+CARDINAL, 21, 2
+CARDINAL, nearly half, 2
+CARDINAL, 25 thousand, 2
+CARDINAL, 20 thousand, 2
+CARDINAL, 1612, 2
+CARDINAL, 2526, 2
+CARDINAL, 110, 2
+CARDINAL, 500000, 2
+CARDINAL, multibillion, 2
+CARDINAL, 62, 2
+CARDINAL, 44, 2
+CARDINAL, 3 billion, 2
+CARDINAL, 1110, 2
+CARDINAL, 30000, 2
+CARDINAL, 63, 2
+CARDINAL, 52, 2
+CARDINAL, 56 million, 2
+CARDINAL, 20000, 2
+CARDINAL, 12 billion, 2
+CARDINAL, 5 billion, 2
+CARDINAL, quarter, 2
+CARDINAL, several million, 2
+CARDINAL, 30 euro, 2
+CARDINAL, 12500, 2
+CARDINAL, 3000, 2
+CARDINAL, 360 thousand euro, 2
+CARDINAL, 500 million, 2
+CARDINAL, several thousand, 2
+CARDINAL, 10 april, 2
+CARDINAL, 981, 2
+CARDINAL, 16year, 2
+CARDINAL, 18yearold, 2
+CARDINAL, almost 20, 1
+CARDINAL, 170 million, 1
+CARDINAL, 41 million, 1
+CARDINAL, almost two, 1
+CARDINAL, 201314, 1
+CARDINAL, 400metrehigh, 1
+CARDINAL, 186metrehigh, 1
+CARDINAL, 35 35, 1
+CARDINAL, g7, 1
+CARDINAL, 1300, 1
+CARDINAL, 20142019, 1
+CARDINAL, almost 10 million, 1
+CARDINAL, several dozen, 1
+CARDINAL, 8000, 1
+CARDINAL, 8 10, 1
+CARDINAL, one least 60, 1
+CARDINAL, 8868720, 1
+CARDINAL, 540, 1
+CARDINAL, 12 16, 1
+CARDINAL, 29, 1
+CARDINAL, many thousand euro, 1
+CARDINAL, 1015000, 1
+CARDINAL, 2nd, 1
+CARDINAL, 27 billion, 1
+CARDINAL, 223, 1
+CARDINAL, 725, 1
+CARDINAL, 2023, 1
+CARDINAL, 2028, 1
+CARDINAL, 0439450, 1
+CARDINAL, 45005000, 1
+CARDINAL, 65 million, 1
+CARDINAL, 70 80, 1
+CARDINAL, 718, 1
+CARDINAL, 282, 1
+CARDINAL, 1500000, 1
+CARDINAL, couple thousand, 1
+CARDINAL, approximately 3 million, 1
+CARDINAL, undertook least seven, 1
+CARDINAL, 25 40 thousand, 1
+CARDINAL, 34 million, 1
+CARDINAL, 7 120000, 1
+CARDINAL, 45, 1
+CARDINAL, 2017 22000, 1
+CARDINAL, 58, 1
+CARDINAL, 2 billion, 1
+CARDINAL, 2018 third, 1
+CARDINAL, frants, 1
+CARDINAL, 152, 1
+CARDINAL, 157 million, 1
+CARDINAL, 4042, 1
+CARDINAL, 3436, 1
+CARDINAL, 11 billion, 1
+CARDINAL, 30 70, 1
+CARDINAL, 553, 1
+CARDINAL, 2026, 1
+CARDINAL, 1st, 1
+CARDINAL, 2 3, 1
+CARDINAL, almost half 12, 1
+CARDINAL, nearly 100, 1
+CARDINAL, 3540, 1
+CARDINAL, 3950, 1
+CARDINAL, 3415, 1
+CARDINAL, 3500, 1
+CARDINAL, 3750, 1
+CARDINAL, 85 90, 1
+CARDINAL, 11000 2018, 1
+CARDINAL, 635, 1
+CARDINAL, 48, 1
+CARDINAL, 37, 1
+CARDINAL, 32, 1
+CARDINAL, 16 million, 1
+CARDINAL, 45 million, 1
+CARDINAL, twenty eight, 1
+CARDINAL, two million, 1
+CARDINAL, fourteen, 1
+CARDINAL, 20times, 1
+CARDINAL, 64, 1
+CARDINAL, seventeen half thousand, 1
+CARDINAL, 928, 1
+CARDINAL, show least two, 1
+CARDINAL, 155, 1
+CARDINAL, 9 15, 1
+CARDINAL, 140, 1
+CARDINAL, 51, 1
+CARDINAL, 592, 1
+CARDINAL, 270 billion, 1
+CARDINAL, 21 2018, 1
+CARDINAL, 35000, 1
+CARDINAL, 157326, 1
+CARDINAL, 2035, 1
+CARDINAL, 1 half, 1
+CARDINAL, 150 thousand, 1
+CARDINAL, 49, 1
+CARDINAL, 25000, 1
+CARDINAL, 15000, 1
+CARDINAL, three million, 1
+CARDINAL, olympics, 1
+CARDINAL, 38 500, 1
+CARDINAL, ten million, 1
+CARDINAL, 8, 1
+CARDINAL, 20 million, 1
+CARDINAL, several hundred thousand, 1
+CARDINAL, almost zero, 1
+CARDINAL, half million, 1
+CARDINAL, 8869032, 1
+CARDINAL, 350 million, 1
+CARDINAL, 100 million, 1
+CARDINAL, 6327, 1
+CARDINAL, 800 euro, 1
+CARDINAL, 6 10, 1
+CARDINAL, 39page, 1
+CARDINAL, 43 million euro, 1
+CARDINAL, 25year, 1
+CARDINAL, 500 million euro, 1
+CARDINAL, 50 100, 1
+CARDINAL, 70 million, 1
+CARDINAL, ten hundred thousand, 1
+CARDINAL, 2030, 1
+CARDINAL, fifty, 1
+CARDINAL, billion euro, 1
+CARDINAL, 1520, 1
+CARDINAL, 98, 1
+CARDINAL, 15ton, 1
+CARDINAL, death hundred thousand, 1
+CARDINAL, 150000, 1
+CARDINAL, 16months, 1
+CARDINAL, 35, 1
+CARDINAL, 20162017, 1
+CARDINAL, 9, 1
+CARDINAL, 7 million, 1
+CARDINAL, 9 million, 1
+CARDINAL, 11 million, 1
+CARDINAL, 35 million euro, 1
+CARDINAL, 5000kilometer, 1
+CARDINAL, 19year, 1
+CARDINAL, 26, 1
+CARDINAL, 56 thousand, 1
+CARDINAL, 700, 1
+CARDINAL, 17yearold, 1
+CARDINAL, 2022, 1
+CARDINAL, 28 million, 1
+CARDINAL, 50 30 million, 1
+CARDINAL, 31 12, 1
+CARDINAL, 3600, 1
+CARDINAL, 700000, 1
+CARDINAL, 250000, 1
+CARDINAL, 168, 1
+CARDINAL, multimillion, 1
+CARDINAL, 300km, 1
+CARDINAL, 89, 1
+CARDINAL, 148, 1
+CARDINAL, 176, 1
+CARDINAL, 48 47, 1
+CARDINAL, number 1, 1
+CARDINAL, 5000, 1
+CARDINAL, s300, 1
+CARDINAL, 65, 1
+CARDINAL, 90ies, 1
+CARDINAL, obamas, 1
+CARDINAL, three thousand, 1
+CARDINAL, 160, 1
+CARDINAL, almost eight, 1
+CARDINAL, one billion, 1
+CARDINAL, five thousand, 1
+CARDINAL, four thousand, 1
+CARDINAL, 1751, 1
+CARDINAL, 17 april, 1
+CARDINAL, 600000, 1
+CARDINAL, 1180, 1
+CARDINAL, 1917, 1
+CARDINAL, 56, 1
+CARDINAL, bos, 1
+CARDINAL, soros, 1
+CARDINAL, 9000, 1
+CARDINAL, 13yearold, 1
+CARDINAL, roughly sixth, 1
+CARDINAL, fought thousand, 1
+CARDINAL, 910, 1
+CARDINAL, 114, 1
+CARDINAL, 60, 1
+CARDINAL, 277, 1
+CARDINAL, 819, 1
+CARDINAL, 355, 1
+CARDINAL, heavenly hundred, 1
+CARDINAL, 286, 1
+CARDINAL, 1944, 1
+
+PERSON, vladimir putin, 70
+PERSON, putin, 61
+PERSON, george soros, 56
+PERSON, angela merkel, 46
+PERSON, hillary clinton, 46
+PERSON, donald trump, 39
+PERSON, robert mueller, 30
+PERSON, moldovan, 27
+PERSON, soros, 18
+PERSON, barrack, 17
+PERSON, andrijevica berane, 16
+PERSON, lgbt, 16
+PERSON, u eu, 15
+PERSON, mikheil saakashvili, 15
+PERSON, adolf hitler, 14
+PERSON, joe biden, 14
+PERSON, bellingcat, 14
+PERSON, donald, 13
+PERSON, theresa, 13
+PERSON, notre, 12
+PERSON, bellingcat antirussian, 12
+PERSON, emmanuel macron, 11
+PERSON, nadiya savchenko, 11
+PERSON, barack obama, 10
+PERSON, russia vladimir putin, 10
+PERSON, ukraine antirussian, 10
+PERSON, maria zakharova, 9
+PERSON, kaliningrad, 8
+PERSON, mueller, 8
+PERSON, volodymyr zelenskyy, 8
+PERSON, boris johnson, 8
+PERSON, brexit, 8
+PERSON, sergey skripal, 8
+PERSON, clinton, 8
+PERSON, federica mogherini, 8
+PERSON, francis, 8
+PERSON, chisinau dereck j hogan, 7
+PERSON, hogan, 7
+PERSON, azov, 7
+PERSON, johan bäckman, 7
+PERSON, viktor yanukovych u, 7
+PERSON, mikhail khodorkovsky, 7
+PERSON, igor druz, 7
+PERSON, john bolton, 6
+PERSON, hayat tahrir alsham, 6
+PERSON, kуiv, 6
+PERSON, sergei skripal, 6
+PERSON, mike pompeo, 6
+PERSON, orthodoxy tbilisi, 6
+PERSON, drang nach osten, 6
+PERSON, reich, 6
+PERSON, yulia, 6
+PERSON, jens stoltenberg, 6
+PERSON, roberto travan moment, 6
+PERSON, kamchatka chukotka, 6
+PERSON, poroshenkos, 6
+PERSON, zbigniew brzezinski, 6
+PERSON, victoria nuland vladislav surkov vladimir putin, 6
+PERSON, john mccain, 5
+PERSON, james baker, 5
+PERSON, nicolas maduro, 5
+PERSON, robert muellers, 5
+PERSON, maia sandu, 5
+PERSON, sandus, 5
+PERSON, walter hallstein, 5
+PERSON, azov sea, 5
+PERSON, sergei yulia, 5
+PERSON, jeanclaude juncker, 5
+PERSON, alexander litvinenko, 5
+PERSON, ukraine oleksandr turchynov, 5
+PERSON, nato eu, 5
+PERSON, viktor yanukovych, 5
+PERSON, arsen pavlov, 5
+PERSON, jo cox, 5
+PERSON, edward snowden, 5
+PERSON, bohuslav sobotka, 5
+PERSON, meps, 4
+PERSON, alexei, 4
+PERSON, uncle sam, 4
+PERSON, rothschild, 4
+PERSON, andrzej duda, 4
+PERSON, gorbachev, 4
+PERSON, mikhail gorbachev, 4
+PERSON, kurapaty, 4
+PERSON, ukraine kurt, 4
+PERSON, medvedev zelenskiy, 4
+PERSON, pau, 4
+PERSON, erdogan, 4
+PERSON, nadia smereka, 4
+PERSON, pablo miller, 4
+PERSON, maria butina, 4
+PERSON, james le, 4
+PERSON, nogo zone, 4
+PERSON, arseniy, 4
+PERSON, frankwalter steinmeier, 4
+PERSON, zeman, 4
+PERSON, leonid kravchuk, 4
+PERSON, boris nemtsov, 4
+PERSON, stanislav baretsky, 4
+PERSON, baretsky, 4
+PERSON, wayne madsen, 4
+PERSON, greta thunberg, 4
+PERSON, alfred kinsey, 4
+PERSON, sergei lavrov, 3
+PERSON, ukraine eu, 3
+PERSON, welle, 3
+PERSON, netanyahu, 3
+PERSON, zelensky, 3
+PERSON, nathalie loiseau, 3
+PERSON, uladzimir makey, 3
+PERSON, kolomoisky, 3
+PERSON, eu u, 3
+PERSON, ukraine volodymyr zelensky, 3
+PERSON, verkhovna rada, 3
+PERSON, julian assange, 3
+PERSON, volodymyr zelensky, 3
+PERSON, abu bakr, 3
+PERSON, sergey fedotov, 3
+PERSON, donald tusk, 3
+PERSON, russophobia wada, 3
+PERSON, andrej babiš, 3
+PERSON, dpr serviceman, 3
+PERSON, vladimir zhirinovsky, 3
+PERSON, andrey marochko, 3
+PERSON, mladan kirilov, 3
+PERSON, anna politkovskaya, 3
+PERSON, a234, 3
+PERSON, osama bin laden, 3
+PERSON, john scarlett, 3
+PERSON, van der bellen, 3
+PERSON, barack, 3
+PERSON, anders fogh, 3
+PERSON, bundestag, 3
+PERSON, gorbachev nato, 3
+PERSON, mark ozolinych, 3
+PERSON, genghis khan, 3
+PERSON, francois hollande, 3
+PERSON, hollande, 3
+PERSON, ukraine geoffrey pyatt, 3
+PERSON, ivan aleksey, 3
+PERSON, dunford, 3
+PERSON, scalia, 3
+PERSON, vladimir putin donald, 3
+PERSON, antonin scalia, 3
+PERSON, david icke, 3
+PERSON, hunter biden, 3
+PERSON, nadia savchenko, 3
+PERSON, yuri trutnev, 3
+PERSON, lutz bachman wearing tshirt, 3
+PERSON, boiko borissov, 3
+PERSON, michael jackson, 3
+PERSON, john mcmurtry, 3
+PERSON, new bailin, 3
+PERSON, andrew donoghue, 3
+PERSON, ukrainian buk, 3
+PERSON, tahrir alsham, 2
+PERSON, sputnik rt, 2
+PERSON, prometheus, 2
+PERSON, milo zeman, 2
+PERSON, bin laden, 2
+PERSON, rasmussen, 2
+PERSON, john boltons, 2
+PERSON, welfare moldovan, 2
+PERSON, sergei fomin, 2
+PERSON, david rockefeller, 2
+PERSON, richard lugar, 2
+PERSON, svetlana alexievich, 2
+PERSON, vatican moscow, 2
+PERSON, kasciushka kalinowski, 2
+PERSON, kondrasevich belarusian roman catholic, 2
+PERSON, vladimir putin alyaksandr lukashenka, 2
+PERSON, biden, 2
+PERSON, lgbt flag, 2
+PERSON, lukashenko putin, 2
+PERSON, joseph goebbels, 2
+PERSON, viktor yanukovich, 2
+PERSON, andrei, 2
+PERSON, fiona gibb, 2
+PERSON, greta, 2
+PERSON, mikhail saakashvili, 2
+PERSON, jit, 2
+PERSON, jawad bendaoud, 2
+PERSON, teresa lrem, 2
+PERSON, victoria nuland, 2
+PERSON, bessarabia, 2
+PERSON, khangoshvilis, 2
+PERSON, sputnik estonia, 2
+PERSON, paul manafort, 2
+PERSON, alyaksandr lukashenka, 2
+PERSON, george washington, 2
+PERSON, joseph stalin lavrentiy, 2
+PERSON, thomas jefferson, 2
+PERSON, mikheil saakashvilis, 2
+PERSON, kalinowski belarusian, 2
+PERSON, cherry russophobic cake ukraine, 2
+PERSON, douma resident, 2
+PERSON, selfproclaimed luhansk people republic, 2
+PERSON, zone eastern ukraine, 2
+PERSON, rammstein, 2
+PERSON, juan guaido, 2
+PERSON, kurt volker, 2
+PERSON, austriahungary german reich, 2
+PERSON, aleksandr, 2
+PERSON, alexandria ocasiocortez greta, 2
+PERSON, yulia sergey skripal, 2
+PERSON, robert schuman jean monnet, 2
+PERSON, anders fogh rasmussen, 2
+PERSON, madeleine albright, 2
+PERSON, johnson, 2
+PERSON, ben hodges, 2
+PERSON, john richardson, 2
+PERSON, alexander lukashenko, 2
+PERSON, leningrad, 2
+PERSON, venezuela eu, 2
+PERSON, christophe gomart, 2
+PERSON, bezsonov, 2
+PERSON, sputnik cia, 2
+PERSON, vesti, 2
+PERSON, sergei magnitsky, 2
+PERSON, william browder, 2
+PERSON, u georgian, 2
+PERSON, donbas kiev, 2
+PERSON, boris berezovsky badri patarkatsishvili, 2
+PERSON, berezovsky, 2
+PERSON, bartholomew, 2
+PERSON, salisbury amesbury, 2
+PERSON, alexander petrov ruslan boshirov, 2
+PERSON, angela merkel background, 2
+PERSON, igor korotchenko, 2
+PERSON, duma, 2
+PERSON, anatoly aksakov, 2
+PERSON, nikolai parshin, 2
+PERSON, richard g lugar center public health, 2
+PERSON, sandarmokh karelia, 2
+PERSON, jisr alshughour, 2
+PERSON, interview rtl german, 2
+PERSON, javelin antitank, 2
+PERSON, turchynov, 2
+PERSON, sergei, 2
+PERSON, krymkongress rustam, 2
+PERSON, peter marček, 2
+PERSON, roman busch, 2
+PERSON, konashenkov, 2
+PERSON, ursula von der, 2
+PERSON, margaret thatcher, 2
+PERSON, bilderberg, 2
+PERSON, jit bellingcat, 2
+PERSON, kim jongun, 2
+PERSON, buk, 2
+PERSON, eu eu, 2
+PERSON, nikita khrushchev, 2
+PERSON, hassan diab, 2
+PERSON, empress catherine, 2
+PERSON, hitler mein kampf, 2
+PERSON, harry potter, 2
+PERSON, gina haspel, 2
+PERSON, cia, 2
+PERSON, donetsk lugansk, 2
+PERSON, estonia sven mikser, 2
+PERSON, konrad szymański, 2
+PERSON, denis, 2
+PERSON, zagan, 2
+PERSON, kalinowski, 2
+PERSON, elizabeth ii, 2
+PERSON, khan sheikhoun, 2
+PERSON, rex tillerson, 2
+PERSON, george soross, 2
+PERSON, eurovision song, 2
+PERSON, mark rutte, 2
+PERSON, mario improta known marione, 2
+PERSON, un vitaly churkin, 2
+PERSON, john podesta, 2
+PERSON, george soros ngo, 2
+PERSON, interior ukraine, 2
+PERSON, anatoly vinogrodsky, 2
+PERSON, mejlis, 2
+PERSON, napoleon hitler, 2
+PERSON, moldovan politician mihai, 2
+PERSON, victor yanukovychs, 2
+PERSON, donald trump appearance, 2
+PERSON, arseniy yatsenyuk, 2
+PERSON, lindemann, 2
+PERSON, soros brexit, 2
+PERSON, russophobia antirussian, 2
+PERSON, paul craig robert stephen cohen philip giraldi ray mcgovern, 2
+PERSON, mep jo cox, 2
+PERSON, donald trump mentally, 2
+PERSON, george h w bush, 2
+PERSON, rasmussen jens stoltenberg, 2
+PERSON, donald cook, 2
+PERSON, obama overthrew yanukovychs, 2
+PERSON, doug laux, 2
+PERSON, bashar alassad, 2
+PERSON, chancellor angela merkel, 2
+PERSON, bill browder, 2
+PERSON, nadiya savchenko serving aidar battalion, 2
+PERSON, kiska, 2
+PERSON, kill vladimir putin, 2
+PERSON, recep tayyip erdogan anniversary, 2
+PERSON, mark zuckerberg, 2
+PERSON, tom curley, 2
+PERSON, yaakov margi, 2
+PERSON, nikolai starikov, 2
+PERSON, mustafa dzhemilev, 2
+PERSON, u turkey, 2
+PERSON, majlis, 2
+PERSON, boris gryzlov, 2
+PERSON, kristalina, 2
+PERSON, vladimir putin bild, 2
+PERSON, ivan mazepa cossack hetman, 2
+PERSON, stepan bandera, 2
+PERSON, azov batallion, 2
+PERSON, vlad kolesnikov, 2
+PERSON, angela merkel barack, 2
+PERSON, recep erdogan, 2
+PERSON, bashar assad, 2
+PERSON, ded moroz, 2
+PERSON, defense sergey shoigu head, 2
+PERSON, ukraine ukrainian, 2
+PERSON, recep tayyip erdogans, 2
+PERSON, david cameron, 2
+PERSON, ruslan, 2
+PERSON, hunter biden burisma, 2
+PERSON, burisma biden, 2
+PERSON, sergey kurchenko, 2
+PERSON, nikolai zlochevski, 2
+PERSON, vasyl slipak, 2
+PERSON, emmanuel macron angela merkel, 1
+PERSON, jeffrey harrigian, 1
+PERSON, marshall konev, 1
+PERSON, buk missile, 1
+PERSON, allrussian community, 1
+PERSON, emanuel macron, 1
+PERSON, joseph v stalin, 1
+PERSON, finn german, 1
+PERSON, pompeo u, 1
+PERSON, bashar alassad moscow, 1
+PERSON, pathology russophobia, 1
+PERSON, neville chamberlain, 1
+PERSON, chamberlain, 1
+PERSON, uk brexit, 1
+PERSON, luciferian antichristian antireligion globalist, 1
+PERSON, oksana, 1
+PERSON, volodymyr zelenskyys, 1
+PERSON, mark carney, 1
+PERSON, mordor russia, 1
+PERSON, vienna karl, 1
+PERSON, schwartz, 1
+PERSON, johnson yeung chingyin, 1
+PERSON, hong kongs, 1
+PERSON, vladimir tsemakh, 1
+PERSON, john hopkins, 1
+PERSON, banderovtsy ukrainian, 1
+PERSON, christian bible, 1
+PERSON, banderovtsy kaczynski, 1
+PERSON, jit ukraine nbsp, 1
+PERSON, rothschild warburg, 1
+PERSON, alexey zhuravko, 1
+PERSON, ukraine stepan poltorak, 1
+PERSON, beslan, 1
+PERSON, lisbon vladivostok, 1
+PERSON, vladimir putin messiah, 1
+PERSON, ci, 1
+PERSON, ukraine ci, 1
+PERSON, u interfering, 1
+PERSON, maidan eu, 1
+PERSON, belarus, 1
+PERSON, konrad adenauer, 1
+PERSON, vitali klitschko, 1
+PERSON, yulia ivanova, 1
+PERSON, michael byden, 1
+PERSON, joseph stalin, 1
+PERSON, josef stalin, 1
+PERSON, andrei timiskov, 1
+PERSON, asfv nodular, 1
+PERSON, neil basu, 1
+PERSON, montenegro milo, 1
+PERSON, reagan, 1
+PERSON, mh17, 1
+PERSON, yelena, 1
+PERSON, berdyansk nikopol yany, 1
+PERSON, kapu, 1
+PERSON, anna fotyga, 1
+PERSON, lisbon vladivostok war russia, 1
+PERSON, lgbt community flag, 1
+PERSON, neil armstrong buzz aldrin, 1
+PERSON, brian patrick kane, 1
+PERSON, oleg stortchevoy, 1
+PERSON, terence wan, 1
+PERSON, cohen denmark bruno, 1
+PERSON, andrea gotzmann germany, 1
+PERSON, jenny schulze sweden lorraine turner, 1
+PERSON, peter van, 1
+PERSON, donald trump joe biden, 1
+PERSON, ihar shunevich, 1
+PERSON, henry kissinger, 1
+PERSON, wallace kennedy, 1
+PERSON, mike rogers, 1
+PERSON, ursula von der leyens track, 1
+PERSON, brexit washington, 1
+PERSON, black azov, 1
+PERSON, josep borrell, 1
+PERSON, maidan revolution kyiv, 1
+PERSON, u theresa, 1
+PERSON, mike carpenter, 1
+PERSON, ukraine volodymyr zelenskyy, 1
+PERSON, zhukov, 1
+PERSON, postmaidan ukraine, 1
+PERSON, alexandria ocasiocortez, 1
+PERSON, zone eastern, 1
+PERSON, bri bris, 1
+PERSON, jamal khashoggi, 1
+PERSON, abdelhamid abaaoud, 1
+PERSON, arabic somali dari, 1
+PERSON, madame loiseau, 1
+PERSON, nathalie loiseaus, 1
+PERSON, joe biden u, 1
+PERSON, concert george soross, 1
+PERSON, radensk village kherson, 1
+PERSON, moldovan breakaway, 1
+PERSON, gdr baker, 1
+PERSON, azov kyiv, 1
+PERSON, azov battalion, 1
+PERSON, salvini, 1
+PERSON, armenia soros, 1
+PERSON, zelenskyys, 1
+PERSON, lbgt, 1
+PERSON, dimitri olga, 1
+PERSON, ukraine socalled, 1
+PERSON, mateusz piskorski, 1
+PERSON, kazakhstan kassymjomart, 1
+PERSON, selfproclaimed donetsk luhansk republic, 1
+PERSON, georgiy zhukov, 1
+PERSON, le antirussian, 1
+PERSON, antirussian, 1
+PERSON, allrussian soviet, 1
+PERSON, heiko maas, 1
+PERSON, nbsp, 1
+PERSON, buk series jit, 1
+PERSON, zelimkhan khangoshvili, 1
+PERSON, austria sebastian kurz, 1
+PERSON, jeremy hunt, 1
+PERSON, russia kremlin, 1
+PERSON, donald trump moscow, 1
+PERSON, sputnik estonia mouthpiece russian, 1
+PERSON, sputnik estonian, 1
+PERSON, newagestyle, 1
+PERSON, 2500 km, 1
+PERSON, mark zuckerbergs, 1
+PERSON, vladimir kulishov, 1
+PERSON, kurz, 1
+PERSON, jörg haider pioneer, 1
+PERSON, donbas eu, 1
+PERSON, ukraine volodymyr, 1
+PERSON, rada ukraine, 1
+PERSON, bernie sander, 1
+PERSON, chase kerch, 1
+PERSON, ukraine antirussian u, 1
+PERSON, douma eastern, 1
+PERSON, méndez núñez, 1
+PERSON, abraham lincoln aircraft carrier, 1
+PERSON, juan guaidó west, 1
+PERSON, serviceman ukraine, 1
+PERSON, notredame paris, 1
+PERSON, notredame burning, 1
+PERSON, notredame fire, 1
+PERSON, al nusra, 1
+PERSON, turkey erdogan, 1
+PERSON, svetlana aleksievich, 1
+PERSON, anna kanapackaya, 1
+PERSON, mikalai statkevich, 1
+PERSON, john baptist svetlana aleksievich noble, 1
+PERSON, leanid akalovich, 1
+PERSON, wincenty konstanty kalinowski, 1
+PERSON, u antirussian, 1
+PERSON, john mccains, 1
+PERSON, george soros dc, 1
+PERSON, russophobia mueller, 1
+PERSON, michelle bachelet, 1
+PERSON, donald trump soninlaw jared kushner, 1
+PERSON, vatican, 1
+PERSON, muhammad, 1
+PERSON, joe biden leadership, 1
+PERSON, aleksandr pechersky, 1
+PERSON, zulia táchira mérida, 1
+PERSON, lustration lawenforcement, 1
+PERSON, volodymyr zelenskys, 1
+PERSON, emmanuel macron brainwash, 1
+PERSON, poroshenko kyiv, 1
+PERSON, bishop polish, 1
+PERSON, poroshenko zelensky, 1
+PERSON, dmitri alperovitch, 1
+PERSON, prosecutorgeneral nikolai vinichenko, 1
+PERSON, harry truman, 1
+PERSON, jair bolsonaro, 1
+PERSON, obama poroshenko u, 1
+PERSON, silvio berlusconis, 1
+PERSON, berlusconi russian security, 1
+PERSON, ukraine zelensky, 1
+PERSON, mi6 cia, 1
+PERSON, mikhail popov, 1
+PERSON, russophobic collective west, 1
+PERSON, ukraine ulana suprun medical, 1
+PERSON, joseph dunford, 1
+PERSON, excolonel gru sergey skripal, 1
+PERSON, ayn, 1
+PERSON, relearn, 1
+PERSON, george soros pope, 1
+PERSON, francis communist, 1
+PERSON, francisco franco, 1
+PERSON, thierry mariani, 1
+PERSON, aleksander lukashenko nbsp, 1
+PERSON, nikos anastasiadis, 1
+PERSON, al rukban, 1
+PERSON, jordan inside, 1
+PERSON, al tanf, 1
+PERSON, josé manuel olivares, 1
+PERSON, iván duque, 1
+PERSON, deir ezzor province, 1
+PERSON, donald trump fixation, 1
+PERSON, ukraine emilian, 1
+PERSON, vladimir putin crimea, 1
+PERSON, viacheslav kyrylenko, 1
+PERSON, slava ukraini, 1
+PERSON, sven mikser, 1
+PERSON, ukraine vladimir, 1
+PERSON, uk antirussian, 1
+PERSON, putin lukashenko, 1
+PERSON, 1954 nikita krushchev, 1
+PERSON, novy chas, 1
+PERSON, maidan moldova, 1
+PERSON, igor dodons, 1
+PERSON, arsen avakovs, 1
+PERSON, uliana suprun, 1
+PERSON, mep sandra kalniete, 1
+PERSON, allrussian nationm, 1
+PERSON, lubomir metnar, 1
+PERSON, juan guaido selfproclaimed, 1
+PERSON, u senate, 1
+PERSON, freemason saakashvili, 1
+PERSON, nicholas maduro, 1
+PERSON, viktor yanukovichs, 1
+PERSON, brexit catalonia vote, 1
+PERSON, ukraine arsen avakov, 1
+PERSON, aachen, 1
+PERSON, lenin stalin khrushchev presentday land ukraine, 1
+PERSON, soros honcharuk, 1
+PERSON, cia mark green, 1
+PERSON, georgy zhukov, 1
+PERSON, alison mccourt, 1
+PERSON, christopher steele, 1
+PERSON, mi6 steele, 1
+PERSON, imf dominique strauss kahn, 1
+PERSON, françois hollande, 1
+PERSON, lugar, 1
+PERSON, u militarymedical, 1
+PERSON, azov sea kerch, 1
+PERSON, archbishop constantinople bartholomew, 1
+PERSON, archbishop bartholomew, 1
+PERSON, bartholomew constantinople, 1
+PERSON, thomas greminger, 1
+PERSON, us antirussian, 1
+PERSON, jack devine, 1
+PERSON, azov kerch, 1
+PERSON, yany kapu tugboat, 1
+PERSON, azov ukrainian vessel, 1
+PERSON, eric, 1
+PERSON, mark zuckerberg jared cohen google idea group, 1
+PERSON, arsen avakov, 1
+PERSON, sevastopol crimea, 1
+PERSON, harvey weinstein, 1
+PERSON, emmanuel macron angela merkel theresa, 1
+PERSON, macron merkel, 1
+PERSON, maria jacob, 1
+PERSON, azov sea kyiv, 1
+PERSON, azov sea ukraine, 1
+PERSON, yany kapu, 1
+PERSON, thesis lucifer, 1
+PERSON, gasanov valery kurochkin sergey korobeinikov, 1
+PERSON, browder, 1
+PERSON, u washington, 1
+PERSON, exclave kaliningrad, 1
+PERSON, carl hartzell, 1
+PERSON, kelly, 1
+PERSON, pavlo klimkin, 1
+PERSON, boshirov petrov russian version gru, 1
+PERSON, maidan odessa, 1
+PERSON, heil hitler, 1
+PERSON, socalled grey zone eastern, 1
+PERSON, russia jankovic, 1
+PERSON, berdyansk yanykapu, 1
+PERSON, georgia u, 1
+PERSON, bondo mdzinarashvili, 1
+PERSON, alexander kurennoy, 1
+PERSON, sergey skripals, 1
+PERSON, ukraine jeffrey payet, 1
+PERSON, vladislav ginko, 1
+PERSON, christo grozev, 1
+PERSON, oleg voyevodin head, 1
+PERSON, alexander turchinov, 1
+PERSON, george soros us, 1
+PERSON, konstantin knyrik, 1
+PERSON, russia dpr lpr, 1
+PERSON, kuchmas book, 1
+PERSON, ukraine azov sea, 1
+PERSON, st ketevan, 1
+PERSON, richard hooker, 1
+PERSON, selfproclaimed donetsk people, 1
+PERSON, daria morozova, 1
+PERSON, janine áñez, 1
+PERSON, obiektivi valeri kvaratskhelia, 1
+PERSON, archbishop athens, 1
+PERSON, rosh hashanah, 1
+PERSON, cato, 1
+PERSON, ukraine antirussian country dprlpr, 1
+PERSON, michael killigan, 1
+PERSON, daniil bezsonov, 1
+PERSON, bakery tskhinvali, 1
+PERSON, lgbt crucified orthodoxy article, 1
+PERSON, erik, 1
+PERSON, î, 1
+PERSON, maj gen igor konashenkov, 1
+PERSON, konasenkov, 1
+PERSON, vanessa beeley, 1
+PERSON, dmitry peskov, 1
+PERSON, village buymer, 1
+PERSON, kiladze, 1
+PERSON, vladimir putin u, 1
+PERSON, ben rhodes, 1
+PERSON, ludmila denisova, 1
+PERSON, selfproclaimed donetsk luhansk people republic dpr lpr prisoner exchange, 1
+PERSON, ukraine viktor, 1
+PERSON, george soros involvement ukraine, 1
+PERSON, lisa, 1
+PERSON, tara hapliak ukraine 24th, 1
+PERSON, lpr dpr loudest, 1
+PERSON, georgia stalin, 1
+PERSON, mp mustafa dzhemilev, 1
+PERSON, arkady babchenko ukraine, 1
+PERSON, thessaloniki yiannis, 1
+PERSON, cossack, 1
+PERSON, julias skripal, 1
+PERSON, buk kursk, 1
+PERSON, moldovan village, 1
+PERSON, mh17 reminiscent, 1
+PERSON, wale, 1
+PERSON, almazantey jit, 1
+PERSON, buk telar, 1
+PERSON, kirill pope, 1
+PERSON, alexandria antioch jerusalem, 1
+PERSON, alexander bulavin, 1
+PERSON, saint michael, 1
+PERSON, syria cvdcs, 1
+PERSON, sam, 1
+PERSON, james le mesuriers, 1
+PERSON, oleg deripaska, 1
+PERSON, bashar al assad, 1
+PERSON, armenia eu, 1
+PERSON, mengele, 1
+PERSON, fortum, 1
+PERSON, russia1s vesti, 1
+PERSON, yulia skripal, 1
+PERSON, finn, 1
+PERSON, robert pelikan, 1
+PERSON, nikulin u, 1
+PERSON, evgeni nikulin, 1
+PERSON, alexander grushko, 1
+PERSON, margot wallström, 1
+PERSON, nikolai kovalev, 1
+PERSON, emmanuel macron congratulated, 1
+PERSON, détat kiev, 1
+PERSON, eastern ghouta, 1
+PERSON, adjara turk, 1
+PERSON, kakheti iranian, 1
+PERSON, karoblis, 1
+PERSON, maidan scandinavian, 1
+PERSON, kurd, 1
+PERSON, alexander revazishvili koba, 1
+PERSON, mamuka, 1
+PERSON, andrey parubiy sergey, 1
+PERSON, u serviceman, 1
+PERSON, christopher bryan, 1
+PERSON, carl bildt, 1
+PERSON, alexander prokhorenko, 1
+PERSON, kuznetsov, 1
+PERSON, viktor orban, 1
+PERSON, orban, 1
+PERSON, sergey lavrov, 1
+PERSON, joe biden u special, 1
+PERSON, richard mclaren, 1
+PERSON, maidan square, 1
+PERSON, yanukovych, 1
+PERSON, nick carter, 1
+PERSON, pietro grasso, 1
+PERSON, donbas boldrini, 1
+PERSON, charles micheal, 1
+PERSON, medvedev eu, 1
+PERSON, dmitry medvedev belgian, 1
+PERSON, charles michel, 1
+PERSON, anthony beevor ukraine, 1
+PERSON, bill donbas, 1
+PERSON, kiev kiev, 1
+PERSON, ukraine corrupt russophobe country, 1
+PERSON, ben cardin, 1
+PERSON, alexander novikov, 1
+PERSON, thornberg head, 1
+PERSON, james pettit, 1
+PERSON, anastasia gridchina, 1
+PERSON, martin schulz earlier, 1
+PERSON, john paul ii, 1
+PERSON, odin johannessen, 1
+PERSON, ukraine philaret, 1
+PERSON, russia kirill, 1
+PERSON, daria skipparismirnov, 1
+PERSON, caucasus saakashvilis, 1
+PERSON, antanas smetona, 1
+PERSON, yuriy baturin, 1
+PERSON, nikolay tkachev, 1
+PERSON, socalled desovietisation ukraine, 1
+PERSON, pavel filip, 1
+PERSON, belarus alexander lukashenko, 1
+PERSON, threefold nbsp, 1
+PERSON, traian băsescu, 1
+PERSON, georgia mikheil, 1
+PERSON, jens stoltenbeg, 1
+PERSON, alexander turchynov, 1
+PERSON, marcel campion, 1
+PERSON, juan guaidó, 1
+PERSON, finland timo soini, 1
+PERSON, james comey fbi, 1
+PERSON, sergei lavrov nato, 1
+PERSON, dominik feri, 1
+PERSON, hamid karzai, 1
+PERSON, leo tolstoy, 1
+PERSON, saddam hussein, 1
+PERSON, milosevic, 1
+PERSON, ukraine politician, 1
+PERSON, luxemburg, 1
+PERSON, evy hambro, 1
+PERSON, craig phillips hillary clinton, 1
+PERSON, bangbang, 1
+PERSON, uladzimir makei, 1
+PERSON, wilhelm kube, 1
+PERSON, generalkommissar weissruthenien hitler, 1
+PERSON, ukrainian diaspora, 1
+PERSON, russia buk, 1
+PERSON, la vega, 1
+PERSON, moldovan people, 1
+PERSON, marochko, 1
+PERSON, morgan freeman, 1
+PERSON, mh17 moscow, 1
+PERSON, fdp green, 1
+PERSON, amy robach, 1
+PERSON, jeffrey epstein, 1
+PERSON, ceasefire eastern, 1
+PERSON, dnrlnr russia zone, 1
+PERSON, dalia grybauskaite, 1
+PERSON, gabriel germany fm, 1
+PERSON, centuriesold christian, 1
+PERSON, moldovan democrat russianlanguage, 1
+PERSON, vladislav, 1
+PERSON, discus ukrainian, 1
+PERSON, moldovan saboteur, 1
+PERSON, aktiv gegen, 1
+PERSON, gewalt und menschenfeindlichkeit, 1
+PERSON, haus munich, 1
+PERSON, affair arsen avakov, 1
+PERSON, dan eliasson, 1
+PERSON, alberto fernándezs, 1
+PERSON, steven mnuchin, 1
+PERSON, martin schulz, 1
+PERSON, sergei shoigu, 1
+PERSON, vilnius antirussian, 1
+PERSON, antiorthodox antirussian, 1
+PERSON, lenin bolshevik, 1
+PERSON, banderovtsy, 1
+PERSON, centraleuropean polishlithuanian identity, 1
+PERSON, yesman u, 1
+PERSON, migrant eastern ukraine, 1
+PERSON, talat xhaferi, 1
+PERSON, hahn, 1
+PERSON, bessarabian bulgarian, 1
+PERSON, lisbon, 1
+PERSON, rothschild rockefeller, 1
+PERSON, slobodan milosevic, 1
+PERSON, donbas angela merkel, 1
+PERSON, james comey, 1
+PERSON, robert mueller fbi, 1
+PERSON, andrej babis, 1
+PERSON, soros czech, 1
+PERSON, seth rich, 1
+PERSON, freemason, 1
+PERSON, virus wan na, 1
+PERSON, babiš, 1
+PERSON, erich jisr shughur, 1
+PERSON, donald trump kremlin, 1
+PERSON, george soross ngo, 1
+PERSON, cia victoria, 1
+PERSON, congress berlin, 1
+PERSON, jared kushner goldman sachs, 1
+PERSON, us donald cook, 1
+PERSON, robert fico, 1
+PERSON, andrej kiska, 1
+PERSON, odessa kherson mykolayiv, 1
+PERSON, semyvolos, 1
+PERSON, napoleon adolf, 1
+PERSON, cia nsa khodorovsky, 1
+PERSON, denis voronenkov, 1
+PERSON, russian duma shot kyiv organized security, 1
+PERSON, roman zozulya nazi, 1
+PERSON, peter sutherland, 1
+PERSON, norm ukrainian, 1
+PERSON, matteo salvini naples, 1
+PERSON, kyiv people luhansk, 1
+PERSON, oleg, 1
+PERSON, nadiya, 1
+PERSON, hague, 1
+PERSON, eu federica mogherinis, 1
+PERSON, ukraine viktor yanukovych, 1
+PERSON, boris, 1
+PERSON, mclaren, 1
+PERSON, churkin ukrainian, 1
+PERSON, flynn, 1
+PERSON, johannes hahn, 1
+PERSON, daniel lipšic, 1
+PERSON, bush, 1
+PERSON, ursula von der leyen lithuania, 1
+PERSON, reich german, 1
+PERSON, hahn bulgaria, 1
+PERSON, boris yeltsin, 1
+PERSON, avdiivka victoria, 1
+PERSON, kill abu bakr al baghdadi, 1
+PERSON, al baghdadi reappear, 1
+PERSON, angela merkels, 1
+PERSON, ukraine ernst, 1
+PERSON, vaclav havel, 1
+PERSON, u donald, 1
+PERSON, stephen beck michel, 1
+PERSON, barrack obama, 1
+PERSON, de mistura, 1
+PERSON, al quds, 1
+PERSON, luke coffey, 1
+PERSON, vladislav dana, 1
+PERSON, ukraine mfa, 1
+PERSON, česká spořitelna, 1
+PERSON, euronews ukraine, 1
+PERSON, antónio guterres, 1
+PERSON, interior arsen avakov, 1
+PERSON, dalia, 1
+PERSON, forbes article state ukraine, 1
+PERSON, ned george soros osf, 1
+PERSON, vladimir putin recep tayyip erdogan, 1
+PERSON, anna soroka, 1
+PERSON, auspex ukrainian, 1
+PERSON, sergey aksyonov moscow, 1
+PERSON, crimea, 1
+PERSON, selfproclaimed donetsk people republic, 1
+PERSON, maidan, 1
+PERSON, moldovan politician maia sandu, 1
+PERSON, václav havel, 1
+PERSON, arsen motorola pavlov, 1
+PERSON, kaliningrad western, 1
+PERSON, pavlov wellknown, 1
+PERSON, george soros ngo transporting hundred, 1
+PERSON, saddam hussein slobodan milosevic, 1
+PERSON, andrea rocchelli, 1
+PERSON, arsen pavlov motorola, 1
+PERSON, unic dnipr, 1
+PERSON, abu bakr albaghdadi camp bucca, 1
+PERSON, auspex united state, 1
+PERSON, pavlov dpr, 1
+PERSON, prokremlin, 1
+PERSON, hubert seipel, 1
+PERSON, putin nobel peace, 1
+PERSON, abu bakr al baghdadi, 1
+PERSON, al baghdadi, 1
+PERSON, afd frauke petry, 1
+PERSON, hillary clinton tv, 1
+PERSON, st sophia, 1
+PERSON, james melville, 1
+PERSON, mep janusz korwinmikke, 1
+PERSON, george hw, 1
+PERSON, bush bill clinton, 1
+PERSON, oliver north, 1
+PERSON, kosovo eu, 1
+PERSON, mariupol mouse, 1
+PERSON, walter steinmeier, 1
+PERSON, evgeny zhilin, 1
+PERSON, prorussian antimaidan, 1
+PERSON, mission eastern ukraine, 1
+PERSON, lamberto zannier, 1
+PERSON, oliver stone, 1
+PERSON, buzzfeed bellingcat, 1
+PERSON, eurovision song contest, 1
+PERSON, usa eu, 1
+PERSON, martin konvičkas, 1
+PERSON, franco banderist, 1
+PERSON, german spd sigmar gabriel, 1
+PERSON, nigel farage, 1
+PERSON, nhl player, 1
+PERSON, angela merkel czech, 1
+PERSON, sebastian kurz, 1
+PERSON, mikhail sholokhov, 1
+PERSON, george soros hundred, 1
+PERSON, abu bakr albaghdadi, 1
+PERSON, ahmed chataev, 1
+PERSON, dmytro yarosh, 1
+PERSON, vladimir putin barack, 1
+PERSON, ahmed, 1
+PERSON, sputnik rt interfering election, 1
+PERSON, tina khidasheli, 1
+PERSON, lesson brexit, 1
+PERSON, paul craig robert, 1
+PERSON, cia george soros, 1
+PERSON, galichina donbas, 1
+PERSON, beyonce madonna, 1
+PERSON, agriculture dacian ciolos, 1
+PERSON, politician sergei, 1
+PERSON, maria sharapova, 1
+PERSON, marseille velodrome, 1
+PERSON, dresden prof, 1
+PERSON, simon rowntree england, 1
+PERSON, putin stole crimea, 1
+PERSON, vitaly churkin un security council, 1
+PERSON, yeltsin 1996, 1
+PERSON, ukrainian leonid khartchenko, 1
+PERSON, donetsk people republic dpr, 1
+PERSON, medium hillary clinton, 1
+PERSON, recep tayyip erdoğan, 1
+PERSON, washington middleeastern, 1
+PERSON, mein kampf, 1
+PERSON, adel aljubeir, 1
+PERSON, elizabeth, 1
+PERSON, yuriy lutsenko, 1
+PERSON, stanislav skubashevsky, 1
+PERSON, donetsk, 1
+PERSON, victor yanukovich, 1
+PERSON, lycée jean carré, 1
+PERSON, ukraine kherson, 1
+PERSON, sadiq khan, 1
+PERSON, sadiq khan education, 1
+PERSON, zbigniew brzezinskis, 1
+PERSON, shinzo abe, 1
+PERSON, john kerry, 1
+PERSON, war eastern ukraine, 1
+PERSON, paolo gentiloni, 1
+PERSON, arkady dvorkovich, 1
+PERSON, federica mogherini donald, 1
+PERSON, pyatt greek, 1
+PERSON, adolph hitler merkel puppet u, 1
+PERSON, alexei navalny, 1
+PERSON, geoffrey r pyatt, 1
+PERSON, john kerrys, 1
+PERSON, putin nonwestern, 1
+PERSON, george soros ford, 1
+PERSON, soros ford, 1
+PERSON, mfa margot wallström, 1
+PERSON, sebastien bellin, 1
+PERSON, nicolas sarkozy, 1
+PERSON, cia nsa, 1
+PERSON, charles bronson, 1
+PERSON, u us ukrainian, 1
+PERSON, war eastern, 1
+PERSON, populus ifop, 1
+PERSON, eu u supported coup, 1
+PERSON, osama bin laden а u, 1
+PERSON, george soros europe, 1
+PERSON, richard coudenhovekalergi pioneer, 1
+PERSON, savchenkos, 1
+PERSON, u ukraine, 1
+PERSON, ukraine azov batallion, 1
+PERSON, joseph biden, 1
+PERSON, angela merkels autocracy, 1
+PERSON, russia vladimir putin friend, 1
+PERSON, josif stalin, 1
+PERSON, nikita krushchev, 1
+PERSON, yanukovych vladimir putin, 1
+PERSON, assad, 1
+PERSON, alexander, 1
+PERSON, odessa donetsk lugansk, 1
+PERSON, brexit brexit, 1
+PERSON, brexit circus, 1
+PERSON, alexei kudrin, 1
+PERSON, peter omtzigt, 1
+PERSON, kimoon, 1
+PERSON, crimean tatar, 1
+PERSON, tara shevchenko, 1
+PERSON, nikolai starikov prague, 1
+PERSON, victor yanukovych, 1
+PERSON, interview leonid reshetnikov head, 1
+PERSON, wolfgang herles, 1
+PERSON, russophobic antirussian, 1
+PERSON, maidan minsk, 1
+PERSON, sobotka, 1
+PERSON, kalashnikov, 1
+PERSON, al gore, 1
+PERSON, petr pavel, 1
+PERSON, herzen lenin boris berezovsky, 1
+PERSON, igor druz risi, 1
+PERSON, richard coudenhove kalergi, 1
+PERSON, richard lugars, 1
+PERSON, mustafa djemilev, 1
+PERSON, boris nemtsovs killer, 1
+PERSON, syria washington, 1
+PERSON, janus putkonen, 1
+PERSON, saa, 1
+PERSON, yuri andropov, 1
+PERSON, donbas igor druz, 1
+PERSON, welle angela merkel, 1
+PERSON, nikolay patrushev advocate, 1
+PERSON, greta thunberg artificial, 1
+PERSON, vladimir solovyov, 1
+PERSON, committe duma, 1
+PERSON, yevhen konoplianka, 1
+PERSON, john kerry u defense, 1
+PERSON, ashton carter, 1
+PERSON, jfk fed, 1
+PERSON, lgbti tpp, 1
+PERSON, recep, 1
+PERSON, wolf crimea, 1
+PERSON, tension eastern, 1
+PERSON, santa claus, 1
+PERSON, russia dmitry, 1
+PERSON, alexander khudilaynen, 1
+PERSON, black azov sea, 1
+PERSON, konstantin kosachev mp, 1
+PERSON, browder russian, 1
+PERSON, vladimir putin selfproclaimed, 1
+PERSON, adolf hitler book, 1
+PERSON, charlie hebdo, 1
+PERSON, christoph hörstel, 1
+PERSON, isil isi, 1
+PERSON, maidan ukraine, 1
+PERSON, alexei leonkov, 1
+PERSON, duma sergei, 1
+PERSON, ivan girkin, 1
+PERSON, briton, 1
+PERSON, proputin, 1
+PERSON, rssi httpenrissru institute, 1
+PERSON, journalistr petar, 1
+PERSON, rosen, 1
+PERSON, duma aleksey pushkov, 1
+PERSON, odessa region, 1
+PERSON, kramatorsk, 1
+PERSON, dozer, 1
+PERSON, zakharchenko, 1
+PERSON, украинских карателей, 1
+PERSON, lenin stalin, 1
+PERSON, jimmy carter, 1
+PERSON, dnc washington establishment, 1
+PERSON, bessarabia zakarpattia, 1
+PERSON, bukovina galicia volyn, 1
+PERSON, joshua wong, 1
+PERSON, jimmy lai, 1
+PERSON, view messiah greta, 1
+PERSON, andrés manuel lópez obrador, 1
+PERSON, james forrestal, 1
+PERSON, daniel mccarthy, 1
+PERSON, volodymyr zelenskyy belong war party petro, 1
+PERSON, estonian mothertongue, 1
+PERSON, ukraine vladislav krikliy, 1
+PERSON, greta thunbergs, 1
+PERSON, greta thunberg tool, 1
+PERSON, charles xii sweden, 1
+PERSON, wilhelm ii, 1
+PERSON, segey beseda, 1
+PERSON, ci u intelligence, 1
+
+LOC, europe, 581
+LOC, eastern europe, 40
+LOC, middle east, 28
+LOC, western europe, 17
+LOC, africa, 14
+LOC, u europe, 7
+LOC, asia, 7
+LOC, latin america, 7
+LOC, europe west, 6
+LOC, north ossetia, 6
+LOC, baltic sea, 5
+LOC, europe north america, 5
+LOC, balkan, 4
+LOC, east ukraine, 4
+LOC, russia europe confirmed, 4
+LOC, kherson, 4
+LOC, war east ukraine, 4
+LOC, north atlantic, 3
+LOC, ukraine europe, 3
+LOC, north atlantic alliance, 3
+LOC, russia europe, 3
+LOC, europe europe, 2
+LOC, sakhalin island kremlin, 2
+LOC, mediterranean, 2
+LOC, south china sea, 2
+LOC, u west, 2
+LOC, u eastern europe, 2
+LOC, south america, 2
+LOC, u middle east, 2
+LOC, mediterranean sea, 2
+LOC, u empire u, 2
+LOC, black sea blast, 2
+LOC, turkey odessa, 2
+LOC, europe kyiv, 1
+LOC, russia europe alliance, 1
+LOC, dresden east, 1
+LOC, u europe baltic, 1
+LOC, east south, 1
+LOC, asia u embassy, 1
+LOC, west ally, 1
+LOC, horde middle east north, 1
+LOC, europe u dictatorship minority, 1
+LOC, west kyivs, 1
+LOC, africa east, 1
+LOC, asia signal, 1
+LOC, caribbean, 1
+LOC, america europe, 1
+LOC, paul europe, 1
+LOC, men europe big roman bishop, 1
+LOC, west rosneft, 1
+LOC, north atlantic alliance black sea, 1
+LOC, europe finland czech republic organizing, 1
+LOC, middle east north africa thousand, 1
+LOC, western halfmoon, 1
+LOC, central europe, 1
+LOC, turkish republic, 1
+LOC, islam europe crucial, 1
+LOC, europe day, 1
+LOC, africa europe, 1
+LOC, africa middle east, 1
+LOC, south ossetian, 1
+LOC, west nile, 1
+LOC, biathletes sweden, 1
+LOC, central europe ukrainian, 1
+LOC, sniper, 1
+LOC, eastern europe baltic, 1
+LOC, baltic poland russophobic rhetoric west, 1
+LOC, scandinavia, 1
+LOC, eastern bloc, 1
+LOC, eastern city donetsk, 1
+LOC, 911 europe, 1
+LOC, hitler america, 1
+LOC, north atlantic treaty, 1
+LOC, marina, 1
+LOC, western europe western europe, 1
+LOC, west building, 1
+LOC, europe nato west, 1
+LOC, europe kiev, 1
+LOC, west russophobic, 1
+LOC, usa europe, 1
+LOC, mediterranean coast, 1
+LOC, bhutan kashmir indianpakistan conflict civil war afghanistan, 1
+LOC, middle east europe, 1
+LOC, europa europe, 1
+LOC, europe georgia, 1
+LOC, africa siberia u, 1
+LOC, siberia, 1
+LOC, mass middle east, 1
+LOC, eastern europe nato, 1
+LOC, sharia west, 1
+LOC, south russia, 1
+LOC, north peninsula, 1
+LOC, west russia, 1
+LOC, atlantic, 1
+LOC, mh17 usa, 1
+LOC, ukraine west organized, 1
+LOC, west east, 1
+LOC, eritrean europe u, 1
+
+NORP, russian, 1714
+NORP, ukrainian, 753
+NORP, european, 527
+NORP, american, 460
+NORP, belarusian, 254
+NORP, german, 200
+NORP, syrian, 199
+NORP, czech, 189
+NORP, british, 186
+NORP, nazi, 176
+NORP, soviet, 151
+NORP, baltic, 147
+NORP, georgian, 111
+NORP, crimean, 95
+NORP, french, 88
+NORP, muslim, 84
+NORP, swedish, 67
+NORP, islamic, 66
+NORP, nbsp, 63
+NORP, dutch, 60
+NORP, lithuanian, 54
+NORP, serbian, 48
+NORP, finnish, 44
+NORP, christian, 43
+NORP, romanian, 37
+NORP, arab, 36
+NORP, turkish, 36
+NORP, isi, 35
+NORP, estonian, 32
+NORP, bulgarian, 32
+NORP, eurasian, 30
+NORP, polish, 29
+NORP, malaysian, 27
+NORP, albanian, 27
+NORP, latvian, 27
+NORP, hungarian, 27
+NORP, tatar, 26
+NORP, african, 25
+NORP, democrat, 24
+NORP, austrian, 24
+NORP, sevastopol, 24
+NORP, italian, 22
+NORP, armenian, 21
+NORP, aleppo, 20
+NORP, venezuelan, 18
+NORP, chinese, 17
+NORP, islamist, 16
+NORP, jewish, 15
+NORP, israeli, 15
+NORP, norwegian, 15
+NORP, spanish, 14
+NORP, saudi, 13
+NORP, slovak, 12
+NORP, canadian, 11
+NORP, macedonian, 10
+NORP, neonazi, 10
+NORP, ussr, 9
+NORP, stalin, 9
+NORP, english, 9
+NORP, orthodox, 9
+NORP, bolivian, 9
+NORP, abkhazia, 8
+NORP, ukraine russian, 8
+NORP, scandinavian, 8
+NORP, republican, 8
+NORP, iranian, 7
+NORP, serb, 7
+NORP, catholic, 7
+NORP, western european, 7
+NORP, slavic, 7
+NORP, asf eastern europe, 7
+NORP, australian, 7
+NORP, iraqi, 7
+NORP, communist, 7
+NORP, srebrenica, 6
+NORP, antichristian, 6
+NORP, balkan, 6
+NORP, sergei, 6
+NORP, arabic, 6
+NORP, russian eastern, 6
+NORP, kurdish, 6
+NORP, bosnian, 5
+NORP, asian, 5
+NORP, zelenskyys, 5
+NORP, east ukrainian, 5
+NORP, palestinian, 5
+NORP, swiss, 5
+NORP, danish, 5
+NORP, wwii, 5
+NORP, ukranian, 5
+NORP, zionist, 4
+NORP, latin american, 4
+NORP, persian, 4
+NORP, islam, 4
+NORP, europe european, 4
+NORP, afghan, 4
+NORP, ukraine american, 4
+NORP, russian syrian, 4
+NORP, latin alphabet, 4
+NORP, odessa, 4
+NORP, lithuanian latvian, 3
+NORP, japanese, 3
+NORP, east ukraine, 3
+NORP, eastern european, 3
+NORP, mexican, 3
+NORP, prorussian, 3
+NORP, bavarian, 3
+NORP, mh17 ukraine, 3
+NORP, europe german, 3
+NORP, colombian, 3
+NORP, perimeter eastern slavic, 3
+NORP, mongol, 3
+NORP, antirussian, 3
+NORP, north korean, 3
+NORP, tajikistan, 3
+NORP, greek, 3
+NORP, sharia, 3
+NORP, belgian, 3
+NORP, russian russian, 3
+NORP, catalan, 3
+NORP, sochi, 3
+NORP, quran, 3
+NORP, west arab, 3
+NORP, uk, 2
+NORP, east african, 2
+NORP, russian belarusian, 2
+NORP, south american, 2
+NORP, chechen, 2
+NORP, westerner, 2
+NORP, democratic, 2
+NORP, jihadist, 2
+NORP, british american, 2
+NORP, belorussian, 2
+NORP, west russia, 2
+NORP, turk, 2
+NORP, antiamerican, 2
+NORP, pakistani, 2
+NORP, croatian, 2
+NORP, emine, 2
+NORP, carpathian, 2
+NORP, west nbsp, 2
+NORP, azerbaijani, 2
+NORP, slav, 2
+NORP, korean, 2
+NORP, cuban, 2
+NORP, alaskan, 2
+NORP, satanist, 2
+NORP, belarussians, 2
+NORP, belarussian, 2
+NORP, western ukrainian, 2
+NORP, euro2016, 2
+NORP, hatespeech, 2
+NORP, sunni, 2
+NORP, egyptian, 2
+NORP, aryan, 2
+NORP, india russian, 2
+NORP, modern eastern european, 1
+NORP, prague, 1
+NORP, albanian croatian, 1
+NORP, uk german, 1
+NORP, western, 1
+NORP, balkan eastern europe, 1
+NORP, usa nbsp, 1
+NORP, slavonic, 1
+NORP, algerian, 1
+NORP, italy italian, 1
+NORP, east european, 1
+NORP, taiwanese, 1
+NORP, north crimean, 1
+NORP, vietnamese, 1
+NORP, chinese russian, 1
+NORP, garrido, 1
+NORP, fabian, 1
+NORP, east russia, 1
+NORP, ukraine eastern, 1
+NORP, sunni islam, 1
+NORP, austria german, 1
+NORP, fed west ukraine, 1
+NORP, belarus, 1
+NORP, luciferian, 1
+NORP, chilean, 1
+NORP, southern european, 1
+NORP, moroccan, 1
+NORP, sbu russian, 1
+NORP, norwegian american, 1
+NORP, west belarus, 1
+NORP, western eastern, 1
+NORP, alphabet, 1
+NORP, russian soviet, 1
+NORP, soviet russian, 1
+NORP, eurovision2019, 1
+NORP, ukraine belarusian, 1
+NORP, native belarus, 1
+NORP, russian german, 1
+NORP, antisemites, 1
+NORP, russian language latvian, 1
+NORP, north macedonia, 1
+NORP, europe georgian, 1
+NORP, mosque, 1
+NORP, east german, 1
+NORP, west ukraine, 1
+NORP, indian, 1
+NORP, hasidic, 1
+NORP, ukraine antirussian, 1
+NORP, generation latvian, 1
+NORP, antigeorgian, 1
+NORP, sbu ukranian, 1
+NORP, south ossetians, 1
+NORP, englishwoman, 1
+NORP, mh17 southeast ukraine, 1
+NORP, mh17 russian mod, 1
+NORP, west syrian, 1
+NORP, moldovans, 1
+NORP, ngo swedish, 1
+NORP, slovakian, 1
+NORP, west russian, 1
+NORP, grasso, 1
+NORP, germanic german, 1
+NORP, oriental, 1
+NORP, luhansk eastern ukrainian, 1
+NORP, ramadan, 1
+NORP, russian chinese, 1
+NORP, west ussr, 1
+NORP, torun, 1
+NORP, isi american, 1
+NORP, west antirussian, 1
+NORP, central eastern european, 1
+NORP, yugoslavian, 1
+NORP, british muslim, 1
+NORP, czechoslovak, 1
+NORP, southeast asian, 1
+NORP, globalist, 1
+NORP, colonized, 1
+NORP, galician, 1
+NORP, german german, 1
+NORP, slovak russian, 1
+NORP, eastern slavic, 1
+NORP, north african, 1
+NORP, goebbels, 1
+NORP, intrasyrian, 1
+NORP, south african, 1
+NORP, russian guise european, 1
+NORP, kurdistan, 1
+NORP, facist, 1
+NORP, moldovian, 1
+NORP, russian ukrainian, 1
+NORP, south ossetian, 1
+NORP, marxist, 1
+NORP, southern eastern, 1
+NORP, libyan, 1
+NORP, lebanese, 1
+NORP, russian language, 1
+NORP, serbia, 1
+NORP, socalled, 1
+NORP, totalitarian, 1
+NORP, central eastern, 1
+NORP, roman catholic, 1
+NORP, saudi arabian, 1
+NORP, turkey german, 1
+NORP, constantinople, 1
+NORP, siberian, 1
+NORP, west austrohungarians, 1
+NORP, russian eurasian, 1
+NORP, west turkish, 1
+NORP, rejecters german, 1
+NORP, zeman, 1
+NORP, turkey russian, 1
+NORP, isil american, 1
+NORP, ukraine georgian, 1
+NORP, austrohungarian, 1
+
+ORG, eu, 765
+ORG, nato, 734
+ORG, united state, 177
+ORG, nbsp, 158
+ORG, european union, 103
+ORG, cia, 96
+ORG, un, 53
+ORG, osce, 48
+ORG, kremlin, 43
+ORG, pentagon, 43
+ORG, crimea, 34
+ORG, ukrainian authority, 34
+ORG, ukrainian army, 22
+ORG, maidan, 20
+ORG, ukraine petro, 20
+ORG, al qaeda, 19
+ORG, eu nato, 17
+ORG, visa, 17
+ORG, isi, 17
+ORG, u state department, 16
+ORG, berane nato, 16
+ORG, notre, 16
+ORG, nbsp nbsp, 15
+ORG, u, 15
+ORG, reuters, 14
+ORG, boeing, 14
+ORG, european commission, 14
+ORG, white house, 13
+ORG, eastern ukraine, 13
+ORG, ukrainian navy, 12
+ORG, bbc, 12
+ORG, syria nato, 12
+ORG, abkhazia south ossetia, 11
+ORG, su24, 11
+ORG, nato eu, 10
+ORG, cnn, 10
+ORG, u embassy, 10
+ORG, douma syria, 10
+ORG, kgb, 10
+ORG, mariupol, 9
+ORG, sergei skripal, 9
+ORG, american troop, 9
+ORG, un general assembly, 9
+ORG, islam, 9
+ORG, russian institute, 9
+ORG, russian air force, 8
+ORG, ukraine nbsp, 8
+ORG, wada, 8
+ORG, russophobia, 8
+ORG, u troop, 8
+ORG, notre dame de paris, 8
+ORG, mi6, 8
+ORG, ukrainian armed force, 8
+ORG, eastern partnership, 7
+ORG, sputnik estonia, 7
+ORG, euromaidan, 7
+ORG, annexation crimea, 7
+ORG, european union nato, 7
+ORG, ukrainian security, 7
+ORG, sbu, 7
+ORG, nato european union, 7
+ORG, united nation, 7
+ORG, un security council, 7
+ORG, united state america u, 7
+ORG, syria ukraine, 7
+ORG, andriy parubiy, 7
+ORG, eastern vanguard nato baltic, 7
+ORG, u navy, 7
+ORG, u medium report obama administration plan occupy, 7
+ORG, motorola, 7
+ORG, petro proshenkos chocolate company, 7
+ORG, south ossetia, 6
+ORG, u air force, 6
+ORG, u department, 6
+ORG, fbi, 6
+ORG, united state europe, 6
+ORG, mariupol eastern ukraine, 6
+ORG, presidium supreme council, 6
+ORG, u nato, 6
+ORG, control european union, 6
+ORG, koenigsberg murmansk region, 6
+ORG, isi fighter, 6
+ORG, norway barnevernet norway institution, 6
+ORG, swedish navy, 6
+ORG, national academy ground force, 6
+ORG, g7, 5
+ORG, sputnik lithuania sputnik latvia, 5
+ORG, united state america, 5
+ORG, usa nato, 5
+ORG, kerch, 5
+ORG, citizen european union, 5
+ORG, ukraine state security, 5
+ORG, mh370, 5
+ORG, u senate, 5
+ORG, ukraine corrupt country, 5
+ORG, u army, 5
+ORG, eu integration cooperation, 5
+ORG, border european union ukraine border service fully, 5
+ORG, frontex ukrainian, 5
+ORG, al jazeera, 5
+ORG, ukraine, 5
+ORG, bucharest european parliament de facto, 5
+ORG, armenia eastern european state shared, 5
+ORG, bbcs documentary present new, 5
+ORG, ukraine aim thwart, 5
+ORG, ukrainian internal intelligence, 5
+ORG, isi usa, 5
+ORG, nwos, 5
+ORG, senate, 4
+ORG, ukrainian parliament, 4
+ORG, fullscale war, 4
+ORG, nato u, 4
+ORG, russian foreign ministry, 4
+ORG, un silent militarisation region, 4
+ORG, nato force, 4
+ORG, u congress, 4
+ORG, donbas nbsp, 4
+ORG, u preparing moldova hybrid, 4
+ORG, u poland baltic, 4
+ORG, uk france, 4
+ORG, kerch strait, 4
+ORG, hände hoch bundestag, 4
+ORG, nwo, 4
+ORG, warsaw bloc nato, 4
+ORG, kremlin medvedev, 4
+ORG, ukrainian state security, 4
+ORG, bbc producer, 4
+ORG, u preparing maidan republic, 4
+ORG, foreign ministry u involvement moldovan, 4
+ORG, u force, 4
+ORG, u eu, 4
+ORG, nord, 4
+ORG, mossad, 4
+ORG, united nation european union, 4
+ORG, russia ukraine building military power black sea, 4
+ORG, national security defense council, 4
+ORG, people people republic reeducation western region ukraine force, 4
+ORG, ukraine verkhovna rada, 4
+ORG, united state agency international development usaid sue, 4
+ORG, helsinki, 4
+ORG, g20, 4
+ORG, u b52, 4
+ORG, airline communication data, 4
+ORG, romanian army, 4
+ORG, kinsey, 4
+ORG, german air force, 4
+ORG, u turkey report, 4
+ORG, russian security council, 4
+ORG, kyiv school teach, 4
+ORG, petrivske zolote ukrainian armed formation, 4
+ORG, red army, 3
+ORG, eu u, 3
+ORG, ukraine belarus, 3
+ORG, détat kyiv, 3
+ORG, ukraine nato, 3
+ORG, georgia south ossetia, 3
+ORG, u democratic party, 3
+ORG, nato nato, 3
+ORG, eap, 3
+ORG, bos house, 3
+ORG, u poland, 3
+ORG, alqaeda, 3
+ORG, blackout argentina uruguay area, 3
+ORG, julian assange, 3
+ORG, ukraine neonazis, 3
+ORG, tomos autocephaly orthodox church ukraine, 3
+ORG, uk embassy, 3
+ORG, 4th european reich, 3
+ORG, ukrainian security force, 3
+ORG, chatham house, 3
+ORG, strache, 3
+ORG, pilgrim, 3
+ORG, saxo, 3
+ORG, stalin, 3
+ORG, kosovo liberation army, 3
+ORG, eu ukrainian, 3
+ORG, ukraine ukrainian, 3
+ORG, usaid, 3
+ORG, united state european union, 3
+ORG, citizen republic, 3
+ORG, poland ukraine much, 3
+ORG, lithuania state security department, 3
+ORG, nistru river, 3
+ORG, european council, 3
+ORG, sergei skripals, 3
+ORG, alena, 3
+ORG, nato threat republic, 3
+ORG, wada international association athletics federation, 3
+ORG, poland baltic, 3
+ORG, ukrainian provocation kerch, 3
+ORG, uk house, 3
+ORG, new ukrainian, 3
+ORG, kyivs authority, 3
+ORG, ukrainian troop deployed, 3
+ORG, interpol, 3
+ORG, republic supreme council, 3
+ORG, ussr supreme council, 3
+ORG, ukrainian army deployed, 3
+ORG, maidan revolution, 3
+ORG, united nation organization prohibition chemical, 3
+ORG, kremlin world war iii, 3
+ORG, amesbury, 3
+ORG, russian defense ministry, 3
+ORG, unhcr, 3
+ORG, russia justice ministry court, 3
+ORG, u uk france, 3
+ORG, mfa, 3
+ORG, u uk, 3
+ORG, isi u, 3
+ORG, dmitry kiselyov, 3
+ORG, dnc, 3
+ORG, donbas ukrainian, 3
+ORG, luhansk people republic, 3
+ORG, ukrainian border guard, 3
+ORG, westinghouse, 3
+ORG, ukrainian security agency, 3
+ORG, u authority, 3
+ORG, u israel, 3
+ORG, nato new eastern, 3
+ORG, sevastopol, 3
+ORG, american force network, 3
+ORG, mod u, 3
+ORG, kyiv plan disrupt, 3
+ORG, nestle, 3
+ORG, kherson, 3
+ORG, u supreme court, 3
+ORG, davos ukrainian, 3
+ORG, american congress monitor political party, 3
+ORG, vanga, 3
+ORG, ukrainian armed force ukraine, 3
+ORG, u saudi arabia, 3
+ORG, nato u leadership, 3
+ORG, nato security council, 3
+ORG, poroshenkos puppet government, 3
+ORG, eu andor west, 3
+ORG, cyberberkut ukraine, 3
+ORG, airbus, 3
+ORG, crimea peninsula, 3
+ORG, abkhazia donetsk luhansk popular republic, 2
+ORG, airbase, 2
+ORG, eu army, 2
+ORG, british news agency, 2
+ORG, united russia homing party, 2
+ORG, moscow city assembly, 2
+ORG, ankara istanbul, 2
+ORG, belarus ukraine, 2
+ORG, le, 2
+ORG, nato enlargement, 2
+ORG, amazon, 2
+ORG, market european union, 2
+ORG, ukraine external, 2
+ORG, crimea nbsp, 2
+ORG, lithuanian rifle union teach guerrilla, 2
+ORG, national anticorruption bureau, 2
+ORG, eu georgia, 2
+ORG, georgia nato, 2
+ORG, pentagon nato, 2
+ORG, greenland u development, 2
+ORG, g8, 2
+ORG, scotland yard, 2
+ORG, maidan minsk, 2
+ORG, american lng, 2
+ORG, ofcom, 2
+ORG, sputnik news agency, 2
+ORG, american moon, 2
+ORG, russophobic ukraine, 2
+ORG, u military, 2
+ORG, porton laboratory, 2
+ORG, volodymyr zelenskyy, 2
+ORG, wada executive committee, 2
+ORG, u intelligence service, 2
+ORG, ukraine external control, 2
+ORG, npp, 2
+ORG, nato parliamentary assembly, 2
+ORG, nato military committee, 2
+ORG, jewry, 2
+ORG, u european, 2
+ORG, u france, 2
+ORG, maidan nbsp, 2
+ORG, mueller, 2
+ORG, ukraine naftogaz, 2
+ORG, ukraine kyiv, 2
+ORG, russia international court, 2
+ORG, united state muller inquiry, 2
+ORG, maidan revolution country, 2
+ORG, american european, 2
+ORG, united state satellite, 2
+ORG, uk foreign, 2
+ORG, ukraine yanukovich, 2
+ORG, armenia azerbaijan, 2
+ORG, european commission russophobic, 2
+ORG, maidan movement, 2
+ORG, ukraine international tribunal law sea, 2
+ORG, eu commission, 2
+ORG, bloomberg, 2
+ORG, meps, 2
+ORG, crimean authority, 2
+ORG, congress, 2
+ORG, donbas country leadership, 2
+ORG, ukraine party, 2
+ORG, mueller commission, 2
+ORG, syria riam dalati, 2
+ORG, conflict eastern ukraine, 2
+ORG, kyivs olympic, 2
+ORG, freemason, 2
+ORG, u defence budget estimated 700 billion, 2
+ORG, crimea u, 2
+ORG, pravda, 2
+ORG, national security agency, 2
+ORG, american security, 2
+ORG, assange new administration, 2
+ORG, united state world financial institution, 2
+ORG, latvia nato, 2
+ORG, vilnius, 2
+ORG, u troop syria, 2
+ORG, u poland belarus western part eastern, 2
+ORG, washington london, 2
+ORG, hitlerian europe, 2
+ORG, united state u state department, 2
+ORG, assad syria u, 2
+ORG, control venezuela oil resource, 2
+ORG, country european union, 2
+ORG, recognition, 2
+ORG, minsk metro, 2
+ORG, u ukraine, 2
+ORG, yulia skripal, 2
+ORG, jaysh alislam jihadist, 2
+ORG, bombarding syria, 2
+ORG, u senate intelligence committee, 2
+ORG, people european union, 2
+ORG, uk chatham house, 2
+ORG, ngo belarus, 2
+ORG, belarus russia, 2
+ORG, ukrainerussia relation ukraine, 2
+ORG, maidan belarus, 2
+ORG, rtr latvia, 2
+ORG, nicolas maduro, 2
+ORG, ukrainian exminister evgeniy, 2
+ORG, ukraine dutyfree, 2
+ORG, moldova moldovan, 2
+ORG, georgia nbsp, 2
+ORG, ukrainian uatv channel broadcasting belarus, 2
+ORG, poltava, 2
+ORG, azerbaijan force hostile azerbaijan, 2
+ORG, armed force ukraine, 2
+ORG, operational command selfproclaimed donetsk people republic, 2
+ORG, assad, 2
+ORG, 2050 european union, 2
+ORG, unite european union, 2
+ORG, un global compact migration, 2
+ORG, un general assembly resolution regarding, 2
+ORG, resolution group, 2
+ORG, ukrainian orthodox, 2
+ORG, european union u try, 2
+ORG, autocephaly ukrainian orthodox church special operation, 2
+ORG, latin america, 2
+ORG, europe washington benefit situation, 2
+ORG, new nato brigade, 2
+ORG, ministry education science ukraine want, 2
+ORG, karelia, 2
+ORG, ukraine transformed kamikaze u, 2
+ORG, european army new european security, 2
+ORG, lugar laboratory, 2
+ORG, newsday, 2
+ORG, european union european commission, 2
+ORG, petro poroshenkos wife marina, 2
+ORG, ukrainian museum, 2
+ORG, stamford connecticut, 2
+ORG, waffenss, 2
+ORG, u agency international development, 2
+ORG, il20, 2
+ORG, georgia eu, 2
+ORG, china india north south korea, 2
+ORG, moscow state university, 2
+ORG, u canadian military, 2
+ORG, state kyiv design bureau, 2
+ORG, cyber operation centre deployed finland, 2
+ORG, u finland sweden, 2
+ORG, salisbury hospital, 2
+ORG, sergei, 2
+ORG, europeancrimean chamber commerce, 2
+ORG, ukrainian ministry, 2
+ORG, soviet union, 2
+ORG, demonstration, 2
+ORG, istanbul convention, 2
+ORG, tomas pakalniškis press attaché lithuanian armed force, 2
+ORG, egle kachinskie, 2
+ORG, house, 2
+ORG, visa liberalization, 2
+ORG, western ukrainian, 2
+ORG, u national security, 2
+ORG, joint analysis brookings institute saban center middle east, 2
+ORG, kraichgau news, 2
+ORG, le 20000, 2
+ORG, ukraine interior ministry, 2
+ORG, nato exercise lithuania named lithuanian fascist armed group, 2
+ORG, pesco, 2
+ORG, pompeo, 2
+ORG, donbas east ukraine, 2
+ORG, european affair ministry, 2
+ORG, zeman, 2
+ORG, zapad2017, 2
+ORG, afd, 2
+ORG, european fund, 2
+ORG, deir ezzor, 2
+ORG, mclaren, 2
+ORG, u conquer, 2
+ORG, deutsche welle, 2
+ORG, u bombing syria, 2
+ORG, maidan war donbas power kiev, 2
+ORG, east nato, 2
+ORG, hitler napoleon, 2
+ORG, mariupol chemical, 2
+ORG, maidan ukraine, 2
+ORG, eu association, 2
+ORG, kyivs armed force, 2
+ORG, nato force eastern flank alliance, 2
+ORG, givi vkontakte, 2
+ORG, chrystia freeland ukrainian heritage grand, 2
+ORG, ministry interior, 2
+ORG, volyn vinnitsa, 2
+ORG, hunt, 2
+ORG, aleppo bunker, 2
+ORG, vatican sweden, 2
+ORG, ukrainian health ministry, 2
+ORG, georgia storm south ossetian, 2
+ORG, syria ukraine crisis latest, 2
+ORG, ukrainian foreign ministry, 2
+ORG, ukraine defense ministry, 2
+ORG, red crescent, 2
+ORG, ukraine cede territory, 2
+ORG, u central intelligence agency planning assassination, 2
+ORG, eu usa, 2
+ORG, wto, 2
+ORG, banderastan, 2
+ORG, rossiya segodnya international information, 2
+ORG, u hegemony, 2
+ORG, zakharova, 2
+ORG, uk military, 2
+ORG, svr, 2
+ORG, ukraine instated puppet government western, 2
+ORG, nato conquering state eastern europe nato, 2
+ORG, marseille, 2
+ORG, u troop lithuania, 2
+ORG, nato united state, 2
+ORG, revolution ukraine led usa, 2
+ORG, ukraine ukrainian authority, 2
+ORG, radio polska nato, 2
+ORG, u citizen panama paper, 2
+ORG, conflict east ukraine, 2
+ORG, u army czech republic russia, 2
+ORG, vatican, 2
+ORG, zika virus, 2
+ORG, american british company, 2
+ORG, tatar revive military battalion, 2
+ORG, tatar state new, 2
+ORG, kosovo kherson, 2
+ORG, kremlin countersanctions, 2
+ORG, eu export foodstuff ukraine, 2
+ORG, vicepresident european commission, 2
+ORG, le le, 2
+ORG, turkey u, 2
+ORG, chazin, 2
+ORG, u bomber, 2
+ORG, zone tennessee usa, 2
+ORG, nato usa, 2
+ORG, russian aerospace force victor, 2
+ORG, indian veda, 2
+ORG, eu canada, 2
+ORG, wall street journal new york time, 2
+ORG, erdogan international outlaw, 2
+ORG, su24 g20, 2
+ORG, burismas current, 2
+ORG, moldova u, 2
+ORG, ukrainian europe, 1
+ORG, beneficiary resolution european parliament, 1
+ORG, u air force europe, 1
+ORG, kaliningrad ministry emphasised, 1
+ORG, poland u, 1
+ORG, u nato nuclear war, 1
+ORG, washington new york, 1
+ORG, estonia baltic state, 1
+ORG, alltogether european parliament, 1
+ORG, army european union, 1
+ORG, russia federal security service, 1
+ORG, radar data netherlands, 1
+ORG, eastern european britain, 1
+ORG, bundeswehr german, 1
+ORG, american congress, 1
+ORG, american congress european community speak, 1
+ORG, lit ukraine euromaidan revolution 20132014, 1
+ORG, u global dominance canada italy, 1
+ORG, ukraine syria iran, 1
+ORG, konev prague, 1
+ORG, berlin fall, 1
+ORG, konevs army, 1
+ORG, el territory usa, 1
+ORG, amnesty international national endowment democracy freedom house peace corp carnegie endowment international committee red cross heritage foundation, 1
+ORG, cia u state, 1
+ORG, stockholm school economics, 1
+ORG, antidoping agency rusada, 1
+ORG, decision european court, 1
+ORG, montenegrin bulgarian force, 1
+ORG, u destroyed, 1
+ORG, mass rally ukraine, 1
+ORG, eu nato united state, 1
+ORG, united state state represented embassy resource located, 1
+ORG, crimea normandy summit, 1
+ORG, steinmeier formula ukrainian, 1
+ORG, tv4, 1
+ORG, center stockholm school economics, 1
+ORG, bbc navalny, 1
+ORG, détat ukraine, 1
+ORG, georgia make georgia, 1
+ORG, à la, 1
+ORG, private nationalist group, 1
+ORG, u occupation, 1
+ORG, u leadership, 1
+ORG, nato georgia, 1
+ORG, american authority, 1
+ORG, multinational force named, 1
+ORG, u ally client empire, 1
+ORG, united state current interpretation wwii event, 1
+ORG, maidan war eastern ukraine, 1
+ORG, united state much, 1
+ORG, u military force pole, 1
+ORG, russian force least one, 1
+ORG, u administration, 1
+ORG, u space command planning create space force sixth, 1
+ORG, georgia occupied country georgia, 1
+ORG, belarusianrussian energy cooperation lithuania, 1
+ORG, vilnius working creation international coalition, 1
+ORG, uk uk laboratory porton, 1
+ORG, abkhazia samachablo part, 1
+ORG, u canada eu, 1
+ORG, american u state department, 1
+ORG, u embassy ukraine, 1
+ORG, hamburg spiegel, 1
+ORG, ukrainian armed force civilian, 1
+ORG, nevertheless england france, 1
+ORG, g7 ukraine, 1
+ORG, consolidation german army, 1
+ORG, berlin london london, 1
+ORG, spetsnaz, 1
+ORG, saudi kuwaiti national de facto, 1
+ORG, krajova national army, 1
+ORG, u counter western europe, 1
+ORG, selfproclaimed people republic donetsk luhansk, 1
+ORG, u ruling ukraine presidency petro, 1
+ORG, nato le, 1
+ORG, u western government, 1
+ORG, rt sputnik, 1
+ORG, georgian ministry education, 1
+ORG, un committee, 1
+ORG, eu nato view belarus eastern partnership, 1
+ORG, multinational corporation provoke, 1
+ORG, u troop territory desire, 1
+ORG, stalin hitler, 1
+ORG, kyiv embassy, 1
+ORG, united state destroyed inf treaty, 1
+ORG, antigerman, 1
+ORG, assad rid, 1
+ORG, syria nato terrorist, 1
+ORG, wikipedia era, 1
+ORG, wikipedia transformed information source receiving, 1
+ORG, isi american, 1
+ORG, united state european ally, 1
+ORG, resolution eu, 1
+ORG, rally socalled opposition, 1
+ORG, moscow u state department, 1
+ORG, western ngo navalny, 1
+ORG, alp, 1
+ORG, russophobia virus ukraine, 1
+ORG, kremlin donbas, 1
+ORG, u bombing use chemical, 1
+ORG, united state political military, 1
+ORG, reason european union, 1
+ORG, schengen visa, 1
+ORG, u senate select committee, 1
+ORG, washington gravedigger inf, 1
+ORG, united state historical family, 1
+ORG, kosovo u nato, 1
+ORG, russophobia georgia artificial, 1
+ORG, georgia independent broadcast foreign voice patron outside, 1
+ORG, continental union, 1
+ORG, mir russian world east, 1
+ORG, tinder warn, 1
+ORG, baltic state russophobia, 1
+ORG, rebel force eastern, 1
+ORG, baku yerevan, 1
+ORG, nasa, 1
+ORG, donbas, 1
+ORG, ukrainian military, 1
+ORG, u central command, 1
+ORG, catrin goebel, 1
+ORG, bruno le, 1
+ORG, parliamentary assembly council europe, 1
+ORG, mi5 russia, 1
+ORG, тhe, 1
+ORG, zelenskyy svyatoslav vakarchuk, 1
+ORG, verkhovna rada, 1
+ORG, united state united state, 1
+ORG, georgia home grown protest, 1
+ORG, g7 international organisation, 1
+ORG, trilateral commission, 1
+ORG, un office belarus, 1
+ORG, lgbt community, 1
+ORG, belarusian national congress bnc, 1
+ORG, american missile poland, 1
+ORG, echr, 1
+ORG, uk norway slovakia belgium turkey, 1
+ORG, u ally committee, 1
+ORG, intelligence committee putin, 1
+ORG, tbilisi external component confrontation country, 1
+ORG, control georgia anaklia deepsea, 1
+ORG, abkhazia washington, 1
+ORG, washington kyiv, 1
+ORG, eu u nbsp, 1
+ORG, soros office armenia influence country authority, 1
+ORG, revolution soros office, 1
+ORG, european union fund, 1
+ORG, russophobic protest georgia, 1
+ORG, detat kyiv, 1
+ORG, crimea sailor ukraine, 1
+ORG, new leadership, 1
+ORG, disintegration european union, 1
+ORG, u nonalignment western sanction, 1
+ORG, rand corporation, 1
+ORG, belarus u military assistance, 1
+ORG, russophobia west vision world politics built, 1
+ORG, lgbt flag, 1
+ORG, united state u, 1
+ORG, détat occupation, 1
+ORG, global green movement, 1
+ORG, u nato military force, 1
+ORG, reaper gulf oman, 1
+ORG, selfproclaimed luhansk people republic, 1
+ORG, quantum social security, 1
+ORG, pro american organization, 1
+ORG, georgia relation russia, 1
+ORG, stuart peach nato, 1
+ORG, russia contracting party, 1
+ORG, power selfproclaimed popular republic donetsk, 1
+ORG, fbi nsa pentagon, 1
+ORG, american patriot, 1
+ORG, lviv aircraft repair, 1
+ORG, fighterplanes, 1
+ORG, cia telaviv riyadh, 1
+ORG, ukrainian institute, 1
+ORG, democratic national committee, 1
+ORG, à la america, 1
+ORG, georgia financial, 1
+ORG, deepsea, 1
+ORG, soros program, 1
+ORG, european union servant, 1
+ORG, crisis eumoldova association, 1
+ORG, disruption interparliamentary assembly, 1
+ORG, orthodoxy iao georgia followed, 1
+ORG, nato expansion eastern europe, 1
+ORG, nato washington, 1
+ORG, tension european union, 1
+ORG, north atlantic alliance, 1
+ORG, mh17 amsterdam kuala lumpur, 1
+ORG, buk, 1
+ORG, kherson authority kyiv, 1
+ORG, u army europe, 1
+ORG, deployment u troop poland, 1
+ORG, russia nato expansion east u, 1
+ORG, polit nato, 1
+ORG, barbarian european conquered, 1
+ORG, georgia cia, 1
+ORG, usaid ned front, 1
+ORG, ngo armenia, 1
+ORG, détat armenia 2018, 1
+ORG, u guarantee security, 1
+ORG, european union confirmed, 1
+ORG, klaipeda, 1
+ORG, ukrainian capital new name, 1
+ORG, united state board geographic, 1
+ORG, kiev american authority, 1
+ORG, socialist european parliament, 1
+ORG, lgbt issue, 1
+ORG, ministry interior challenge, 1
+ORG, hbos chernobyl, 1
+ORG, u citizen soviet union, 1
+ORG, u troop poland, 1
+ORG, soros foundation, 1
+ORG, denmark delay construction nord, 1
+ORG, eu nord, 1
+ORG, eastern partnership programme end, 1
+ORG, u nord, 1
+ORG, green khmer green party, 1
+ORG, sputnik estonia estonian authority, 1
+ORG, hbo series, 1
+ORG, shanghai cooperation organisation, 1
+ORG, sco, 1
+ORG, douma syria western version, 1
+ORG, sovereign georgia, 1
+ORG, strasbourg venice commission, 1
+ORG, nato u eu imf world bank, 1
+ORG, serbia nato, 1
+ORG, eu imf world bank, 1
+ORG, belarusianrussian union, 1
+ORG, euromaidan kyiv, 1
+ORG, ukraine security, 1
+ORG, nato war federal republic, 1
+ORG, russian brandnew, 1
+ORG, inside european union, 1
+ORG, battle idlib, 1
+ORG, u imperialist, 1
+ORG, kremlin white house, 1
+ORG, georgia military, 1
+ORG, silent involvement porton laboratory, 1
+ORG, united state inf treaty, 1
+ORG, u congress bloomberg, 1
+ORG, berdiansk nikopol tugboat yany kapu, 1
+ORG, imf partner ukraine, 1
+ORG, ukraine control using force, 1
+ORG, royal institute international, 1
+ORG, eastern european country belarus, 1
+ORG, u navy hospital, 1
+ORG, usn, 1
+ORG, eu construction bank corporation, 1
+ORG, ukrainian army armed, 1
+ORG, kyiv people militia, 1
+ORG, european country force, 1
+ORG, nato new military, 1
+ORG, eastern european county poland czechia, 1
+ORG, georgia socalled human right, 1
+ORG, belarus ukraine state programme humanitarian military, 1
+ORG, allied relation, 1
+ORG, nord stream ii, 1
+ORG, volkswagen, 1
+ORG, nato expansion east, 1
+ORG, europe united relation, 1
+ORG, eu european country, 1
+ORG, eu union, 1
+ORG, heinzchristian strache framed, 1
+ORG, gallup institute, 1
+ORG, ukraine new, 1
+ORG, u aegis system romania, 1
+ORG, u cruise, 1
+ORG, stalin poland, 1
+ORG, german danzig, 1
+ORG, eu eastern, 1
+ORG, eastern partnership summit, 1
+ORG, brussels eastern partnership, 1
+ORG, eu eap, 1
+ORG, u de facto, 1
+ORG, decision court, 1
+ORG, luxembourg european court justice court, 1
+ORG, un institution, 1
+ORG, united state planning use nuclear weapon europesome european country dependent, 1
+ORG, yekaterinburg sverdlovsk oblast, 1
+ORG, central election committee ukraine, 1
+ORG, volodymyr zelenskyys inauguration, 1
+ORG, splitup, 1
+ORG, american atlantic council, 1
+ORG, eastern partnership programme west, 1
+ORG, washington security, 1
+ORG, volodymyr zelenskys inauguration, 1
+ORG, eu eastern partnership, 1
+ORG, eastern partnership isolate moscow, 1
+ORG, aim force ukrainian court, 1
+ORG, ci commonwealth, 1
+ORG, pompeo walker nbsp, 1
+ORG, eu european parliament, 1
+ORG, kremlin bloomberg, 1
+ORG, belarus russia future, 1
+ORG, volodymyr zelenskiy, 1
+ORG, yuliya sergey skripal, 1
+ORG, ministry foreign affair united kingdom, 1
+ORG, electoral campaign future european parliament, 1
+ORG, romanian party, 1
+ORG, baltic state, 1
+ORG, donbas ukraine, 1
+ORG, selfproclaimed lnr dnr, 1
+ORG, history european union, 1
+ORG, antirussian european union, 1
+ORG, rolethe european union, 1
+ORG, le trust united europe, 1
+ORG, u oil embargo million, 1
+ORG, nato u fund, 1
+ORG, georgia georgia finance, 1
+ORG, nato relic old, 1
+ORG, europe distanced, 1
+ORG, crimea eastern ukraine, 1
+ORG, antimigration eusceptic party, 1
+ORG, 4th reich, 1
+ORG, dia, 1
+ORG, poroshenkos team active, 1
+ORG, american delegation crimea, 1
+ORG, georgia willingly express, 1
+ORG, western bank, 1
+ORG, russian centre, 1
+ORG, stepan bandera, 1
+ORG, western ngo, 1
+ORG, washington nato, 1
+ORG, maastricht, 1
+ORG, suzerain nato european union, 1
+ORG, ussr western, 1
+ORG, united state ukraine, 1
+ORG, cathedral paris, 1
+ORG, brussels nato, 1
+ORG, gotland popular tourist, 1
+ORG, u colonial administration, 1
+ORG, le monde, 1
+ORG, allied hegemonic, 1
+ORG, ukrainian academy monitoring, 1
+ORG, ukrainian conflict sparked, 1
+ORG, islamist radical, 1
+ORG, u russian france, 1
+ORG, kaaba holy shrine mekka mosque, 1
+ORG, uk planning, 1
+ORG, uk newspaper guardian, 1
+ORG, ukrainian army military action population southeastern ukraine, 1
+ORG, sbu agent board, 1
+ORG, nato russia, 1
+ORG, un agency, 1
+ORG, venezuela progovernment, 1
+ORG, united state planning foment unrest secessionism force territorial, 1
+ORG, barquisimeto acarigua valencia strategically, 1
+ORG, guayana rich, 1
+ORG, 101st, 1
+ORG, kgb investigation committee dissolved restoration lawenforcement, 1
+ORG, nato air force, 1
+ORG, venice commission council, 1
+ORG, u government armed force symbol international military economic terrorism u government, 1
+ORG, uk usa, 1
+ORG, united state fed, 1
+ORG, u hegemony european security, 1
+ORG, north atlantic treaty, 1
+ORG, ukrainian capital kyiv, 1
+ORG, schengen visa national belarus, 1
+ORG, nato alliance defence college, 1
+ORG, orthodox church confirmed recognise autocephaly new church ukraine office council, 1
+ORG, orthodox church, 1
+ORG, berlin wall, 1
+ORG, united state deprivation natural resource, 1
+ORG, lawenforcement agency, 1
+ORG, georgia effectively georgia, 1
+ORG, nato control military infrastructure ukraine, 1
+ORG, anaklia seaport, 1
+ORG, georgia nato u, 1
+ORG, atlantic council, 1
+ORG, boeing catastrophe connection, 1
+ORG, u ambassador kyiv control ukraine ukrainian, 1
+ORG, nato parliamentary assembly michal szczerba press conference, 1
+ORG, power ukrainian institute, 1
+ORG, imf world bank, 1
+ORG, united state entire, 1
+ORG, nato alliance, 1
+ORG, russia western vector geopolitics ukraine, 1
+ORG, jit russia involvement, 1
+ORG, eastern ukraine luhansk donetsk region, 1
+ORG, tension kiev budapest, 1
+ORG, inhabitant selfproclaimed republic donetsk lugansk die, 1
+ORG, nato eu ukraine, 1
+ORG, u center, 1
+ORG, baltic sea, 1
+ORG, u germany poland baltic country, 1
+ORG, recognition peninsula, 1
+ORG, golan height sovereign, 1
+ORG, central election commission, 1
+ORG, venezuela colombia, 1
+ORG, united state focus fighting, 1
+ORG, georgia baltic, 1
+ORG, neonazis european union, 1
+ORG, prorussian federal republic, 1
+ORG, sbu state security service, 1
+ORG, u engineering troop usace, 1
+ORG, ukrainian social organisation ukraine, 1
+ORG, world antidoping agency committee, 1
+ORG, fifa, 1
+ORG, ukrainian institute national remembrance institute, 1
+ORG, new u nuclear strategy, 1
+ORG, visa u citizen 2021, 1
+ORG, donbas kerch, 1
+ORG, u china china largest trading partner australia, 1
+ORG, facebook turned atlantic council, 1
+ORG, isi deir ezzor governorate gold, 1
+ORG, crimea international, 1
+ORG, kyiv peninsula gain modernity, 1
+ORG, eu united state date, 1
+ORG, catholic church along european union, 1
+ORG, détat kyiv new militaristic authority, 1
+ORG, crimea ukraine crimea, 1
+ORG, donbas republic free independent, 1
+ORG, selfproclaimed luhansk people republic donetsk people republic proclaimed, 1
+ORG, leadership ukraine ministry health, 1
+ORG, united kingdom leaf european union, 1
+ORG, isi enclave, 1
+ORG, maidan fighting eastern ukraine, 1
+ORG, eastern part, 1
+ORG, trnc mustafa akinci south cyprus, 1
+ORG, ukraine united state america country european union, 1
+ORG, stepan bandera street lviv, 1
+ORG, london sergei skripal, 1
+ORG, ukrainian brigade, 1
+ORG, bandera power, 1
+ORG, ukrainian lawenforcement agency, 1
+ORG, syria u military, 1
+ORG, eu italy, 1
+ORG, kerch strait nbsp, 1
+ORG, isi fighter militant, 1
+ORG, anbar province, 1
+ORG, u assault venezuela, 1
+ORG, american special force, 1
+ORG, united nation data, 1
+ORG, eu nato romania, 1
+ORG, silent london, 1
+ORG, bolivia u, 1
+ORG, aleppo eastern ghouta, 1
+ORG, ukrainian authority planning, 1
+ORG, cia u geospatial intelligence, 1
+ORG, balkan nbsp, 1
+ORG, détat nbsp, 1
+ORG, nato u state department, 1
+ORG, hajin deir az zor, 1
+ORG, maidan economic collapse impoverishment, 1
+ORG, ukraine disintegration poland, 1
+ORG, lviv ukraine, 1
+ORG, ukrainian nationalist, 1
+ORG, brussels u puppet try increase, 1
+ORG, uk nbsp, 1
+ORG, united state army, 1
+ORG, islamisation europe migrant force european woman, 1
+ORG, hijab, 1
+ORG, cbs news, 1
+ORG, listing azerbaijan, 1
+ORG, kyiv party war, 1
+ORG, first refugee bangladesh italy, 1
+ORG, strait kerch, 1
+ORG, rt russia force, 1
+ORG, belarus relation west imf, 1
+ORG, kerch strait ukraine, 1
+ORG, syria container, 1
+ORG, khansheikhun, 1
+ORG, u senate resolution, 1
+ORG, catholic university, 1
+ORG, catholic university world old, 1
+ORG, george washington university, 1
+ORG, freemason u vatican, 1
+ORG, kerch strait black sea, 1
+ORG, bank england, 1
+ORG, taliban, 1
+ORG, donbas fulfil minsk, 1
+ORG, belarus accession, 1
+ORG, kosovo u, 1
+ORG, moldova romania, 1
+ORG, lng, 1
+ORG, détat venezuela, 1
+ORG, american washington, 1
+ORG, orthodox church ukraine church ukraine belonging, 1
+ORG, georgian national center, 1
+ORG, parliamentary assembly council, 1
+ORG, european party, 1
+ORG, süddeutsche zeitung, 1
+ORG, scotland catalonia indiana south ossetia, 1
+ORG, kiyv, 1
+ORG, yellow vest movement, 1
+ORG, belarus lawenforcement, 1
+ORG, u direction nord stream ii, 1
+ORG, civil war ukraine authority kyiv, 1
+ORG, washington post, 1
+ORG, financial corporation new york, 1
+ORG, beneficial european union nato, 1
+ORG, kerch strait ukrainian navy, 1
+ORG, nato osce, 1
+ORG, western world america, 1
+ORG, copied european union, 1
+ORG, embark european path ukrainian authority, 1
+ORG, georgia private contractor federal contract, 1
+ORG, latvia, 1
+ORG, equality parliamentary assembly council, 1
+ORG, georgetown university, 1
+ORG, georgia import utilize chemical, 1
+ORG, tomos autocephaly ukrainian orthodox church, 1
+ORG, un global compact migration classified, 1
+ORG, terrorist group, 1
+ORG, nato financial, 1
+ORG, аnd arm corporation, 1
+ORG, maidan europe, 1
+ORG, corridor power ukraine, 1
+ORG, kersti, 1
+ORG, secretary general organisation security cooperation europe, 1
+ORG, eu georgia visa liberalization, 1
+ORG, provocation kiev kerch strait, 1
+ORG, uk france spain, 1
+ORG, nato opendoor, 1
+ORG, brussels metro, 1
+ORG, national european union, 1
+ORG, donetsk national republic ukraine, 1
+ORG, u earmark fund, 1
+ORG, ukraine parliament, 1
+ORG, ukraine interior, 1
+ORG, decision sweden ministry, 1
+ORG, vitryssland exchange belarus, 1
+ORG, solidarity, 1
+ORG, donbas eastern ukraine, 1
+ORG, amnesty international report, 1
+ORG, u soft power greenpeace wwf, 1
+ORG, ukrainian armed force west, 1
+ORG, un global migration, 1
+ORG, kirill chubenko ukraine consequence, 1
+ORG, united state fighting dissolution, 1
+ORG, euukraine association agreement, 1
+ORG, eu council, 1
+ORG, brexit rise rightwing party, 1
+ORG, soros organisation threat constitutional system security, 1
+ORG, ukraine provocation kerch strait, 1
+ORG, kerch strait united nation security council, 1
+ORG, invasion ukrainian vessel, 1
+ORG, inhabitant crimea, 1
+ORG, argentina western, 1
+ORG, berdiansk nikopol, 1
+ORG, rukban refugee camp, 1
+ORG, georgia usa recognises, 1
+ORG, donbas washington curator, 1
+ORG, minsk kyiv chisinau, 1
+ORG, ukraine usa, 1
+ORG, british authority, 1
+ORG, unhcr eu, 1
+ORG, georgia accession european union, 1
+ORG, u studio russia bury, 1
+ORG, kremlin troll finland, 1
+ORG, ministry education, 1
+ORG, american french force force, 1
+ORG, iraqi national museum, 1
+ORG, georgia country georgia main tradeeconomic partner information usa, 1
+ORG, armenia georgia america, 1
+ORG, georgia azerbaijan, 1
+ORG, karabakh abkhazia south ossetia, 1
+ORG, nato helsinki, 1
+ORG, kyiv international institute, 1
+ORG, kiis russia, 1
+ORG, autocephaly ukrainian orthodox church, 1
+ORG, boulder face red army, 1
+ORG, ivanofrankivsk western ukraine, 1
+ORG, u intervened ukraine, 1
+ORG, georgia potential nato, 1
+ORG, ukrainian university force, 1
+ORG, eu eurosceptics, 1
+ORG, western european country, 1
+ORG, u representative kyiv bought, 1
+ORG, monsanto, 1
+ORG, gmo, 1
+ORG, russian academy national economy public administration, 1
+ORG, american university, 1
+ORG, administration kyiv, 1
+ORG, ukrainian securty, 1
+ORG, lviv transcarpathia, 1
+ORG, europeanization republic, 1
+ORG, islamisation moldova, 1
+ORG, islamisation republic, 1
+ORG, map ukraine, 1
+ORG, prokremlin news agency news, 1
+ORG, editorinchief, 1
+ORG, ukraine russia, 1
+ORG, biryukov director institute freedom, 1
+ORG, presidium political council rodina party, 1
+ORG, syria ukraine ukraine, 1
+ORG, sergei markov director institute, 1
+ORG, israel air force, 1
+ORG, il20 syria, 1
+ORG, nato european union u, 1
+ORG, u plan war russia, 1
+ORG, jamestown foundation usa, 1
+ORG, kaliningrad american, 1
+ORG, minsk trilateral group, 1
+ORG, russian authority international community, 1
+ORG, bolivia big corporation, 1
+ORG, hunt aymara quechua, 1
+ORG, abkhazia ossetia, 1
+ORG, kvaratskhelia, 1
+ORG, georgia decriminalize personal use drug acquisition, 1
+ORG, st petersburg university, 1
+ORG, moscow university, 1
+ORG, european broadcasting union, 1
+ORG, georgia latvia, 1
+ORG, cctv, 1
+ORG, turkistan islamic movement, 1
+ORG, azov group, 1
+ORG, ukraine citizen guard, 1
+ORG, u canada, 1
+ORG, ukraine army command, 1
+ORG, azov paramilitary battalion control foreign, 1
+ORG, united state canada, 1
+ORG, nato military donetsk news agency, 1
+ORG, kafr zita syria northwestern, 1
+ORG, south ossetia anatoly bibilov, 1
+ORG, cochairs geneva, 1
+ORG, cyberberkut, 1
+ORG, united nation office uno, 1
+ORG, georgia eu usa south ossetia, 1
+ORG, aim south ossetia, 1
+ORG, georgia national football team vicecaptain, 1
+ORG, crimean supreme court, 1
+ORG, supreme council clash council, 1
+ORG, united russia local party, 1
+ORG, isi trollhättan islamic revolution, 1
+ORG, america usa freed, 1
+ORG, russia london, 1
+ORG, school uppsala university, 1
+ORG, western foundation power, 1
+ORG, national team ukraine weightlifting, 1
+ORG, kiev future museum, 1
+ORG, yuri, 1
+ORG, sweden pioneer, 1
+ORG, europe european union, 1
+ORG, uk canada benelux country, 1
+ORG, czechoslovakia macron, 1
+ORG, berlin germanczech, 1
+ORG, oleg sentsov, 1
+ORG, easter nbsp, 1
+ORG, kyiv territory, 1
+ORG, latest news, 1
+ORG, berliner express, 1
+ORG, lpr russian federation, 1
+ORG, u government nato, 1
+ORG, orange revolution ukraine, 1
+ORG, ukrainian national security council, 1
+ORG, russian army information, 1
+ORG, russian army force eastern ukraine, 1
+ORG, smuggler united nation european commission, 1
+ORG, luhansk people republic lpr, 1
+ORG, serbia automaidan movement, 1
+ORG, pavlo klimkin, 1
+ORG, turin italy, 1
+ORG, bellingcat atlantic council, 1
+ORG, bulgaria nato institute, 1
+ORG, press service ministry state security donetsk people republic, 1
+ORG, boeing mh17 malaysian, 1
+ORG, free syrian army u, 1
+ORG, donbas eudelegation press service ministry state security, 1
+ORG, u medium washington, 1
+ORG, latvian army, 1
+ORG, territory south ossetia, 1
+ORG, organizer international youth, 1
+ORG, tatar mejlis representative council, 1
+ORG, russophobia nbsp, 1
+ORG, lithuanian news, 1
+ORG, brainwashing romanian, 1
+ORG, julia, 1
+ORG, st catherine thessaloniki marking, 1
+ORG, russia european union, 1
+ORG, kriakivka eastern ukraine intimidation osce, 1
+ORG, minsk osce, 1
+ORG, ukrainian tracing ancestry, 1
+ORG, yulia skripals, 1
+ORG, general data protection regulation gdpr, 1
+ORG, fm sergei, 1
+ORG, ukraine georgia egypt company, 1
+ORG, armenia transnational globalist organisation keep, 1
+ORG, eastern, 1
+ORG, netherlands canada, 1
+ORG, milo zeman, 1
+ORG, american medical, 1
+ORG, nato serviceman canada, 1
+ORG, crimea donbas, 1
+ORG, rumour finland, 1
+ORG, maidan development reason, 1
+ORG, schengen area, 1
+ORG, moldova ukraine, 1
+ORG, georgia moldova travel, 1
+ORG, university turin recognizes certificate university donetsk people republic, 1
+ORG, ukrainian company naftogaz, 1
+ORG, u sanction company, 1
+ORG, ford motor company company, 1
+ORG, sport arbitration court switzerland, 1
+ORG, u european union, 1
+ORG, crimea kyivs, 1
+ORG, unesco revised edition international technical, 1
+ORG, united state united kingdom, 1
+ORG, ceasefire kyiv donetsk, 1
+ORG, u defense department medicalbiological, 1
+ORG, uk army, 1
+ORG, un secretariat security, 1
+ORG, u state virginia, 1
+ORG, fortum potential direction, 1
+ORG, complication washington using nato, 1
+ORG, douma chemical, 1
+ORG, american 1991, 1
+ORG, polycarpas gribauskas, 1
+ORG, kgb cia soviet union, 1
+ORG, us skripal, 1
+ORG, classic example, 1
+ORG, u nbsp, 1
+ORG, antigovernment demonstration, 1
+ORG, trianon, 1
+ORG, syria skripal, 1
+ORG, gts gas transportation system, 1
+ORG, ukraine military command, 1
+ORG, crimea establish cooperation, 1
+ORG, porton mired, 1
+ORG, fajlak alrahman ahrar, 1
+ORG, washington pentagon nato european union, 1
+ORG, light european union, 1
+ORG, ukraine destroyed europe association, 1
+ORG, ukraine ukraine anymore, 1
+ORG, european un convention, 1
+ORG, u georgia strategic partnership, 1
+ORG, june26, 1
+ORG, american pouring defense industry, 1
+ORG, ukraine hotel mikheil, 1
+ORG, nato navy, 1
+ORG, brussels un, 1
+ORG, krasnodar nbsp, 1
+ORG, east south ethnicrussian, 1
+ORG, euronews inflamed imagination, 1
+ORG, détat ukrainian revolution destiny, 1
+ORG, maidan center, 1
+ORG, france islamic, 1
+ORG, dominican republic chile, 1
+ORG, olympics sochi canadian, 1
+ORG, communist party, 1
+ORG, normalisation relation, 1
+ORG, air force ukraine nbsp, 1
+ORG, migration czech republic, 1
+ORG, boston marathon, 1
+ORG, national defense, 1
+ORG, garegin nzhdeh erected armenia, 1
+ORG, nato liaison office chisinau u destroying, 1
+ORG, italy laura boldrini, 1
+ORG, american eu, 1
+ORG, russian federation wage war territory ukraine territory donetsk lugansk people republic, 1
+ORG, america american force, 1
+ORG, naftogaz ukrainian state gas company, 1
+ORG, andriy kobelev, 1
+ORG, european union u, 1
+ORG, kyiv patriarchate, 1
+ORG, u senate foreign relation committee, 1
+ORG, osh authority, 1
+ORG, defense ministry general staff department construction development, 1
+ORG, boris nemtsov plaza washington, 1
+ORG, boeing poseidon aircraft usaf, 1
+ORG, jerusalem capital israel, 1
+ORG, sweden security, 1
+ORG, u satellite, 1
+ORG, poland united state, 1
+ORG, ukrainian troop movement, 1
+ORG, information department, 1
+ORG, crimea un, 1
+ORG, copenhagen zoo, 1
+ORG, oulu, 1
+ORG, russian army territory, 1
+ORG, russian federation, 1
+ORG, national olympic committee, 1
+ORG, ukrainian tv channel news, 1
+ORG, north korean foreign ministry, 1
+ORG, ukraine autumn, 1
+ORG, victim stalin repression 19371938, 1
+ORG, dpr foreign ministry, 1
+ORG, tel aviv, 1
+ORG, jerusalem nbsp, 1
+ORG, blow north caucasus republic volga, 1
+ORG, delegation council europe committee prevention torture, 1
+ORG, ioc russia, 1
+ORG, olympic movement, 1
+ORG, lithuanian fascist union, 1
+ORG, ukrainian tv, 1
+ORG, zeman upcoming, 1
+ORG, igor dodon, 1
+ORG, euromediterranean partnership, 1
+ORG, migration islamic country change life, 1
+ORG, congress gathering, 1
+ORG, u ambassador armenia, 1
+ORG, islam rapid growth country, 1
+ORG, yanukovych nbsp, 1
+ORG, halifax international security, 1
+ORG, ukraine georgia alliance, 1
+ORG, garegin nzhdeh armenian bandera erected yerevan, 1
+ORG, republican party, 1
+ORG, armenia ideology national conservatism, 1
+ORG, european union concern modernization, 1
+ORG, u treasury, 1
+ORG, american troop syria, 1
+ORG, national security defence council, 1
+ORG, ukraine military, 1
+ORG, eu exchange, 1
+ORG, ukraine caucasus, 1
+ORG, u overwhelmed russia military capability, 1
+ORG, venezuela national assembly, 1
+ORG, lugar laboratory located territory, 1
+ORG, visa free, 1
+ORG, eu visa, 1
+ORG, georgia national, 1
+ORG, beslan nordost, 1
+ORG, ukraine situation power force, 1
+ORG, nato defence force, 1
+ORG, mh17 ukraine air force, 1
+ORG, council state netherlands, 1
+ORG, buk missile georgia busy much investigation, 1
+ORG, khan sheikhoun u, 1
+ORG, usaid political force, 1
+ORG, u position, 1
+ORG, usaid try, 1
+ORG, usaid fund, 1
+ORG, power pas national authority, 1
+ORG, united state agency international development infrastructure manual, 1
+ORG, american institute development fund, 1
+ORG, proposal european commission, 1
+ORG, european parliament committee, 1
+ORG, university luxembourg, 1
+ORG, street u embassy kyiv, 1
+ORG, air force, 1
+ORG, speech university, 1
+ORG, blackrock group, 1
+ORG, russian airspace force, 1
+ORG, catalonia bomb madrid, 1
+ORG, u way u, 1
+ORG, boleslawiec drawsko pomorskie, 1
+ORG, u armed force division, 1
+ORG, 000 north african exchange, 1
+ORG, georgia express, 1
+ORG, armenia eu, 1
+ORG, council europe parliamentary assembly, 1
+ORG, inspiration flanders, 1
+ORG, yuriy baturin, 1
+ORG, u sof syrian democratic force, 1
+ORG, pentagon nato headquarters council, 1
+ORG, mesa camacho, 1
+ORG, russia finnougric republic using missionary, 1
+ORG, isi syria, 1
+ORG, texas georgia newyork, 1
+ORG, nato standard armed force management, 1
+ORG, abkhazia republic south ossetia, 1
+ORG, military kiev beat, 1
+ORG, teploe, 1
+ORG, russia u, 1
+ORG, bandera nationalist, 1
+ORG, battalion islamic state resting resort provided, 1
+ORG, crimea crimea, 1
+ORG, homeland ukraine, 1
+ORG, italy western, 1
+ORG, vanguard new society italy, 1
+ORG, abc news, 1
+ORG, dmitry vovk, 1
+ORG, basis deployment peacekeeper, 1
+ORG, balearic island, 1
+ORG, u european country, 1
+ORG, ci foreign international nongovernmental organization traditional tool, 1
+ORG, un peacekeeper east ukraine, 1
+ORG, nato fleet sea azov, 1
+ORG, constitution romania, 1
+ORG, ioc wada international olympic committee, 1
+ORG, crimea russia, 1
+ORG, ukraine state statistic service, 1
+ORG, bbc cnn, 1
+ORG, sergei sirbu, 1
+ORG, usaid u agency, 1
+ORG, uk european country university, 1
+ORG, ukraine association agreement european union, 1
+ORG, african european state refugee africa, 1
+ORG, british u, 1
+ORG, epidemic measles ukraine, 1
+ORG, interview guardian, 1
+ORG, ossetia involvement security, 1
+ORG, north ossetia, 1
+ORG, united state finland, 1
+ORG, g20 hamburg, 1
+ORG, baltic state germanled, 1
+ORG, batallion lithuania, 1
+ORG, ngo people, 1
+ORG, idlib deescalation zone, 1
+ORG, european union eastern partnership, 1
+ORG, hamburg g20, 1
+ORG, current european integration, 1
+ORG, quadcopter, 1
+ORG, united state coal import, 1
+ORG, apu mariinka ukraine, 1
+ORG, sbu security, 1
+ORG, ukrainian rock group, 1
+ORG, stanytsia luhanska eastern ukraine, 1
+ORG, frontex, 1
+ORG, centre immigrant italy, 1
+ORG, ukranian authority, 1
+ORG, isi u defense intelligence agency, 1
+ORG, recent european parliament resolution, 1
+ORG, u supporting, 1
+ORG, ukraine nest neonazis due orange revolution, 1
+ORG, international monetary fund imf, 1
+ORG, selfproclaimed donetsk people republic free medical, 1
+ORG, nato west, 1
+ORG, ussr nato, 1
+ORG, eastern ukraine u, 1
+ORG, poland antieuropean force, 1
+ORG, nato f16, 1
+ORG, free russia, 1
+ORG, cia spy satellite, 1
+ORG, ukrainianness fabricated, 1
+ORG, st george ukrainian fleeing country, 1
+ORG, u funded laboratory, 1
+ORG, new european defence fund, 1
+ORG, bolshevik ukrainian, 1
+ORG, ukrainethe eu council, 1
+ORG, state ideology ukraine national, 1
+ORG, ukraine bloc western, 1
+ORG, nonvalid, 1
+ORG, détat ukrainian, 1
+ORG, crimea nato enlargement east, 1
+ORG, future accession ukraine nato, 1
+ORG, eu ukraine czech republic, 1
+ORG, kersti kaljulaid, 1
+ORG, russia baltic, 1
+ORG, canada usa western ukraine, 1
+ORG, russophobia inseparable western identity, 1
+ORG, abkhazia south ossetias, 1
+ORG, georgia conflictridden relation republic, 1
+ORG, ukraine soil resource, 1
+ORG, isi european refugee crisis invasion, 1
+ORG, frontex european border coast guard agency, 1
+ORG, barclays leading globalist bank, 1
+ORG, malmö police flooded dozen, 1
+ORG, georgiansouth ossetia, 1
+ORG, tbilisi military force, 1
+ORG, welt european union, 1
+ORG, ukraine colonial empire, 1
+ORG, khan sheikhoun, 1
+ORG, arunachal pradesh, 1
+ORG, nato approach, 1
+ORG, slovakia soross, 1
+ORG, american paramedic osce, 1
+ORG, le pen, 1
+ORG, soros international financial oligarch, 1
+ORG, lithuania baltic state, 1
+ORG, kyiv force, 1
+ORG, annexation crimea ukraine, 1
+ORG, european integration eastern partnership, 1
+ORG, assad air force province, 1
+ORG, echr russian authority, 1
+ORG, beslan school hostage, 1
+ORG, muslim brotherhood, 1
+ORG, islamise european continent, 1
+ORG, cuba madrid, 1
+ORG, khan sheikhoun warehouse, 1
+ORG, un russian aerospace force, 1
+ORG, syrian army posse chemical, 1
+ORG, khan sheikhoun warehouse syrian force, 1
+ORG, st petersburg metro, 1
+ORG, osce ukrainian special force, 1
+ORG, ukraine establish refugee center, 1
+ORG, ukrinform state news, 1
+ORG, meps resolution brexit, 1
+ORG, ukraine terrorist state authority, 1
+ORG, russian federation investigative committee, 1
+ORG, u european ally invaded occupied, 1
+ORG, poison european drug, 1
+ORG, rockefeller foundation, 1
+ORG, imf, 1
+ORG, bolshevik, 1
+ORG, waffen s, 1
+ORG, majority refugee arriving germany, 1
+ORG, european union supplying, 1
+ORG, moldova, 1
+ORG, establishment netherlands, 1
+ORG, da neue europa disintegration, 1
+ORG, european bank, 1
+ORG, control exchange rate, 1
+ORG, ukraine ministry culture, 1
+ORG, american ngo planned parenthood performs, 1
+ORG, ukraine army, 1
+ORG, un international court, 1
+ORG, new american administration, 1
+ORG, visa free travel, 1
+ORG, kazakh president, 1
+ORG, nato europe, 1
+ORG, people revolution ukraine, 1
+ORG, ukraine southern nuclear power plant, 1
+ORG, ukrainian weapon, 1
+ORG, russia ukraine export weapon, 1
+ORG, donbas russian land bombed, 1
+ORG, ukrainian capital, 1
+ORG, noncombat casualty ukrainian army risen ukrainian, 1
+ORG, u canada ending military cooperation, 1
+ORG, avignon, 1
+ORG, czech armed force one, 1
+ORG, czech army brigade commanded, 1
+ORG, ukrainian army destroyed battalion, 1
+ORG, american command ukraine ukraine, 1
+ORG, task west use force, 1
+ORG, givi, 1
+ORG, nonbattle casualty ukrainian army, 1
+ORG, lgbt activist, 1
+ORG, western ngo western, 1
+ORG, nato troop baltic largest troop, 1
+ORG, eastern european country exchange, 1
+ORG, delegation university bristol, 1
+ORG, un european parliament, 1
+ORG, crimean republic, 1
+ORG, luftwaffe, 1
+ORG, nato battalion, 1
+ORG, le popular, 1
+ORG, ireland england, 1
+ORG, für deutschland, 1
+ORG, revolution ukraine, 1
+ORG, department homeland security, 1
+ORG, exsoviet, 1
+ORG, alexander yakovlev, 1
+ORG, politburo, 1
+ORG, ussr resource technology, 1
+ORG, current ukrainian authority hate ukrainian carry policy, 1
+ORG, abkhazia socalled south ossetia, 1
+ORG, jens stoltenberg nato, 1
+ORG, georgia visafree, 1
+ORG, belarus, 1
+ORG, german reich, 1
+ORG, roman zozulya, 1
+ORG, allrussian civilization, 1
+ORG, ukraine georgia due nonpayment, 1
+ORG, mission ukraine alexander, 1
+ORG, berlin national state lose statehood, 1
+ORG, sdu sister party, 1
+ORG, antimass migration, 1
+ORG, afd social democratic party spd, 1
+ORG, u military coordinated airstrikes, 1
+ORG, donbas russia, 1
+ORG, detat ukraine, 1
+ORG, russia involvement ukraine limited, 1
+ORG, ukraine begin hunt, 1
+ORG, georgia ukraine alliance, 1
+ORG, u secretary state nominee, 1
+ORG, swedish institute international, 1
+ORG, saakashvili power, 1
+ORG, german focus magazine, 1
+ORG, ukrainian force, 1
+ORG, julian assange russia, 1
+ORG, nato deployment, 1
+ORG, krasnohorivka, 1
+ORG, sudan exchange armed, 1
+ORG, syria staffan, 1
+ORG, aid european union, 1
+ORG, aleppo liberated terrorist armed chemical, 1
+ORG, visa liberalization ukraine, 1
+ORG, georgia settle protection u military, 1
+ORG, aleppo civilian, 1
+ORG, lpr minsk, 1
+ORG, european integration olena zerkal, 1
+ORG, eu financial military, 1
+ORG, podemos spain, 1
+ORG, modernisation czech armed force, 1
+ORG, russophobia europe baltic state destroy, 1
+ORG, western social, 1
+ORG, maidan volodymyr zelenskyy, 1
+ORG, ukraine complete disintegration, 1
+ORG, food served refugee free, 1
+ORG, zone russia, 1
+ORG, visa russian citizen living crimea, 1
+ORG, visaliberalisation ukraine, 1
+ORG, ukrainian neonazis europe, 1
+ORG, war eastern ukraine, 1
+ORG, nrc, 1
+ORG, u military lithuania preparation, 1
+ORG, european union much, 1
+ORG, neonazi ukrainian authority, 1
+ORG, meps resolution, 1
+ORG, islamist terrorist group, 1
+ORG, new czech ministry interior centre, 1
+ORG, tatar representative council, 1
+ORG, visaliberalisation ukrainian, 1
+ORG, frontex agency, 1
+ORG, lgbt community sweden russophobia, 1
+ORG, warsaw reality organized usa, 1
+ORG, u afford war russia, 1
+ORG, eu chisinau moldova, 1
+ORG, crimea henichesk city southern, 1
+ORG, stalin built 20000, 1
+ORG, seminary academy, 1
+ORG, local council, 1
+ORG, aleppo selfproclaimed, 1
+ORG, american ngo human, 1
+ORG, u ukraine amputate ukraine, 1
+ORG, improvement area trade, 1
+ORG, nato troop, 1
+ORG, ukrainian armed force recruiting, 1
+ORG, mikhail gorbachev atlantic alliance, 1
+ORG, kroměříž, 1
+ORG, government institution finland european country, 1
+ORG, control statistic crime committed refugee, 1
+ORG, czechoslovakia western inteligence, 1
+ORG, crimea rostov, 1
+ORG, annexation crimea outbreak war ukraine, 1
+ORG, ec, 1
+ORG, new department disinformation czech ministry interior, 1
+ORG, u central intelligence agency, 1
+ORG, nato u uk force spain, 1
+ORG, u protect, 1
+ORG, luhansk people republic donetsk people republic, 1
+ORG, ukrainian information ministry, 1
+ORG, islamic radical flocking southern ukraine, 1
+ORG, aleppo syria, 1
+ORG, royal belgian air force, 1
+ORG, moldova european integration course, 1
+ORG, naftogaz, 1
+ORG, ukrainenato interparliamentary council, 1
+ORG, apc, 1
+ORG, georgia ukraine, 1
+ORG, isi radical sunni group, 1
+ORG, american news agency, 1
+ORG, u blow, 1
+ORG, georgia moldova, 1
+ORG, isi cia, 1
+ORG, poroshenko ukraine syria, 1
+ORG, russia supreme court, 1
+ORG, allied world richest, 1
+ORG, u striking force, 1
+ORG, ukrainian armed force selling petrol local exchange alcohol, 1
+ORG, donbas kyiv, 1
+ORG, u congress india, 1
+ORG, western medium, 1
+ORG, nofly zone syria, 1
+ORG, u drowning russophobia, 1
+ORG, osce monitor, 1
+ORG, ukraine cancel, 1
+ORG, lithuania baltic state temporary, 1
+ORG, nato lithuania, 1
+ORG, u financially supporting terrorist group north caucasus russia, 1
+ORG, united state usa, 1
+ORG, rearmed wehrmacht, 1
+ORG, ukraininan armed force firing position order pin, 1
+ORG, nazi eu want force, 1
+ORG, czech union, 1
+ORG, czech school inspection recommendation, 1
+ORG, u buying ukrainian land sow, 1
+ORG, ukraine invaded, 1
+ORG, neonazi group political party, 1
+ORG, ukraine g20 summit noone trust ukrainian, 1
+ORG, batallions ukraine, 1
+ORG, ukrainian army alcohol drug, 1
+ORG, lviv oblast, 1
+ORG, american govern ukraine, 1
+ORG, georgia fulfills condition nato integration process, 1
+ORG, germany italy, 1
+ORG, u legislation, 1
+ORG, isi georgia, 1
+ORG, victoria nuland ministry, 1
+ORG, donbas ngo people, 1
+ORG, ukrainian cannon fodder war, 1
+ORG, wada world anti doping agency, 1
+ORG, crimea syria, 1
+ORG, apple pole, 1
+ORG, greek church, 1
+ORG, maidan state, 1
+ORG, luhansk national republic, 1
+ORG, georgia accession, 1
+ORG, european army, 1
+ORG, eu tool, 1
+ORG, czech republic un, 1
+ORG, kaliningrad, 1
+ORG, nato warsaw summit established supranational intelligence agency, 1
+ORG, gorbachev nato, 1
+ORG, european union russia, 1
+ORG, conflict jihad, 1
+ORG, uefa, 1
+ORG, nato warsaw summit ukraine, 1
+ORG, kyiv authority, 1
+ORG, chernobyl east ukraine, 1
+ORG, russia ukraine wick bomb prepared, 1
+ORG, nato summit warsaw preparation war, 1
+ORG, maydan, 1
+ORG, un secretarygeneral launch, 1
+ORG, ukraine state, 1
+ORG, crimea european country, 1
+ORG, isi ahmed chataev, 1
+ORG, gmos, 1
+ORG, u state department forming army social medium troll spread, 1
+ORG, gec, 1
+ORG, european leftwing party, 1
+ORG, barack obama usa, 1
+ORG, uk eu, 1
+ORG, big eurasian union, 1
+ORG, uk turkey european union, 1
+ORG, nato military spiritual union, 1
+ORG, georgia u, 1
+ORG, ukrainian army deployed battalion, 1
+ORG, mason illuminati satanist western, 1
+ORG, war european union, 1
+ORG, donbas national guard ukraine supported refugee north africa mercenary middle east, 1
+ORG, supporter european integration, 1
+ORG, andrey parubiy, 1
+ORG, cia europe, 1
+ORG, georgia russia, 1
+ORG, european solidarity, 1
+ORG, ukraine protection national minority, 1
+ORG, marseille drunk england, 1
+ORG, agence francepresse reuters, 1
+ORG, nato military drill demonstration, 1
+ORG, nasha niva, 1
+ORG, german army part, 1
+ORG, success syria, 1
+ORG, bilderberg group, 1
+ORG, nato anaconda exercise aim strangle, 1
+ORG, u japan, 1
+ORG, cia u state department, 1
+ORG, detat lpr involvement mercy corp oksana mikitenko, 1
+ORG, u spy, 1
+ORG, boeing mh17 russian igor girkin sergei doubinsky, 1
+ORG, citizen dniepropetrovsk, 1
+ORG, ukraine artificial state, 1
+ORG, united state germany, 1
+ORG, khmelnycky oblast zhytomyr kirovohrad, 1
+ORG, lithuanian authority planning, 1
+ORG, u hegemony europe usa, 1
+ORG, nato eastern, 1
+ORG, nato exercise, 1
+ORG, u ambassador, 1
+ORG, georgia informal, 1
+ORG, imf economic program, 1
+ORG, pow donbas ukraine nato, 1
+ORG, european union army, 1
+ORG, quakenbrück call, 1
+ORG, georgia moldova ossetia, 1
+ORG, ukraine integral, 1
+ORG, eve nato summit warsaw, 1
+ORG, russophobia west want, 1
+ORG, u britain eu, 1
+ORG, tatar demand renaming, 1
+ORG, militarization baltic region, 1
+ORG, eastern europe, 1
+ORG, veneto regional council, 1
+ORG, crimean peninsula, 1
+ORG, ukraine gayvision political, 1
+ORG, washington western country, 1
+ORG, topsecret, 1
+ORG, turkey algeria, 1
+ORG, kyiv ukraine, 1
+ORG, hezbollah, 1
+ORG, u troop europe continental part america, 1
+ORG, luhanska, 1
+ORG, u domination, 1
+ORG, european education system institution, 1
+ORG, u ngo, 1
+ORG, nazi germany, 1
+ORG, eu u puppet european, 1
+ORG, usa planning start war russia, 1
+ORG, disintegration ukraine, 1
+ORG, ukraine poland, 1
+ORG, national assembly, 1
+ORG, global oligarchy us, 1
+ORG, eu enlargement east, 1
+ORG, americanchineserussian rivalry old, 1
+ORG, radio polsha nato, 1
+ORG, chechen security force, 1
+ORG, usa installed cia, 1
+ORG, u oligarch, 1
+ORG, western ukraine western belarus, 1
+ORG, salvation ukraine west, 1
+ORG, ukraine georgia join, 1
+ORG, nato u puppet, 1
+ORG, migration crisis organized illuminati banker, 1
+ORG, mossad eu, 1
+ORG, rothschild world backstage gave, 1
+ORG, carte blanche, 1
+ORG, american press institute, 1
+ORG, washington, 1
+ORG, tatar mejlis medium, 1
+ORG, ukrainian siloviki, 1
+ORG, azerbaijani army, 1
+ORG, church greece decision recognise autocephaly orthodox, 1
+ORG, soross ngo planning, 1
+ORG, eu visa free travel ukrainian, 1
+ORG, eu association free trade agreement, 1
+ORG, eurussia relation, 1
+ORG, nato deployed force eastern europe, 1
+ORG, mi6 uk hedge fund, 1
+ORG, united nation report, 1
+ORG, idp, 1
+ORG, ukraine transcarpathian oblast council, 1
+ORG, crimea ukraine collapse, 1
+ORG, un sc, 1
+ORG, transcacarpathia oblast council, 1
+ORG, ukraine west, 1
+ORG, houston harvard, 1
+ORG, holland euukrainie dcfta prof u, 1
+ORG, euukraine dcfta european union, 1
+ORG, rothschild plan force, 1
+ORG, revision dublin, 1
+ORG, u country occupied, 1
+ORG, russia gazprom, 1
+ORG, détat armenia ukraine, 1
+ORG, bbcs documentary putin, 1
+ORG, alexey navalny, 1
+ORG, nato eye, 1
+ORG, union european union, 1
+ORG, nato belgrade, 1
+ORG, sbus, 1
+ORG, u installed nuclear facility territory ukraine, 1
+ORG, stockholm malmö gothenburg area, 1
+ORG, european union new resolution european parliament, 1
+ORG, ukraine artificial, 1
+ORG, kyiv city council, 1
+ORG, school university, 1
+ORG, people eastern ukraine, 1
+ORG, europe u, 1
+ORG, homeland ukrainian army bringing, 1
+ORG, ukrained, 1
+ORG, fascist ukrainian army, 1
+ORG, crimea accession russia, 1
+ORG, harvard, 1
+ORG, kherson region, 1
+ORG, new union, 1
+ORG, russia colonial dependency, 1
+ORG, aidar battalion, 1
+ORG, legalisation samesex civil partnership kyiv precondition eu visa, 1
+ORG, trakai lithuania continuing, 1
+ORG, ukraine artificial nation west, 1
+ORG, ukrainian authority terrorist, 1
+ORG, prokremlin outlet, 1
+ORG, defense ministry usa, 1
+ORG, u weapon industry, 1
+ORG, ukraine sovereign country, 1
+ORG, kherson ukraine, 1
+ORG, czech tv council, 1
+ORG, usa plan military exercise followup jade, 1
+ORG, fema, 1
+ORG, american citizen ministry, 1
+ORG, united country, 1
+ORG, american ngo, 1
+ORG, clash armed force, 1
+ORG, ukrainian special force guided, 1
+ORG, greek catholic, 1
+ORG, isi fighter supported usa turkey, 1
+ORG, ukraine plan, 1
+ORG, u embassy usa, 1
+ORG, imf ukraine military, 1
+ORG, ukraine violent genocidal, 1
+ORG, isi u task west america europe, 1
+ORG, chechen republic ossetia georgia ukraine, 1
+ORG, bundeswehr, 1
+ORG, crimea new chechnya dzhemilev, 1
+ORG, american hawk european parliament, 1
+ORG, ngo council foreign relation cfr cfr, 1
+ORG, statefunding alqaeda, 1
+ORG, poland baltic country eastern european, 1
+ORG, zdf german authority, 1
+ORG, syria luftwaffe, 1
+ORG, u use, 1
+ORG, bbc documentary, 1
+ORG, russianbelarusian union, 1
+ORG, dechristianization europe, 1
+ORG, zaporizhzhia city council, 1
+ORG, u latin america, 1
+ORG, kosovo ukraine, 1
+ORG, artem sheinin, 1
+ORG, u tragedy, 1
+ORG, nato east enlargement, 1
+ORG, usa organized military, 1
+ORG, european identity foundation, 1
+ORG, accordance european commission, 1
+ORG, zelenskyy latvia, 1
+ORG, ottawa university, 1
+ORG, switzerland international congress, 1
+ORG, nazi kherson people republic, 1
+ORG, kherson oblast, 1
+ORG, finnish ministry health, 1
+ORG, le le european, 1
+ORG, bbc ukrainian, 1
+ORG, ukraine un, 1
+ORG, crimea ukraine, 1
+ORG, american nato, 1
+ORG, zhuravlyov, 1
+ORG, u prokremlin anchor dmitry, 1
+ORG, ukraine fascist dictatorship ukrainian, 1
+ORG, united kingdom, 1
+ORG, national tv radio company ukraine, 1
+ORG, zakarpattia oblast region western ukraine, 1
+ORG, european capital, 1
+ORG, petrodollar cocacola mcdonalds, 1
+ORG, isi monsanto gmo, 1
+ORG, tatar energy blockade, 1
+ORG, cia turkey, 1
+ORG, mason organization skull, 1
+ORG, karelia federal, 1
+ORG, isi kerosene, 1
+ORG, airbase belarus, 1
+ORG, hermitage capital management fund, 1
+ORG, russian army kyiv le week, 1
+ORG, nazism rise germany, 1
+ORG, mein kampf usa canada, 1
+ORG, жидобандеровцы, 1
+ORG, ukraine country anymore people eastern ukraine russian east ukraine, 1
+ORG, european le smart, 1
+ORG, georgia whole caucasus, 1
+ORG, russian su24 nato council, 1
+ORG, institute sofia krasen, 1
+ORG, nazi european union, 1
+ORG, mali hotel, 1
+ORG, isi russia, 1
+ORG, syria russian air force, 1
+ORG, ukrainian advance, 1
+ORG, usa organized war ukraine, 1
+ORG, russian troop ukraine ukrainian authority, 1
+ORG, rt office, 1
+ORG, ukrainian batallions syria, 1
+ORG, ground force, 1
+ORG, american senate, 1
+ORG, lgbt movement, 1
+ORG, alexander dugin, 1
+ORG, cia mossad turkey, 1
+ORG, donbas homeland, 1
+ORG, eritrea unhcr, 1
+ORG, ukrainian army shelled civilian, 1
+ORG, antidonbass propaganda le le, 1
+ORG, western politician army, 1
+ORG, national republic force, 1
+ORG, ukrainian army force, 1
+ORG, stanytsya luhanska control ukraine, 1
+ORG, radical islamizaiton ukraine kiev, 1
+ORG, nato russian federation council upper house parliament, 1
+ORG, france le figaro, 1
+ORG, american force, 1
+ORG, state commonwealth, 1
+ORG, u partner, 1
+ORG, rally nato, 1
+ORG, ukrainian revolution, 1
+ORG, russian foreign ministry incorporation baltic state soviet union, 1
+ORG, orthodox church ukraine, 1
+ORG, socalled steinmeier, 1
+ORG, ukraine selfproclaimed republic, 1
+ORG, donbas petrovskyy zolotoye, 1
+ORG, u senate intelligence committee final report, 1
+ORG, senate intelligence committee report, 1
+ORG, u u, 1
+ORG, ukraine patriot, 1
+ORG, nato american europe, 1
+ORG, week european union, 1
+ORG, moldova nato, 1
+ORG, syria u ally, 1
+ORG, burisma energy, 1
+ORG, quickly european union, 1
+ORG, normalisation relation russia, 1
+ORG, uk france lithuania, 1
+ORG, u troop deployed western, 1
+ORG, amazing fantasy, 1
+ORG, ministry education ukraine, 1
+ORG, ukrainian biometric passport, 1
+ORG, wehrmacht invaded, 1
+ORG, jit independent investigative commission, 1
+ORG, russia global champion, 1
+ORG, resolution european parliament, 1
+ORG, control crimea, 1
+ORG, abkhazia syria, 1
+ORG, recognition abkhazia south ossetia, 1
+ORG, mexico reviving ash nueva vizcaya republic rio, 1
+ORG, u western, 1
+ORG, united state western country, 1
+ORG, maidan scenario technology, 1
+ORG, american america, 1
+ORG, ukraine american, 1
+ORG, eu subsidy positioned barrier, 1
+ORG, un general, 1
+ORG, un general assembly turned tv, 1
+ORG, u european command, 1
+ORG, washington control u, 1
+ORG, u troop area, 1
+ORG, u vicepresident, 1
+ORG, ci central, 1
+
+ORDINAL, first, 162
+ORDINAL, second, 70
+ORDINAL, third, 61
+ORDINAL, fifth, 15
+ORDINAL, 80th, 11
+ORDINAL, fourth, 10
+ORDINAL, 9th, 7
+ORDINAL, 4th, 6
+ORDINAL, firstly, 5
+ORDINAL, 53rd, 4
+ORDINAL, 2nd, 4
+ORDINAL, 75th, 4
+ORDINAL, 223rd, 3
+ORDINAL, secondly, 3
+ORDINAL, 3rd, 3
+ORDINAL, 11th, 3
+ORDINAL, 8th, 3
+ORDINAL, 70th, 2
+ORDINAL, 73rd, 2
+ORDINAL, 16th, 2
+ORDINAL, 6th, 2
+ORDINAL, 156th, 2
+ORDINAL, 57th, 2
+ORDINAL, 74th, 2
+ORDINAL, 10th, 1
+ORDINAL, 5th, 1
+ORDINAL, 76th, 1
+ORDINAL, 82nd, 1
+ORDINAL, 79th, 1
+ORDINAL, 21st, 1
+ORDINAL, 41st, 1
+ORDINAL, 14th, 1
+ORDINAL, 51st, 1
+ORDINAL, 1st, 1
+ORDINAL, sixth, 1
+
+DATE, 2014, 164
+DATE, today, 105
+DATE, week, 56
+DATE, last week, 52
+DATE, april 2018, 35
+DATE, february 2014, 31
+DATE, last year, 25
+DATE, 2020, 20
+DATE, march 2014, 18
+DATE, five year, 17
+DATE, 1990, 17
+DATE, 2018, 16
+DATE, 1999, 14
+DATE, 1938, 12
+DATE, two year, 12
+DATE, 1986, 11
+DATE, 15 year, 11
+DATE, 2013, 11
+DATE, recent year, 10
+DATE, year, 10
+DATE, 25 year, 10
+DATE, 2011, 9
+DATE, 2019, 9
+DATE, april 2014, 9
+DATE, christmas, 9
+DATE, november 2018, 8
+DATE, 1939, 8
+DATE, next year, 8
+DATE, 25 november 2018, 8
+DATE, 31st march 2019, 8
+DATE, several year old, 8
+DATE, 1991, 7
+DATE, february, 7
+DATE, four year, 7
+DATE, october, 7
+DATE, september, 7
+DATE, five year ago, 6
+DATE, september 2018, 6
+DATE, 5 year, 6
+DATE, several year, 6
+DATE, 30 year ago, 6
+DATE, several month, 6
+DATE, six month, 6
+DATE, daily, 6
+DATE, 11 january, 6
+DATE, 23 december, 6
+DATE, 15 december, 6
+DATE, winter, 5
+DATE, last month, 5
+DATE, august 2008, 5
+DATE, annual, 5
+DATE, 1990s, 5
+DATE, tomorrow, 5
+DATE, 17 july 2014, 5
+DATE, 1997, 5
+DATE, day, 5
+DATE, april 7 2018, 5
+DATE, 2006, 5
+DATE, august 2019, 5
+DATE, 2006 latejanuary, 5
+DATE, century, 5
+DATE, next week, 5
+DATE, several day week, 5
+DATE, 1930s, 4
+DATE, 20th century, 4
+DATE, next four year, 4
+DATE, yesterday, 4
+DATE, last five year, 4
+DATE, 18 march 2014, 4
+DATE, next month, 4
+DATE, month, 4
+DATE, 21st century, 4
+DATE, one year, 4
+DATE, year ago, 4
+DATE, march 2018, 4
+DATE, november 12 day, 4
+DATE, ukraine year ago, 4
+DATE, march 2019, 4
+DATE, 40 year, 4
+DATE, february 24th, 4
+DATE, early 1950s, 4
+DATE, summer, 4
+DATE, august, 4
+DATE, 2008, 4
+DATE, year eve, 4
+DATE, july, 4
+DATE, 14 october two, 4
+DATE, 12year, 4
+DATE, 11year, 4
+DATE, early 2000s, 4
+DATE, march 2016, 4
+DATE, 1948, 4
+DATE, january 2018, 4
+DATE, 80 year ago, 3
+DATE, past month, 3
+DATE, 1941, 3
+DATE, june 2019, 3
+DATE, 70 year, 3
+DATE, 20000 month, 3
+DATE, 2003, 3
+DATE, 2007, 3
+DATE, 1919, 3
+DATE, march, 3
+DATE, september 1939, 3
+DATE, 9677, 3
+DATE, november 25, 3
+DATE, 20 year ago, 3
+DATE, two day later, 3
+DATE, 49 year, 3
+DATE, past year, 3
+DATE, march 31st, 3
+DATE, 2050, 3
+DATE, last summer, 3
+DATE, 8 september, 3
+DATE, 1940, 3
+DATE, april 7, 3
+DATE, winter olympics, 3
+DATE, 1989, 3
+DATE, may 2014, 3
+DATE, september 19, 3
+DATE, february 1990, 3
+DATE, 13 year old, 3
+DATE, wednesday 10th february, 3
+DATE, two year ago, 3
+DATE, 1st january, 3
+DATE, 45 year age, 3
+DATE, january 1st 2016, 3
+DATE, 1993, 2
+DATE, ten year ago, 2
+DATE, one day, 2
+DATE, christmas new year, 2
+DATE, 11 year ago, 2
+DATE, fiveday, 2
+DATE, 19321933, 2
+DATE, last 70 year, 2
+DATE, present day, 2
+DATE, 5 year old, 2
+DATE, 20 december, 2
+DATE, july 22, 2
+DATE, 2015, 2
+DATE, october 2018, 2
+DATE, annually, 2
+DATE, june 28 2019, 2
+DATE, 30 year, 2
+DATE, 78 day, 2
+DATE, early 2014, 2
+DATE, 9 december, 2
+DATE, 20132014, 2
+DATE, 1918, 2
+DATE, 2004, 2
+DATE, 58 year, 2
+DATE, november 2017, 2
+DATE, 1920s 1950s, 2
+DATE, 1863, 2
+DATE, last decade, 2
+DATE, 4833 4661, 2
+DATE, first 2 month 2019, 2
+DATE, late 90, 2
+DATE, april 25, 2
+DATE, may day, 2
+DATE, twenty year, 2
+DATE, february 13, 2
+DATE, 50 year, 2
+DATE, 1996 1999 2001 2006 2010 2011, 2
+DATE, day ago, 2
+DATE, march 17, 2
+DATE, almost month later, 2
+DATE, 20 year, 2
+DATE, last 25 year, 2
+DATE, 2005, 2
+DATE, 24 march 1999, 2
+DATE, 10 june year, 2
+DATE, 1996, 2
+DATE, sunday, 2
+DATE, early 2016, 2
+DATE, 90 day, 2
+DATE, 2010, 2
+DATE, 23 february, 2
+DATE, may 2018, 2
+DATE, february 2019, 2
+DATE, last 20 year, 2
+DATE, coming year, 2
+DATE, january 2019, 2
+DATE, january end, 2
+DATE, january 17, 2
+DATE, 19 december 2018, 2
+DATE, three month, 2
+DATE, every month, 2
+DATE, halloween, 2
+DATE, 12 year, 2
+DATE, 10 year, 2
+DATE, april, 2
+DATE, 1971, 2
+DATE, 20152, 2
+DATE, december 29 1986, 2
+DATE, 14 september, 2
+DATE, next two day, 2
+DATE, may 22, 2
+DATE, 1 august, 2
+DATE, thursday june 7, 2
+DATE, 235 year, 2
+DATE, april 19 1783, 2
+DATE, november 1, 2
+DATE, ten day, 2
+DATE, four year ago, 2
+DATE, 3 year, 2
+DATE, may 1955, 2
+DATE, ten year russian day, 2
+DATE, may 2016, 2
+DATE, 1949, 2
+DATE, three year, 2
+DATE, april 23, 2
+DATE, april 4th, 2
+DATE, mid september, 2
+DATE, june 11, 2
+DATE, many year ago, 2
+DATE, 1916, 2
+DATE, 1959, 2
+DATE, seven day, 2
+DATE, 13 october 1944, 2
+DATE, last three year, 2
+DATE, 23 august 1939, 1
+DATE, september 2019, 1
+DATE, september 17th year, 1
+DATE, 17 september 1939, 1
+DATE, like 80 year ago, 1
+DATE, 1934, 1
+DATE, early 2019, 1
+DATE, 1917 february revolution end, 1
+DATE, three decade, 1
+DATE, june 20 21, 1
+DATE, approximately 250 year, 1
+DATE, 19381939, 1
+DATE, 2003 2005, 1
+DATE, 1967, 1
+DATE, october revolution first year, 1
+DATE, 80 year old, 1
+DATE, 1973 1999, 1
+DATE, 22 february 2014, 1
+DATE, next 10 year, 1
+DATE, november 1990, 1
+DATE, 1 september 2019, 1
+DATE, february 1917, 1
+DATE, two month earlier 30, 1
+DATE, december 1916, 1
+DATE, 100 year, 1
+DATE, 20142015, 1
+DATE, 13h 3rd september 2004, 1
+DATE, december 2006, 1
+DATE, 2002, 1
+DATE, next spring, 1
+DATE, january 2020, 1
+DATE, spring 2014, 1
+DATE, september 1st 1939, 1
+DATE, june 22nd 1941, 1
+DATE, last hundred year, 1
+DATE, decade ago, 1
+DATE, july 27, 1
+DATE, annual march, 1
+DATE, 21 august 1941, 1
+DATE, coming decade, 1
+DATE, september 18, 1
+DATE, recent week, 1
+DATE, last one, 1
+DATE, july 10 1944, 1
+DATE, july 13, 1
+DATE, march 2014 90, 1
+DATE, 20112013, 1
+DATE, like 1980s, 1
+DATE, thursday, 1
+DATE, two year ago october 2017, 1
+DATE, july 1995, 1
+DATE, 24 july, 1
+DATE, next year first quarter, 1
+DATE, early next year, 1
+DATE, august 1939, 1
+DATE, end 20th century, 1
+DATE, 5 july, 1
+DATE, 2014 2017, 1
+DATE, june 2017 22yearold, 1
+DATE, guarimberos, 1
+DATE, 1969, 1
+DATE, may 2013, 1
+DATE, spring 2013, 1
+DATE, early 2013, 1
+DATE, second half june, 1
+DATE, july 17 2014, 1
+DATE, may 17th important day victory day, 1
+DATE, 2014 winter olympics, 1
+DATE, 2016 summer, 1
+DATE, 20 june, 1
+DATE, year one, 1
+DATE, winter 20132014, 1
+DATE, 5 year later, 1
+DATE, couple day, 1
+DATE, 20 year west, 1
+DATE, 900950, 1
+DATE, millennium, 1
+DATE, june 22nd, 1
+DATE, may 17th, 1
+DATE, may 20, 1
+DATE, 17 year, 1
+DATE, 19 june jit, 1
+DATE, 35 year ago, 1
+DATE, november 13 2015, 1
+DATE, 1984, 1
+DATE, 4 year, 1
+DATE, early 90, 1
+DATE, 2009, 1
+DATE, earlier year two year, 1
+DATE, end 2014, 1
+DATE, one month, 1
+DATE, 25 november 2019, 1
+DATE, several century, 1
+DATE, two week, 1
+DATE, almost 900 year, 1
+DATE, last 2 year, 1
+DATE, first half 20th century, 1
+DATE, recent day, 1
+DATE, last november, 1
+DATE, four month, 1
+DATE, summer 2019 west, 1
+DATE, year 2019, 1
+DATE, one week, 1
+DATE, world 2000s, 1
+DATE, november 25th 2018, 1
+DATE, 5 28, 1
+DATE, may 2019, 1
+DATE, election 2014, 1
+DATE, late xviii century, 1
+DATE, half year ago, 1
+DATE, october 2008, 1
+DATE, 4 day, 1
+DATE, 1980 1990, 1
+DATE, couple year ago, 1
+DATE, almost two year, 1
+DATE, last april, 1
+DATE, week month, 1
+DATE, hundred year ago, 1
+DATE, april 30, 1
+DATE, late 2019, 1
+DATE, june 2, 1
+DATE, winter 2014, 1
+DATE, november last year, 1
+DATE, 16 march 2014, 1
+DATE, 15 two year, 1
+DATE, 23 april 2019, 1
+DATE, published day earlier, 1
+DATE, august 23, 1
+DATE, 24 july 2019, 1
+DATE, last march, 1
+DATE, 1979, 1
+DATE, april 15 2019 4152019, 1
+DATE, 30 april, 1
+DATE, year later, 1
+DATE, 22 april, 1
+DATE, year dozen, 1
+DATE, 2014 february, 1
+DATE, april 21, 1
+DATE, september 2014, 1
+DATE, 1994, 1
+DATE, quarterly, 1
+DATE, late march, 1
+DATE, 9am day, 1
+DATE, april 1st, 1
+DATE, next 20 day, 1
+DATE, 24 november 2019, 1
+DATE, previous year, 1
+DATE, every year, 1
+DATE, monday 25 march, 1
+DATE, 29 april 2014, 1
+DATE, august 2016, 1
+DATE, january 6, 1
+DATE, fact 1939, 1
+DATE, 201718, 1
+DATE, two new day, 1
+DATE, march 16 18 2014, 1
+DATE, november 1939 15 hour, 1
+DATE, november 30, 1
+DATE, late january, 1
+DATE, 6 month, 1
+DATE, past five year, 1
+DATE, 1 march 2019, 1
+DATE, 4 2018 year later, 1
+DATE, 1992, 1
+DATE, month half, 1
+DATE, every week, 1
+DATE, last day 2018, 1
+DATE, 40 year ago, 1
+DATE, december 2018, 1
+DATE, almost month, 1
+DATE, third year, 1
+DATE, 7 april 2018, 1
+DATE, 10th january 2019, 1
+DATE, 1783, 1
+DATE, fighter 1990s, 1
+DATE, 193233, 1
+DATE, seventy sweden, 1
+DATE, couple decade, 1
+DATE, 300 year, 1
+DATE, year 1987, 1
+DATE, one third, 1
+DATE, february 2014 month, 1
+DATE, two week earlier, 1
+DATE, 2013 89yearold, 1
+DATE, 15th december 2018, 1
+DATE, 22nd august 2018, 1
+DATE, last 6 year, 1
+DATE, february 1 2018 month, 1
+DATE, january 21 2019 least 13, 1
+DATE, 2012, 1
+DATE, april 2017, 1
+DATE, ukraine long ago, 1
+DATE, early april 2018, 1
+DATE, 13th january day 1991, 1
+DATE, 25 month, 1
+DATE, tweet past month, 1
+DATE, two day earlier, 1
+DATE, friday, 1
+DATE, late november, 1
+DATE, december, 1
+DATE, ukraine 2013, 1
+DATE, april 9, 1
+DATE, november, 1
+DATE, year 2000, 1
+DATE, april 1940, 1
+DATE, several century already 16th century, 1
+DATE, year eighteenth 2018, 1
+DATE, summer nineteenth 2019, 1
+DATE, well coming year, 1
+DATE, 1319, 1
+DATE, 4305, 1
+DATE, 19401941, 1
+DATE, 1993 1994, 1
+DATE, 46 2017, 1
+DATE, 19th century, 1
+DATE, 20 feb 2014 25, 1
+DATE, next decade, 1
+DATE, 19 september, 1
+DATE, seven year past decade, 1
+DATE, september 17 year, 1
+DATE, september 9, 1
+DATE, election day, 1
+DATE, early november, 1
+DATE, august 8, 1
+DATE, zakharchenko, 1
+DATE, two day, 1
+DATE, august 22, 1
+DATE, june 20, 1
+DATE, february 26 2014, 1
+DATE, year 20192020, 1
+DATE, 4 april 1949, 1
+DATE, six year later, 1
+DATE, 10 day, 1
+DATE, 16 july, 1
+DATE, 22 june 1941, 1
+DATE, 5 june 2018, 1
+DATE, june 27, 1
+DATE, november 1991, 1
+DATE, january 1991 2014, 1
+DATE, every four year, 1
+DATE, may 21, 1
+DATE, july 18 2014 day, 1
+DATE, start week, 1
+DATE, russia 2011, 1
+DATE, april 14, 1
+DATE, almost 20 year ago, 1
+DATE, 31 january, 1
+DATE, may 12, 1
+DATE, november 3 1950, 1
+DATE, april 26, 1
+DATE, 36 1965, 1
+DATE, 38 day, 1
+DATE, last 5 year, 1
+DATE, year ago 2015, 1
+DATE, moldovans, 1
+DATE, march 4, 1
+DATE, april 2019, 1
+DATE, 1921, 1
+DATE, later month, 1
+DATE, march 18, 1
+DATE, march 1, 1
+DATE, nearly three decade ago, 1
+DATE, june 27 july 8 1709, 1
+DATE, 1917 october, 1
+DATE, february 10 2014, 1
+DATE, couple year, 1
+DATE, past decade, 1
+DATE, 1020 year ago, 1
+DATE, last century, 1
+DATE, 90 25 year, 1
+DATE, january 18 2018 7163, 1
+DATE, spring year 2014, 1
+DATE, 1954, 1
+DATE, first half 2017, 1
+DATE, 6 january, 1
+DATE, eight month ago, 1
+DATE, november 25 2018, 1
+DATE, november 19, 1
+DATE, december 10, 1
+DATE, december 7, 1
+DATE, february 2016, 1
+DATE, earlier 19331934, 1
+DATE, november 16, 1
+DATE, winter olympics 2018, 1
+DATE, december 5 day, 1
+DATE, 1927, 1
+DATE, day week, 1
+DATE, another five year, 1
+DATE, summer 1933, 1
+DATE, christmas season, 1
+DATE, thousand come year, 1
+DATE, ten year old, 1
+DATE, january next year, 1
+DATE, summer 2016, 1
+DATE, last 10 year, 1
+DATE, october 7, 1
+DATE, march 16, 1
+DATE, july 2014, 1
+DATE, 9 month, 1
+DATE, october 1 2017, 1
+DATE, last 500 year, 1
+DATE, may 11 2011, 1
+DATE, 150 euro day, 1
+DATE, 18 year old, 1
+DATE, earlier year, 1
+DATE, may 2017, 1
+DATE, 55 61, 1
+DATE, 1975, 1
+DATE, june 11th, 1
+DATE, 20 30 year, 1
+DATE, day 9th, 1
+DATE, three day, 1
+DATE, turn 1980s, 1
+DATE, recent march, 1
+DATE, february 2022 2014, 1
+DATE, april 13, 1
+DATE, september 2004, 1
+DATE, june, 1
+DATE, 9 april, 1
+DATE, 4 march 1130, 1
+DATE, spring 2019, 1
+DATE, 22nd march, 1
+DATE, 16 march, 1
+DATE, first day, 1
+DATE, march 2017, 1
+DATE, two third three quarter, 1
+DATE, february 23, 1
+DATE, april may june november 2016, 1
+DATE, 63, 1
+DATE, every day, 1
+DATE, three year ago, 1
+DATE, last monday, 1
+DATE, january, 1
+DATE, end 2020, 1
+DATE, 2 february, 1
+DATE, later february, 1
+DATE, previous week 21, 1
+DATE, last 30 year, 1
+DATE, 2001, 1
+DATE, 70 day, 1
+DATE, 13 year, 1
+DATE, 15882, 1
+DATE, ten month, 1
+DATE, couple day ago, 1
+DATE, 600 year, 1
+DATE, 19th 20th century, 1
+DATE, september 1 2014, 1
+DATE, 2016, 1
+DATE, 17 november, 1
+DATE, 1939 later, 1
+DATE, 1989 year day, 1
+DATE, coming day, 1
+DATE, february year, 1
+DATE, almost three month, 1
+DATE, 1956, 1
+DATE, every year 23 october republic day, 1
+DATE, october 18th, 1
+DATE, january 1991, 1
+DATE, april 2016, 1
+DATE, month third, 1
+DATE, 11 september, 1
+DATE, saturday, 1
+DATE, one two year, 1
+DATE, 1945, 1
+DATE, 4 year ago, 1
+DATE, 4 september 2016, 1
+DATE, september 1, 1
+DATE, 12 year ago, 1
+DATE, 11 september 2001, 1
+DATE, five thousand year, 1
+DATE, 54, 1
+DATE, liguria, 1
+DATE, june 23, 1
+DATE, 17 june 2016, 1
+DATE, eight year, 1
+DATE, 20 year old, 1
+DATE, september 11 2001, 1
+DATE, february 20 2014, 1
+DATE, 11 june, 1
+DATE, june 2019 jit, 1
+DATE, 17th century, 1
+DATE, 22 year, 1
+DATE, tomorrow week month, 1
+DATE, week ago, 1
+DATE, 24 march, 1
+DATE, 14 16 april, 1
+DATE, 19391945, 1
+DATE, 30 day, 1
+DATE, 70200 per day, 1
+DATE, second half 2016, 1
+DATE, april 5, 1
+DATE, million migrant every month, 1
+DATE, 4 11 april 2016, 1
+DATE, 5731750, 1
+DATE, 22 march, 1
+DATE, december 2016, 1
+DATE, 2 year, 1
+DATE, march 2015, 1
+DATE, september 2016, 1
+DATE, year half, 1
+DATE, 1968, 1
+DATE, september 3, 1
+DATE, 23 june 2016, 1
+DATE, last two century banana republic, 1
+DATE, october march, 1
+DATE, 1983, 1
+DATE, month first, 1
+DATE, ukraine century, 1
+DATE, zguladze, 1
+DATE, september 11, 1
+DATE, almost 25 year, 1
+DATE, 13 october, 1
+DATE, past day, 1
+DATE, training week, 1
+DATE, 25 november, 1
+DATE, last four year, 1
+DATE, recent month, 1
+DATE, june year, 1
+DATE, 16th century, 1
+DATE, 19441991, 1
+DATE, july 2016, 1
+DATE, 81 year ago, 1
+DATE, may 29 2018, 1
+DATE, last fifteen year, 1
+DATE, 19th century two decade, 1
+DATE, age 53, 1
+
+EVENT, world war ii, 31
+EVENT, world cup, 6
+EVENT, world war, 3
+EVENT, olympics, 3
+EVENT, world war iii, 3
+EVENT, world cup russia, 2
+EVENT, world war ii warsaw, 1
+EVENT, verkhovna rada, 1
+EVENT, world war ii antirussian gathering, 1
+EVENT, world war ii resolution, 1
+EVENT, world war ii museum, 1
+
+QUANTITY, 12 000, 4
+QUANTITY, 005 38773 million, 2
+QUANTITY, 82 mm, 2
+QUANTITY, 40 degree, 2
+QUANTITY, 400 km, 2
+QUANTITY, 100 tonne, 1
+QUANTITY, 500km, 1
+QUANTITY, 2500 kilometre, 1
+QUANTITY, 5 km, 1
+QUANTITY, approximately 50 ton, 1
+QUANTITY, 50 ton, 1
+QUANTITY, 40 ton, 1
+QUANTITY, 5000 euro, 1
+QUANTITY, 700 tonne, 1
+QUANTITY, 100 gram, 1
+QUANTITY, ten thousand dos, 1
+QUANTITY, one kilometre, 1
+QUANTITY, 300 meter, 1
+QUANTITY, 55 kilometre, 1
+QUANTITY, 500 ton, 1
+QUANTITY, 8000 ton, 1
+QUANTITY, 21000 czk, 1
+QUANTITY, 400 ton, 1
+QUANTITY, 200kg, 1
+QUANTITY, 2017 eurovision, 1
+QUANTITY, 5 1 izmir, 1
+QUANTITY, 5 000 euro, 1
+QUANTITY, one foot, 1
+QUANTITY, single gram flour, 1
+QUANTITY, one kilogram, 1
+QUANTITY, 10 kilometer, 1
+QUANTITY, 55 finn, 1
+QUANTITY, 7080 finn, 1
+QUANTITY, thousand kilometre, 1
+QUANTITY, 3000 isi, 1
+QUANTITY, 3 km, 1
+QUANTITY, 600km, 1
+
+FAC, deescalation zone, 5
+FAC, dpr lpr city western ukraine tradition kyiv, 4
+FAC, vatican, 2
+FAC, azov sea, 2
+FAC, kaliningrad sweden, 2
+FAC, kaliningrad, 2
+FAC, red square, 1
+FAC, rada disintegration ukrainian, 1
+FAC, kerch strait provocation, 1
+FAC, berlin wall country, 1
+FAC, u rukban, 1
+FAC, donbas east ukraine, 1
+FAC, vadim chernysh head, 1
+FAC, guantanamo, 1
+FAC, sniper, 1
+FAC, maidan square kiev west, 1
+FAC, montenegro nato, 1
+
+PRODUCT, mh17, 45
+PRODUCT, sevastopol, 6
+PRODUCT, 777, 3
+PRODUCT, assad, 3
+PRODUCT, s400, 2
+PRODUCT, mh17 catastrophe, 2
+PRODUCT, brno, 2
+PRODUCT, a321, 2
+PRODUCT, kursk, 1
+PRODUCT, 956 inhabitant sevastopol, 1
+PRODUCT, anp, 1
+PRODUCT, mh17 three, 1
+PRODUCT, normandy four, 1
+PRODUCT, maidan 3640, 1
+PRODUCT, mh17 ukraine, 1
+PRODUCT, m1, 1
+PRODUCT, f150, 1
+PRODUCT, 3quincucnidnyl benzilat bz russian, 1
+PRODUCT, battlecruiser pyotr, 1
+PRODUCT, soros nbsp, 1
+PRODUCT, abm antiballistic, 1
+PRODUCT, europe supreme, 1
+PRODUCT, anakonda, 1
+PRODUCT, fulbright, 1
+PRODUCT, siberia, 1
+PRODUCT, apache, 1
+PRODUCT, u european, 1
+
+MONEY, billion dollar, 6
+MONEY, hundred million dollar, 3
+MONEY, trillion u dollar, 2
+MONEY, around 80 bln, 2
+MONEY, 280 billion, 2
+MONEY, multibillion dollar, 2
+MONEY, million dollar, 2
+MONEY, 500 million euro, 2
+MONEY, 20 million euro, 2
+MONEY, 42 billion czk 15 billion, 2
+MONEY, 2 bln dollar, 1
+MONEY, 7 billion euro, 1
+MONEY, 300 million ruble, 1
+MONEY, 5 million swedish krona, 1
+MONEY, 50 billion eu, 1
+MONEY, ten hundred billion dollar, 1
+MONEY, 90 120 billion euro, 1
+MONEY, 380 million usd, 1
+MONEY, 9 billion usd, 1
+MONEY, 43 per cent, 1
+MONEY, 44 per cent, 1
+MONEY, 5 billion euro, 1
+MONEY, 97 billion, 1
+MONEY, 55 bln, 1
+MONEY, 2 million dollar, 1
+MONEY, 132 million 2017, 1
+MONEY, 34 billion, 1
+MONEY, 7 per cent, 1
+MONEY, 5 billion dollar, 1
+MONEY, 10 million usd 5, 1
+MONEY, 6 million euro, 1
+MONEY, trillion dollar, 1
+MONEY, usd 800 million, 1
+MONEY, 600 million dollar, 1
+MONEY, 8 billion usd, 1
+MONEY, 1 billion dollar, 1
+MONEY, 60 billion euro, 1
+MONEY, several ten billion euro, 1
+MONEY, 782 million euro, 1
+MONEY, 100 million dollar, 1
+MONEY, 140 million euro, 1
+MONEY, two million dollar, 1
+MONEY, 300000 peso, 1
+MONEY, 30000 peso, 1
+MONEY, 60 per cent, 1
+MONEY, 250 million dollar, 1
+MONEY, 333 million euro 2015, 1
+MONEY, 45 million dollar 4 million, 1
+MONEY, 98 billion dollar, 1
+MONEY, one billion u dollar, 1
+MONEY, 250 dollar, 1
+MONEY, 4 million usd, 1
+MONEY, 3 billion usd, 1
+MONEY, another billion imf, 1
+
+TIME, night, 4
+TIME, hour, 3
+TIME, several hour, 2
+TIME, several minute, 2
+TIME, early morning, 2
+TIME, seven second, 1
+TIME, 45 minute, 1
+TIME, two hour, 1
+TIME, 22 shortest night, 1
+TIME, 13am night, 1
+TIME, 15 30, 1
+TIME, working hour, 1
+TIME, half hour, 1
+TIME, evening, 1
+TIME, every night, 1
+TIME, last 48 hour, 1
+TIME, previous evening, 1
+
+PERCENT, 956 percent, 6
+PERCENT, 70 percent, 4
+PERCENT, 96 percent, 3
+PERCENT, two percent, 2
+PERCENT, 97 percent, 1
+PERCENT, 967 percent, 1
+PERCENT, 63 percent, 1
+PERCENT, 80 percent, 1
+PERCENT, 90 percent, 1
+PERCENT, 2 percent, 1
+PERCENT, 45 percent, 1
+PERCENT, 238 percent, 1
+PERCENT, 485 percent, 1
+PERCENT, 394 percent, 1
+PERCENT, 446 percent, 1
+PERCENT, 85 percent, 1
+PERCENT, 30 percent, 1
+PERCENT, 13 percent, 1
+PERCENT, 60 percent, 1
+PERCENT, nearly 96 percent, 1
+
+LAW, article 5, 3
+LAW, u quarter, 1
+LAW, article 7, 1
+LAW, article 138 ukrainian constitution, 1
+LAW, article 811 latvian, 1
+LAW, article 11, 1
+LAW, anniversary kiev liberation, 1
+LAW, victim wwii least 700000 100000 west wikipedia, 1
+LAW, article 26 freedom movement state contracting state shall, 1
+LAW, article 69, 1
+LAW, article 3 romanian territory colonized foreign population authority bucharest supporting immigration refugee measure, 1
+LAW, article 60, 1
+LAW, article 5 treaty, 1
+
+LANGUAGE, russian, 3
+LANGUAGE, arabic, 1
+LANGUAGE, english, 1
+
+WORK_OF_ART, nobel, 3
+WORK_OF_ART, tedx talk conference german university wuerzburg fighter paedophilia serbia warn, 1
+WORK_OF_ART, nobel peace, 1
+WORK_OF_ART, nobel laureate economics urge romania, 1
+WORK_OF_ART, russia usa east west, 1
+WORK_OF_ART, europe european commission, 1
+WORK_OF_ART, bible, 1
+
