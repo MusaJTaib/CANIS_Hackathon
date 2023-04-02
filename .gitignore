@@ -2,3 +2,4 @@ data/
 Preprocessed_Dataset_Misinfo_FAKE.csv
 Preprocessed_Dataset_Misinfo_TRUE.csv
 Preprocessed_EXTRA_RussianPropagandaSubset.csv
+node_modules
