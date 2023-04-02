@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Bubble Chart</title>
+    <title>Fake data</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <style>
       .circle {
@@ -47,7 +47,6 @@
         pointer-events: none;
         fill: #000;
       }
-  
     </style>
 </head>
 <body>
@@ -61,8 +60,8 @@
         });
         
         // Set up dimensions and margins for chart
-        var width = window.innerWidth;
-        var height = window.innerHeight;
+        var width = window.innerWidth - 30;
+        var height = window.innerHeight - 30;
         var margin = { top: 20, right: 20, bottom: 20, left: 20 };
 
 
@@ -152,92 +151,3 @@
     </script>
 </body>
 </html>
-
-<!-- <!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>Interactive Bubble Chart</title>
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <style>
-        .chart circle {
-            fill: #1f77b4;
-            opacity: 0.8;
-            stroke: #fff;
-            stroke-width: 1.5px;
-        }
-
-        .chart circle:hover {
-            fill: #ff7f0e;
-        }
-
-        .chart text {
-            font-family: Arial, sans-serif;
-            font-size: 12px;
-            text-anchor: middle;
-            fill: #000;
-        }
-    </style>
-</head>
-<body>
-    <svg width="960" height="500"></svg>
-    <script>
-        // Set up chart dimensions
-        const width = 960;
-        const height = 500;
-        const margin = {top: 20, right: 20, bottom: 30, left: 50};
-
-        // Create chart
-        const svg = d3.select('svg')
-                      .attr('width', width)
-                      .attr('height', height);
-        
-        const chart = svg.append('g')
-                         .attr('class', 'chart')
-                         .attr('transform', `translate(${margin.left},${margin.top})`);
-
-        // Load data
-        d3.csv('TOP100_sorted_entities_Misinfo_FAKE.csv', d => ({ entity: d.Entity, name: d.Name, count: +d.Count }))
-          .then(data => {
-              data = data.filter(function(d) {
-                  return d.entity === "PERSON";
-                });
-              // Set up scales
-              const rScale = d3.scaleLinear()
-                               .domain([0, d3.max(data, d => d.count)])
-                               .range([0, 50]);
-
-              // Create bubbles
-              const bubbles = chart.selectAll('.bubble')
-                                   .data(data)
-                                   .enter()
-                                   .append('g')
-                                   .attr('class', 'bubble')
-                                   .attr('transform', d => `translate(${Math.random() * (width - margin.left - margin.right)},${Math.random() * (height - margin.top - margin.bottom)})`);
-
-              bubbles.append('circle')
-                     .attr('r', d => rScale(d.count))
-                     .attr('fill', d => d3.interpolateBlues(d.count / d3.max(data, d => d.count)))
-                     .on('mouseover', function () {
-                         d3.select(this)
-                           .transition()
-                           .duration('100')
-                           .attr('opacity', '.5');
-                     })
-                     .on('mouseout', function () {
-                         d3.select(this)
-                           .transition()
-                           .duration('100')
-                           .attr('opacity', '1');
-                     });
-
-              bubbles.append('text')
-                     .text(d => `${d.name} (${d.count})`)
-                     .attr('dy', '0.35em')
-                     .attr('text-anchor', 'middle');
-              }
-
-          );
-    </script>
-</body>
-</html> -->

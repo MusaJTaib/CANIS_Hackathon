@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Fake news locations</title>
+    <style>
+      /* Define the style for the tooltip */
+      .tooltip {
+        position: absolute;
+        z-index: 999;
+        background-color: #fff;
+        padding: 10px;
+        border: 1px solid #ddd;
+        pointer-events: none;
+        font-size: 14px;
+        line-height: 1.4em;
+        opacity: 0;
+        transition: opacity 0.3s;
+        font-family: Arial, sans-serif;
+      }
+
+      /* Show the tooltip on hover */
+      .tooltip.visible {
+        opacity: 1;
+      }
+
+      /* Define the style for the legend */
+      .legend {
+        position: absolute;
+        bottom: 10px;
+        left: 10px;
+        font-size: 12px;
+        font-family: Arial, sans-serif;
+      }
+
+      /* Define the style for the legend key */
+      .legend-key {
+        float: left;
+        width: 15px;
+        height: 15px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        border: 1px solid #ccc;
+        background-color: #f6f6f6;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map-container"></div>
+    <div class="tooltip"></div>
+    <div class="legend"></div>
+
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://d3js.org/d3-geo.v1.min.js"></script>
+    <script src="https://d3js.org/topojson.v2.min.js"></script>
+    <script>
+		// Define the width and height of the SVG container
+		const width = 960;
+		const height = 600;
+
+		// Define the projection
+		const projection = d3.geoMercator()
+		.scale(130)
+		.translate([width / 2, height / 1.4]);
+
+		// Define the path generator
+		const path = d3.geoPath().projection(projection);
+
+		// Define the SVG container
+		const svg = d3.select("#chart")
+		.append("svg")
+		.attr("width", width)
+		.attr("height", height);
+
+		// Load the world map data
+		d3.json("https://raw.githubusercontent.com/d3/d3.github.com/master/world-110m.v1.json").then(function(world) {
+
+		// Load the CSV data
+		d3.csv("TOP100_sorted_entities_Misinfo_FAKE.csv").then(function(data) {
+			
+			data = data.filter(function(d) {
+            	return d.Entity === "LOC";
+        	});
+			console.log(data)
+				// Map the data to the world map
+			const mappedData = data.reduce(function(mappedData, d) {
+			mappedData[d.location] = d.count;
+			return mappedData;
+			}, {});
+
+			// Draw the countries
+			svg.selectAll("path")
+			.data(topojson.feature(world, world.objects.countries).features)
+			.enter().append("path")
+			.attr("d", path)
+			.attr("fill", function(d) {
+				const count = mappedData[d.properties.name];
+				return count ? "rgba(255, 0, 0, " + count / 100 + ")" : "lightgrey";
+			})
+			.on("mouseover", function(d) {
+				d3.select(this).attr("fill", "orange");
+			})
+			.on("mouseout", function(d) {
+				const count = mappedData[d.properties.name];
+				d3.select(this).attr("fill", count ? "rgba(255, 0, 0, " + count / 100 + ")" : "lightgrey");
+			});
+
+		});
+
+		});
+
+
+	</script>
+	</body>
+	</html>
