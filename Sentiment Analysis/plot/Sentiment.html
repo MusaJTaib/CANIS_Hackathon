@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Image Gallery</title>
+	<style>
+		img {
+			display: none;
+			max-width: 100%;
+		}
+		img.active {
+			display: block;
+		}
+	</style>
+</head>
+<body>
+	<div>
+		<button onclick="showImage(1)">Fake News Polarity</button>
+		<button onclick="showImage(2)">Fake News Score</button>
+		<button onclick="showImage(3)">Fake News Subjectivity</button>
+		<button onclick="showImage(4)">Russia News Polarity</button>
+		<button onclick="showImage(5)">Russia News Score</button>
+		<button onclick="showImage(6)">Russia News Subjectivity</button>
+		<button onclick="showImage(7)">True News Polarity</button>
+		<button onclick="showImage(8)">True News Score</button>
+		<button onclick="showImage(9)">True News Subjectivity</button>
+	</div>
+	<div>
+		<img id="image1" src="plot/Fake_News_Polarity.png" class="active">
+		<img id="image2" src="plot/Fake_News_Score.png">
+		<img id="image3" src="plot/Fake_News_Subjectivity.png">
+		<img id="image4" src="plot/Russia_News_Polarity.png">
+		<img id="image5" src="plot/Russian_News_Score.png">
+		<img id="image6" src="plot/Russian_News_Subjectivity.png">
+		<img id="image7" src="plot/True_News_Polarity.png">
+		<img id="image8" src="plot/True_News_Score.png">
+		<img id="image9" src="plot/True_News_Subjectivity.png">
+	</div>
+	<script>
+		function showImage(n) {
+			// hide all images
+			var images = document.getElementsByTagName("img");
+			for (var i = 0; i < images.length; i++) {
+				images[i].classList.remove("active");
+			}
+
+			// show the selected image
+			document.getElementById("image" + n).classList.add("active");
+		}
+	</script>
+</body>
+</html>
