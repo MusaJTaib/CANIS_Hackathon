@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Russian Propaganda</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+      .circle {
+        fill: #1f77b4;
+        stroke: #fff;
+        opacity: 0.8;
+      }
+  
+      .circle:hover {
+        fill: #ff7f0e;
+        stroke: #fff;
+      }
+  
+      .tooltip {
+        position: absolute;
+        opacity: 0;
+        pointer-events: none;
+        padding: 10px;
+        background-color: #333;
+        color: #fff;
+        border-radius: 5px;
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+        line-height: 1.2em;
+      }
+  
+      .tooltip:after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        right: 100%;
+        margin-top: -5px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: transparent #333 transparent transparent;
+      }
+  
+      .label {
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+        text-anchor: middle;
+        pointer-events: none;
+        fill: #000;
+      }
+    </style>
+</head>
+<body>
+  <div id="navbar"></div>
+  <h1 style="text-align: center; margin-top: 100px;">
+    Russian Propaganda about Geopolitical Entities
+  </h1>
+
+  <div style="text-align: center; margin-top: 100px; font-size: 30px;"> 
+    Top 100 Geopolitical Entities Mentioned Bubble Graph
+  </div>
+  <div id="bubble_chart" style="margin-top: 100px"></div>
+
+  <div style="text-align: center; margin-top: 100px; font-size: 30px;"> 
+    Top Geopolitical Entities Mentioned Pie Chart
+  </div>
+  <div id="chart"></div>
+  <div style="text-align: center; margin-top: 100px; font-size: 30px;"> 
+    Top Geopolitical Entities Mentioned Wordcloud
+  </div>
+  <img src = "NER-GPE-RUSS.png"  width="70%" style="margin-left:14vw; margin-right: 14vw; margin-top: 50px"/>
+
+  <script>
+    // Load the navbar HTML file and insert it into the #navbar div
+    fetch('/nav/nav.html')
+      .then(response => response.text())
+      .then(html => {
+        document.querySelector('#navbar').innerHTML = html;
+      });
+  </script>
+
+  <script>
+    d3.csv("TOP100_sorted_entities_RussianPropagandaSubset.csv").then(function(data) {
+
+      // Filter data by Entity = "GPE"
+      data = data.filter(function(d) {
+          return d.Entity === "GPE";
+      });
+      
+      // Set up dimensions and margins for chart
+      var width = window.innerWidth - 30;
+      var height = window.innerHeight - 30;
+      var margin = { top: 20, right: 20, bottom: 20, left: 20 };
+
+      // Calculate minimum and maximum values for count
+      var countMin = d3.min(data, function(d) { return +d.Count; });
+      var countMax = d3.max(data, function(d) { return +d.Count; });
+
+      // Set up scales for circle radius and color
+      var radiusScale = d3.scaleLog()
+          .domain([countMin, countMax])
+          .range([30, 100]);
+      var colorScale = d3.scaleOrdinal(d3.schemeCategory10);
+
+      // Set up SVG element
+      var svg = d3.select("#bubble_chart")
+          .append("svg")
+          .attr("width", width)
+          .attr("height", height);
+
+      // Add circles for each data point
+      var circles = svg.selectAll("circle")
+          .data(data)
+          .enter()
+          .append("circle")
+          .attr("cx", function(d, i) { return i * 50 + 50; })
+          .attr("cy", height / 2)
+          .attr("r", function(d) { return radiusScale(+d.Count); })
+          .style("fill", function(d) { return colorScale(d.Name); })
+          .style("opacity", 0.7)
+          .on("mouseover", function(d) {
+              d3.select(this)
+                  .style("opacity", 1)
+                  .attr("stroke-width", 3)
+                  .attr("stroke", "black");
+          })
+          .on("mouseout", function(d) {
+              d3.select(this)
+                  .style("opacity", 0.7)
+                  .attr("stroke-width", 0);
+          });
+
+      // Add text labels for each data point
+      var labels = svg.selectAll("text")
+          .data(data)
+          .enter()
+          .append("text")
+          .attr("x", function(d, i) { return i * 50 + 50; })
+          .attr("y", height / 2)
+          .attr("dy", ".35em")
+          .text(function(d) { return d.Name + " (" + d.Count + ")"; })
+          .style("text-anchor", "middle")
+          .style("font-size", "12px")
+          .style("fill", "black");
+      var simulation = d3.forceSimulation(data)
+          .force("center", d3.forceCenter(width / 2, height / 2))
+          .force("charge", d3.forceManyBody().strength(10))
+          .force("collision", d3.forceCollide().radius(function(d) {
+              return radiusScale(+d.Count);
+          }))
+          .force("x", d3.forceX().strength(0.05))
+          .force("y", d3.forceY().strength(0.05))
+          .alpha(1)
+          .alphaDecay(0.01)
+          .on("tick", ticked);
+
+      // Define tick function for force simulation
+      function ticked() {
+          circles.attr("cx", function(d) {
+                  return d.x = Math.max(radiusScale(+d.Count), Math.min(width - radiusScale(+d.Count), d.x));
+              })
+              .attr("cy", function(d) {
+                  return d.y = Math.max(radiusScale(+d.Count), Math.min(height - radiusScale(+d.Count), d.y));
+              });
+
+          labels.attr("x", function(d) {
+                  return d.x = Math.max(radiusScale(+d.Count), Math.min(width - radiusScale(+d.Count), d.x));
+              })
+              .attr("y", function(d) {
+                  return d.y = Math.max(radiusScale(+d.Count), Math.min(height - radiusScale(+d.Count), d.y));
+              });
+      }
+
+      // Start the simulation
+      simulation.restart();
+
+      var piewidth = window.innerWidth - 30;
+      var pieheight = 700;
+      var radius = Math.min(piewidth, pieheight) / 2;
+
+      var color = d3.scaleOrdinal()
+          .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+      const arc = d3.arc()
+          .outerRadius(radius - 10)
+          .innerRadius(0);
+
+      const pie = d3.pie()
+          .sort(null)
+          .value(d => +d.Count);
+
+      const piesvg = d3.select("#chart").append("svg")
+          .attr("width", piewidth)
+          .attr("height", pieheight)
+          .append("g")
+          .attr("transform", `translate(${width / 2}, ${pieheight / 2})`);
+
+      d3.csv("TOP100_sorted_entities_RussianPropagandaSubset.csv").then(function (data) {
+        data = data.filter(function(d) {
+          return d.Entity === "GPE";
+        });
+
+        const threshold = 0.2; // set the threshold for slice display
+
+        const g = piesvg.selectAll(".arc")
+              .data(pie(data))
+              .enter().append("g")
+              .attr("class", "arc");
+
+        g.append("path")
+            .attr("d", arc)
+            .style("fill", d => color(d.data.Name))
+            .on("mouseover", function (d) {
+                d3.select(this).transition()
+                    .duration(300)
+                    .attr("d", d3.arc()
+                        .innerRadius(0)
+                        .outerRadius(radius * 0.8)
+                    );
+                piesvg.append("text")
+                    .attr("class", "pie-label")
+                    .attr("transform", function() {
+                        return "translate(" + arc.centroid(d) + ")";
+                    })
+                    .attr("dy", ".35em")
+                    .text(function() {
+                      console.log(d)
+                        return (d.value > 0.1) ? d.data.Name : '';
+                    });
+            })
+            .on("mouseout", function (d) {
+                d3.select(this).transition()
+                    .duration(300)
+                    .attr("d", d3.arc()
+                        .innerRadius(0)
+                        .outerRadius(radius - 10)
+                    );
+                d3.selectAll(".pie-label")
+                    .remove();
+            });
+
+
+        g.filter(d => (d.endAngle - d.startAngle) > threshold) // filter slices based on threshold
+          .append("text")
+          .attr("transform", d => `translate(${arc.centroid(d)})`)
+          .attr("dy", "0.35em")
+          .text(d => d.data.Name )
+          .style("text-anchor", "middle")
+          .style("font-size", "12px")
+          .style("fill", "#fff")
+          .style("z-index", "100")
+      });
+
+    });
+  </script>
+</body>
+</html>

@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Factual Data</title>
+    <title>Russian Propaganda</title>
     <style>
     .animation {
         margin-top: 30px;
@@ -29,69 +29,6 @@
         vertical-align: middle;
     }
     </style>
-
-<style>
-    /* Style the chart container */
-    .chart {
-        width: 1000px;
-        height: 800px;
-        margin: auto;
-    }
-
-    /* Style the bars */
-    .bar {
-        fill: rgb(2, 16, 28);
-    }
-
-    /* Style the x-axis */
-    .axis-x path,
-    .axis-x line {
-        fill: none;
-        stroke: rgb(169, 51, 51);
-        shape-rendering: crispEdges;
-    }
-
-    .axis-x .tick text {
-        font-size: 12px;
-        fill: rgb(45, 201, 215);
-    }
-
-    /* Style the y-axis */
-    .axis-y path,
-    .axis-y line {
-        fill: none;
-        stroke: rgb(131, 82, 139);
-        shape-rendering: crispEdges;
-    }
-
-    .axis-y .tick text {
-        font-size: 12px;
-        fill: rgb(214, 102, 104);
-    }
-
-    /* Style the legend */
-    .legend {
-        font-size: 12px;
-        fill: rgb(210, 182, 71);
-    }
-
-    .legend rect {
-        fill: steelblue;
-        stroke: none;
-    }
-    .bar-real {
-          fill: rgb(81, 147, 204);
-    }
-
-    .bar-fake {
-          fill: red;
-    }
-    .legend text {
-        font-family: sans-serif;
-        text-anchor: start;
-        fill: rgb(54, 215, 207);
-    }
-</style>
     <link rel="stylesheet"
     href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
             
@@ -145,120 +82,18 @@
 
     <h2 style="margin-top: 100px; text-align: center;">Sentiment Analysis</h2>
     <div style="text-align: center; margin-left: 30vw; margin-right:30vw;">Sentiment score is a numerical score assigned to a piece of text that indicates the overall sentiment expressed in the text. </div>
-    <img src = "True_News_Score.png" style= "display: block; margin: auto;"/>
+    <img src = "RUSS_News_Score.png" style= "display: block; margin: auto;"/>
     <div style="text-align: center; margin-left: 30vw; margin-right:30vw;">Polarity score is a numerical score assigned to a text that indicates the degree of positive or negative sentiment expressed in the text. Polarity score ranges from -1 to +1, where -1 indicates highly negative sentiment and +1 indicates highly positive sentiment, while a score of 0 indicates neutral sentiment.</div>
-    <img src = "True_News_Polarity.png" style="display: block; margin: auto"/>
+    <img src = "RUSS_News_Polarity.png" style="display: block; margin: auto"/>
     <div style="text-align: center; margin-left: 30vw; margin-right:30vw;">Subjectivity score is a numerical score assigned to a piece of text that indicates the degree to which the text expresses a subjective opinion or a factual statement. Subjectivity score ranges from 0 to 1, where 0 indicates a completely objective text, and 1 indicates a completely subjective text.</div>
-    <img src = "True_News_Subjectivity.png" style="display: block; margin: auto"/>
-
-    <h2 style="margin-top: 100px; text-align: center;">Frequency Comparison</h2>
-
-    <div class="chart"></div>
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-
-    <script>
-		// Set the chart dimensions
-		var margin = { top: 30, right: 20, bottom: 50, left: 100 };
-		var width = 1000 - margin.left - margin.right;
-		var height = 800 - margin.top - margin.bottom;
-
-		// Set the data
-		var data = [
-			{ topic: "Trump", real: 7219, fake: 9465 },
-			{ topic: "State", real: 3164, fake: 1918 },
-			{ topic: "President", real: 2092, fake: 2158 },
-			{ topic: "Republican", real: 1979, fake: 1162 },
-			{ topic: "Clinton", real: 1504, fake: 3383 },
-			{ topic: "Party", real: 1190, fake: 581 },
-			{ topic: "People", real: 1083, fake: 2278 },
-			{ topic: "Government", real: 1065, fake: 655 },
-			{ topic: "New Things", real: 1063, fake: 869 },
-			{ topic: "Court", real: 944, fake: 392 }
-		];
-
-		// Create the chart container
-		var svg = d3.select(".chart")
-			.append("svg")
-			.attr("width", width + margin.left + margin.right)
-			.attr("height", height + margin.top + margin.bottom)
-			.append("g")
-			.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-		// Set the scales
-		var xScale = d3.scaleBand()
-			.range([0, width])
-			.domain(data.map(function(d) { return d.topic; }))
-			.padding(0.1);
-
-		var yScale = d3.scaleLinear()
-			.range([height, 0])
-			.domain([0, d3.max(data,
-
-      function(d) { return Math.max(d.real, d.fake); })]);
-
-    // Add the x-axis
-    var xAxis = d3.axisBottom(xScale);
-    svg.append("g")
-      .attr("class", "axis-x")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis);
-
-    // Add the y-axis
-    var yAxis = d3.axisLeft(yScale);
-    svg.append("g")
-      .attr("class", "axis-y")
-      .call(yAxis);
-
-    // Add the bars for the real data
-    var barsReal = svg.selectAll(".bar-real")
-      .data(data)
-      .enter()
-      .append("rect")
-      .attr("class", "bar bar-real")
-      .attr("x", function(d) { return xScale(d.topic); })
-      .attr("width", xScale.bandwidth() / 2)
-      .attr("y", function(d) { return yScale(d.real); })
-      .attr("height", function(d) { return height - yScale(d.real); });
-
-    // Add the bars for the fake data
-	var barsFake = svg.selectAll(".bar-fake")
-		.data(data)
-		.enter()
-		.append("rect")
-		.attr("class", "bar bar-fake") // add the new class here
-		.attr("x", function(d) { return xScale(d.topic) + xScale.bandwidth() / 2; })
-		.attr("width", xScale.bandwidth() / 2)
-		.attr("y", function(d) { return yScale(d.fake); })
-		.attr("height", function(d) { return height - yScale(d.fake); });
-
-    // Add the legend
-    var legend = svg.selectAll(".legend")
-      .data(["Real Data", "Fake Data"])
-      .enter()
-      .append("g")
-      .attr("class", "legend")
-      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
-
-    legend.append("rect")
-      .attr("x", width - 18)
-      .attr("width", 18)
-      .attr("height", 18)
-      .style("fill", function(d, i) { return i === 0 ? "steelblue" : "red"; });
-
-    legend.append("text")
-      .attr("x", width - 24)
-      .attr("y", 9)
-      .attr("dy", ".35em")
-      .style("text-anchor", "end")
-      .text(function(d) { return d; });
-</script>
+    <img src = "RUSS_News_Subjectivity.png" style="display: block; margin: auto"/>
 
     <h2 style="margin-top: 100px; text-align: center;">WordCloud</h2>
     <div style="text-align: center; margin-left: 30vw; margin-right:30vw; font-size: 25px;">Topic wordcloud, common topics among factual news</div>
-    <img src = "Topic-wordcloud-True.png" style="display: block; margin: auto; width: 60vw;"/>
+    <img src = "Topic-wordcloud-Russian.png" style="display: block; margin: auto; width: 60vw;"/>
 
     <div style="text-align: center; margin-left: 30vw; margin-right:30vw; margin-top: 40px; font-size: 25px">Nationalities/Religions/Political wordcloud, common nationalities, religions, and political words among factual news</div>
-    <img src = "NER-NationalitiesReligiousPolitical-TRUE.png" style="display: block; margin: auto; width: 60vw;"/>
+    <img src = "NER-NationalitiesReligiousPolitical-RUSS.png" style="display: block; margin: auto; width: 60vw;"/>
 
     <script>
         // Load the navbar HTML file and insert it into the #navbar div
@@ -432,11 +267,11 @@
         var loop_select_id = "_anim_loop_select54e774fb28b74cafb977d83c5e2f9d01";
         var frames = new Array(3);
         
-        frames[0] = "boxplot_animation_frames/frame" + ("00000002").slice(-7) +
+        frames[0] = "boxplot_animation_frames/frame" + ("00000001").slice(-7) +
                         ".png";
-        frames[1] = "boxplot_animation_frames/frame" + ("00000000").slice(-7) +
+        frames[1] = "boxplot_animation_frames/frame" + ("00000002").slice(-7) +
                         ".png";
-        frames[2] = "boxplot_animation_frames/frame" + ("00000001").slice(-7) +
+        frames[2] = "boxplot_animation_frames/frame" + ("00000000").slice(-7) +
         ".png";
     
         /* set a timeout to make sure all the above elements are created before

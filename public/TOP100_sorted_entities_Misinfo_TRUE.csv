@@ -1,0 +1,1721 @@
+Entity,Name,Count
+NORP, republican,32393
+NORP, american,18271
+NORP, democrat,13661
+NORP, russian,8740
+NORP, islamic,6388
+NORP, muslim,5560
+NORP, democratic,4406
+NORP, syrian,4286
+NORP, chinese,3868
+NORP, british,3080
+NORP, european,2970
+NORP, french,2637
+NORP, iraqi,2253
+NORP, german,2199
+NORP, palestinian,2168
+NORP, mexican,2118
+NORP, israeli,2091
+NORP, kurdish,2018
+NORP, iranian,1847
+NORP, christian,1828
+NORP, arab,1593
+NORP, saudi,1583
+NORP, turkish,1459
+NORP, north korean,1380
+NORP, cuban,1248
+NORP, japanese,1095
+NORP, philippine,1000
+NORP, afghan,908
+NORP, hispanic,906
+NORP, spanish,905
+NORP, canadian,891
+NORP, islamist,840
+NORP, catalan,745
+NORP, italian,709
+NORP, egyptian,695
+NORP, australian,672
+NORP, english,667
+NORP, indian,664
+NORP, jewish,657
+NORP, south korean,640
+NORP, sunni,624
+NORP, lebanese,597
+NORP, obamacare,592
+NORP, african,589
+NORP, korean,586
+NORP, asian,485
+NORP, nazi,438
+NORP, libyan,422
+NORP, venezuelan,413
+NORP, soviet,411
+NORP, dutch,404
+NORP, pakistani,398
+NORP, shiite,378
+NORP, north american,355
+NORP, islam,319
+NORP, swedish,298
+NORP, aleppo,286
+NORP, swiss,284
+NORP, malaysian,268
+NORP, indonesian,265
+NORP, kurd,262
+NORP, yemeni,261
+NORP, isi,255
+NORP, buddhist,253
+NORP, ukrainian,238
+NORP, somali,222
+NORP, colombian,221
+NORP, greek,220
+NORP, african american,197
+NORP, latino,188
+NORP, hungarian,179
+NORP, pkk,179
+NORP, catholic,179
+NORP, south african,175
+NORP, hindu,174
+NORP, czech,167
+NORP, southeast asian,165
+NORP, scottish,164
+NORP, vietnamese,163
+NORP, communist,160
+NORP, texan,158
+NORP, austrian,157
+NORP, tunisian,157
+NORP, argentine,150
+NORP, arabic,149
+NORP, native american,141
+NORP, latin american,141
+NORP, nigerian,141
+NORP, kenyan,140
+NORP, norwegian,138
+NORP, jordanian,134
+NORP, irish,125
+NORP, serb,117
+NORP, taiwanese,108
+NORP, cambodian,108
+NORP, bosnian,107
+NORP, persian,105
+NORP, hezbollah,104
+NORP, mosque,102
+NORP, peshmerga,97
+ORG, united state,12267
+ORG, white house,10402
+ORG, senate,7935
+ORG, congress,7693
+ORG, reuters,4313
+ORG, eu,3694
+ORG, gop,2809
+ORG, fbi,2611
+ORG, cnn,2300
+ORG, supreme court,1779
+ORG, european union,1700
+ORG, fox news,1532
+ORG, nato,1419
+ORG, fox,1411
+ORG, breitbart news,1410
+ORG, u,1314
+ORG, un,1268
+ORG, house,1253
+ORG, pentagon,1243
+ORG, united nation,1046
+ORG, u house,961
+ORG, taliban,948
+ORG, u senate,864
+ORG, epa,796
+ORG, kremlin,793
+ORG, republican party,793
+ORG, treasury,717
+ORG, washington post,691
+ORG, al qaeda,688
+ORG, hezbollah,600
+ORG, visa,535
+ORG, capitol hill,529
+ORG, u supreme court,513
+ORG, cia,504
+ORG, nbc,495
+ORG, islam,470
+ORG, un security council,445
+ORG, u congress,422
+ORG, msnbc,400
+ORG, republican national committee,387
+ORG, hamas,369
+ORG, u state department,349
+ORG, priebus,346
+ORG, nafta,342
+ORG, amazon,340
+ORG, sander,332
+ORG, wall street journal,318
+ORG, sec,305
+ORG, irs,304
+ORG, nbc news,291
+ORG, hariri,291
+ORG, rex tillerson,290
+ORG, breitbart,289
+ORG, abc,287
+ORG, goldman sachs,285
+ORG, cbs,271
+ORG, breitbart texas,265
+ORG, bbc,263
+ORG, anc,260
+ORG, communist party,256
+ORG, ford,251
+ORG, kansa,247
+ORG, nsa,247
+ORG, dnc,247
+ORG, u treasury,245
+ORG, senate judiciary committee,245
+ORG, national security council,238
+ORG, democratic national committee,237
+ORG, american civil liberty union,234
+ORG, fed,233
+ORG, nasa,233
+ORG, senate foreign relation committee,228
+ORG, cnbc,227
+ORG, boeing,227
+ORG, nfl,223
+ORG, volkswagen,222
+ORG, senate intelligence committee,212
+ORG, justice department,210
+ORG, farc,209
+ORG, africanamerican,204
+ORG, abc news,201
+ORG, u embassy,187
+ORG, harvard,183
+ORG, hbo,182
+ORG, european commission,180
+ORG, fpo,179
+ORG, warner,178
+ORG, republican house,173
+ORG, united nation security council,173
+ORG, senate armed service committee,172
+ORG, senate house,168
+ORG, republican national convention,166
+ORG, kem,163
+ORG, pac,162
+ORG, u senator,159
+ORG, le,159
+ORG, isi,157
+ORG, u department,153
+ORG, stanford,153
+ORG, united state america,152
+DATE, tuesday,9900
+DATE, wednesday,9831
+DATE, thursday,9767
+DATE, friday,9670
+DATE, monday,9286
+DATE, sunday,5795
+DATE, last year,5605
+DATE, last week,5156
+DATE, today,4097
+DATE, saturday,3696
+DATE, last month,3418
+DATE, year,3034
+DATE, 2014,2911
+DATE, 2012,2654
+DATE, week,2384
+DATE, 2013,2035
+DATE, daily,1880
+DATE, november,1810
+DATE, month,1716
+DATE, 2010,1533
+DATE, july,1443
+DATE, next year,1442
+DATE, january,1333
+DATE, annual,1314
+DATE, 2011,1287
+DATE, next week,1258
+DATE, 2008,1204
+DATE, august,1142
+DATE, september,1112
+DATE, recent year,1089
+DATE, june,1081
+DATE, 2009,1060
+DATE, december,1043
+DATE, nov 8,1009
+DATE, february,964
+DATE, october,878
+DATE, decade,865
+DATE, march,849
+DATE, two year,826
+DATE, earlier month,763
+DATE, 2005,754
+DATE, earlier year,729
+DATE, april,714
+DATE, weekend,635
+DATE, five year,606
+DATE, next month,602
+DATE, year ago,595
+DATE, summer,587
+DATE, earlier week,562
+DATE, 2003,548
+DATE, 2006,546
+DATE, recent week,530
+DATE, recent month,513
+DATE, 2007,500
+DATE, three year,496
+DATE, weekly,493
+DATE, 2004,493
+DATE, four year,478
+DATE, two week,461
+DATE, 2001,454
+DATE, yesterday,451
+DATE, jan 20,437
+DATE, 2002,433
+DATE, recent day,430
+DATE, next day,417
+DATE, two day,415
+DATE, six month,415
+DATE, 10 year,410
+DATE, monthly,399
+DATE, past year,384
+DATE, 2018,370
+DATE, 1992,365
+DATE, eight year,360
+DATE, tomorrow,356
+DATE, two year ago,354
+DATE, 1980s,348
+DATE, day,339
+DATE, christmas,336
+DATE, 1994,331
+DATE, last summer,328
+DATE, 1999,322
+DATE, two month,308
+DATE, weekday,305
+DATE, 2020,303
+DATE, 20 year,301
+DATE, election day,296
+DATE, 1980,290
+DATE, 1997,289
+DATE, 1998,288
+DATE, winter,282
+DATE, three month,280
+DATE, six year,279
+DATE, past week,276
+DATE, 1995,275
+DATE, 1990s,274
+DATE, 1990,272
+DATE, two decade,269
+DATE, several year,265
+DATE, sept 11,265
+DATE, 1991,255
+CARDINAL, one,24723
+CARDINAL, two,17595
+CARDINAL, three,6836
+CARDINAL, 2016,4604
+CARDINAL, four,3862
+CARDINAL, five,2655
+CARDINAL, 2015,2593
+CARDINAL, six,2111
+CARDINAL, 10,1797
+CARDINAL, seven,1754
+CARDINAL, thousand,1718
+CARDINAL, dozen,1710
+CARDINAL, million,1596
+CARDINAL, hundred,1378
+CARDINAL, 2,1348
+CARDINAL, 20,1186
+CARDINAL, 1,1142
+CARDINAL, half,1130
+CARDINAL, 100,1101
+CARDINAL, eight,1088
+CARDINAL, 50,1002
+CARDINAL, 3,986
+CARDINAL, nine,931
+CARDINAL, 6,866
+CARDINAL, 30,858
+CARDINAL, 12,829
+CARDINAL, 15,828
+CARDINAL, 5,822
+CARDINAL, 11,803
+CARDINAL, 2017,799
+CARDINAL, 4,736
+CARDINAL, 60,666
+CARDINAL, 25,620
+CARDINAL, 200,603
+CARDINAL, 7,583
+CARDINAL, 14,581
+CARDINAL, 40,569
+CARDINAL, 16,546
+CARDINAL, 13,541
+CARDINAL, 500,517
+CARDINAL, 18,517
+CARDINAL, 2018,513
+CARDINAL, ten thousand,508
+CARDINAL, 17,505
+CARDINAL, 22,478
+CARDINAL, 8,477
+CARDINAL, zero,473
+CARDINAL, 21,471
+CARDINAL, 26,445
+CARDINAL, 27,436
+CARDINAL, 19,423
+CARDINAL, 24,408
+CARDINAL, 300,405
+CARDINAL, 28,402
+CARDINAL, 9,386
+CARDINAL, 70,373
+CARDINAL, 35,345
+CARDINAL, 1 million,341
+CARDINAL, hundred thousand,339
+CARDINAL, 400,334
+CARDINAL, 23,315
+CARDINAL, 80,309
+CARDINAL, 45,303
+CARDINAL, 150,273
+CARDINAL, 29,267
+CARDINAL, 44,266
+CARDINAL, 20 million,257
+CARDINAL, 31,254
+CARDINAL, 32,252
+CARDINAL, 34,249
+CARDINAL, 36,249
+CARDINAL, 100000,242
+CARDINAL, 33,241
+CARDINAL, 49,238
+CARDINAL, 54,235
+CARDINAL, 39,231
+CARDINAL, 43,226
+CARDINAL, 10000,223
+CARDINAL, 51,223
+CARDINAL, 52,223
+CARDINAL, 2000,221
+CARDINAL, ten,221
+CARDINAL, 90,221
+CARDINAL, 11 million,219
+CARDINAL, 55,214
+CARDINAL, 1 billion,213
+CARDINAL, 250,213
+CARDINAL, 100 million,209
+CARDINAL, 46,207
+CARDINAL, 10 million,206
+CARDINAL, 66,205
+CARDINAL, 2019,204
+CARDINAL, 38,202
+CARDINAL, 63,200
+CARDINAL, 600,199
+CARDINAL, 41,192
+CARDINAL, 37,191
+CARDINAL, 2 million,189
+CARDINAL, 5 million,186
+CARDINAL, 53,186
+PERSON, clinton,16718
+PERSON, donald trump,6331
+PERSON, hillary clinton,5454
+PERSON, donald,2974
+PERSON, barack obama,2329
+PERSON, bush,2307
+PERSON, putin,1466
+PERSON, cruz,1388
+PERSON, donald j,1299
+PERSON, george w bush,1209
+PERSON, johnson,1136
+PERSON, breitbart,1079
+PERSON, bill clinton,1059
+PERSON, barack obamas,1037
+PERSON, ted cruz,1000
+PERSON, vladimir putin,949
+PERSON, flynn,892
+PERSON, mike penny,867
+PERSON, bernie sander,845
+PERSON, kelly,838
+PERSON, mitch mcconnell,832
+PERSON, jeff,829
+PERSON, marco rubio,709
+PERSON, netanyahu,699
+PERSON, theresa,691
+PERSON, bannon,682
+PERSON, rubio,648
+PERSON, jeb bush,591
+PERSON, john mccain,583
+PERSON, angela merkel,579
+PERSON, spicer,562
+PERSON, kim,550
+PERSON, paul ryan,549
+PERSON, james comey,545
+PERSON, mattis,534
+PERSON, sean spicer,534
+PERSON, hillary,517
+PERSON, erdogan,510
+PERSON, john kasich,493
+PERSON, davis,492
+PERSON, reagan,464
+PERSON, michael flynn,454
+PERSON, kerry,448
+PERSON, ronald reagan,430
+PERSON, moore,418
+PERSON, williams,417
+PERSON, chuck schumer,399
+PERSON, mcconnell,396
+PERSON, carson,396
+PERSON, rex tillerson,394
+PERSON, kushner,393
+PERSON, kennedy,370
+PERSON, benjamin netanyahu,370
+PERSON, mugabe,368
+PERSON, lee,361
+PERSON, brexit,358
+PERSON, emmanuel macron,342
+PERSON, biden,337
+PERSON, tayyip erdogan,332
+PERSON, francis,325
+PERSON, kaine,315
+PERSON, john kerry,312
+PERSON, ross,311
+PERSON, xi jinping,307
+PERSON, kurd,307
+PERSON, nancy pelosi,305
+PERSON, chris christie,303
+PERSON, bashar alassad,300
+PERSON, haley,295
+PERSON, koch,295
+PERSON, ali,295
+PERSON, schumer,293
+PERSON, antonin scalia,291
+PERSON, assad,288
+PERSON, jared kushner,287
+PERSON, ben carson,287
+PERSON, mnuchin,286
+PERSON, steven mnuchin,282
+PERSON, kim jong un,282
+PERSON, josh,274
+PERSON, hun sen,273
+PERSON, jim mattis,265
+PERSON, hariri,260
+PERSON, jackson,259
+PERSON, bob corker,255
+PERSON, baker,255
+PERSON, steve bannon,254
+PERSON, shinzo abe,251
+PERSON, hamilton,250
+PERSON, robert mueller,247
+PERSON, comey,245
+PERSON, elizabeth warren,238
+PERSON, pruitt,234
+PERSON, john boehner,232
+PERSON, nikki haley,231
+PERSON, rodrigo duterte,229
+PERSON, mccarthy,224
+PERSON, castro,223
+PERSON, paul manafort,219
+PERSON, joe biden,219
+PERCENT, 20 percent,574
+PERCENT, 10 percent,473
+PERCENT, 15 percent,388
+PERCENT, 35 percent,369
+PERCENT, 40 percent,368
+PERCENT, 50 percent,335
+PERCENT, 25 percent,306
+PERCENT, 1 percent,298
+PERCENT, 60 percent,295
+PERCENT, 30 percent,290
+PERCENT, 80 percent,266
+PERCENT, 90 percent,259
+PERCENT, 100 percent,256
+PERCENT, 5 percent,246
+PERCENT, 2 percent,243
+PERCENT, 45 percent,222
+PERCENT, 3 percent,217
+PERCENT, 70 percent,210
+PERCENT, 28 percent,166
+PERCENT, 12 percent,161
+PERCENT, 13 percent,158
+PERCENT, 8 percent,153
+PERCENT, 43 percent,152
+PERCENT, 41 percent,145
+PERCENT, 4 percent,144
+PERCENT, 14 percent,142
+PERCENT, 32 percent,137
+PERCENT, 7 percent,136
+PERCENT, 22 percent,136
+PERCENT, 11 percent,136
+PERCENT, 47 percent,134
+PERCENT, 17 percent,133
+PERCENT, 46 percent,132
+PERCENT, 38 percent,131
+PERCENT, 21 percent,130
+PERCENT, 37 percent,130
+PERCENT, 26 percent,130
+PERCENT, 23 percent,128
+PERCENT, 6 percent,127
+PERCENT, 44 percent,125
+PERCENT, 55 percent,125
+PERCENT, 16 percent,125
+PERCENT, 42 percent,124
+PERCENT, 39 percent,124
+PERCENT, 31 percent,122
+PERCENT, 27 percent,116
+PERCENT, 75 percent,116
+PERCENT, 9 percent,113
+PERCENT, 33 percent,111
+PERCENT, 34 percent,111
+PERCENT, 36 percent,111
+PERCENT, 56 percent,108
+PERCENT, 19 percent,108
+PERCENT, 24 percent,107
+PERCENT, 49 percent,107
+PERCENT, 95 percent,105
+PERCENT, 18 percent,100
+PERCENT, 29 percent,97
+PERCENT, 65 percent,94
+PERCENT, 57 percent,93
+PERCENT, 53 percent,89
+PERCENT, 48 percent,89
+PERCENT, 58 percent,86
+PERCENT, 85 percent,81
+PERCENT, 52 percent,77
+PERCENT, 61 percent,76
+PERCENT, 62 percent,75
+PERCENT, 51 percent,72
+PERCENT, 82 percent,71
+PERCENT, 68 percent,69
+PERCENT, 66 percent,65
+PERCENT, 396 percent,64
+PERCENT, 67 percent,64
+PERCENT, 64 percent,64
+PERCENT, 59 percent,62
+PERCENT, 72 percent,62
+PERCENT, 54 percent,61
+PERCENT, 63 percent,57
+PERCENT, 99 percent,54
+PERCENT, 98 percent,53
+PERCENT, 77 percent,52
+PERCENT, 73 percent,51
+PERCENT, 71 percent,49
+PERCENT, 76 percent,47
+PERCENT, 74 percent,44
+PERCENT, 69 percent,42
+PERCENT, 97 percent,42
+PERCENT, 86 percent,42
+PERCENT, 92 percent,40
+PERCENT, 79 percent,38
+PERCENT, 84 percent,38
+PERCENT, 81 percent,38
+PERCENT, 78 percent,38
+PERCENT, 94 percent,36
+PERCENT, 93 percent,36
+PERCENT, 88 percent,35
+PERCENT, 87 percent,34
+PERCENT, 91 percent,33
+PERCENT, 83 percent,33
+PERCENT, nearly 40 percent,31
+GPE, russia,10456
+GPE, china,8974
+GPE, washington,8159
+GPE, new york,7657
+GPE, iran,7213
+GPE, america,5426
+GPE, syria,5353
+GPE, north korea,5170
+GPE, iraq,4572
+GPE, britain,4279
+GPE, california,3479
+GPE, texas,3332
+GPE, florida,3135
+GPE, mexico,2705
+GPE, turkey,2694
+GPE, france,2597
+GPE, moscow,2513
+GPE, germany,2437
+GPE, paris,2253
+GPE, japan,2185
+GPE, saudi arabia,2051
+GPE, afghanistan,2034
+GPE, israel,2013
+GPE, ohio,1989
+GPE, iowa,1799
+GPE, beijing,1694
+GPE, cuba,1651
+GPE, london,1594
+GPE, yemen,1492
+GPE, libya,1385
+GPE, los angeles,1335
+GPE, virginia,1325
+GPE, south korea,1310
+GPE, taiwan,1261
+GPE, pennsylvania,1232
+GPE, pakistan,1205
+GPE, new jersey,1180
+GPE, tehran,1156
+GPE, new york city,1133
+GPE, pyongyang,1131
+GPE, lebanon,1123
+GPE, spain,1120
+GPE, india,1119
+GPE, chicago,1118
+GPE, north carolina,1084
+GPE, brussels,1062
+GPE, myanmar,1030
+GPE, manhattan,1007
+GPE, arizona,992
+GPE, australia,991
+GPE, michigan,923
+GPE, south carolina,904
+GPE, san francisco,899
+GPE, puerto rico,895
+GPE, hollywood,887
+GPE, vietnam,878
+GPE, canada,867
+GPE, venezuela,859
+GPE, egypt,823
+GPE, brazil,798
+GPE, baghdad,795
+GPE, jerusalem,764
+GPE, italy,748
+GPE, indiana,732
+GPE, wisconsin,726
+GPE, kentucky,691
+GPE, hong kong,640
+GPE, colorado,634
+GPE, poland,618
+GPE, maryland,617
+GPE, qatar,607
+GPE, massachusetts,601
+GPE, cleveland,597
+GPE, philadelphia,591
+GPE, orlando,581
+GPE, united state,566
+GPE, utah,550
+GPE, somalia,535
+GPE, minnesota,533
+GPE, dallas,527
+GPE, catalonia,509
+GPE, berlin,507
+GPE, nevada,499
+GPE, miami,492
+GPE, ankara,492
+GPE, malaysia,480
+GPE, indonesia,479
+GPE, georgia,477
+GPE, sudan,473
+GPE, brooklyn,466
+GPE, new hampshire,461
+GPE, mosul,439
+GPE, kurdistan,438
+GPE, detroit,433
+GPE, kenya,430
+GPE, tennessee,424
+GPE, vermont,417
+GPE, sweden,415
+GPE, arkansas,404
+GPE, oregon,394
+ORDINAL, first,17655
+ORDINAL, second,4871
+ORDINAL, third,2419
+ORDINAL, fourth,727
+ORDINAL, fifth,604
+ORDINAL, sixth,409
+ORDINAL, ninth,204
+ORDINAL, seventh,193
+ORDINAL, 9th,133
+ORDINAL, 10th,118
+ORDINAL, 11th,108
+ORDINAL, 45th,103
+ORDINAL, eighth,100
+ORDINAL, 14th,56
+ORDINAL, 100th,49
+ORDINAL, 40th,49
+ORDINAL, 25th,45
+ORDINAL, 19th,45
+ORDINAL, 18th,43
+ORDINAL, 15th,40
+ORDINAL, 4th,37
+ORDINAL, 50th,37
+ORDINAL, 16th,32
+ORDINAL, 42nd,32
+ORDINAL, 6th,30
+ORDINAL, 20th,30
+ORDINAL, 26th,28
+ORDINAL, 30th,28
+ORDINAL, 13th,26
+ORDINAL, 70th,25
+ORDINAL, 7th,24
+ORDINAL, secondly,24
+ORDINAL, 5th,24
+ORDINAL, 60th,21
+ORDINAL, 8th,20
+ORDINAL, 12th,20
+ORDINAL, 3rd,20
+ORDINAL, 44th,18
+ORDINAL, tenth,16
+ORDINAL, 21st,16
+ORDINAL, 59th,16
+ORDINAL, 1st,15
+ORDINAL, 75th,15
+ORDINAL, 51st,15
+ORDINAL, 34th,14
+ORDINAL, 90th,14
+ORDINAL, 49th,14
+ORDINAL, 32nd,14
+ORDINAL, 2nd,13
+ORDINAL, firstly,13
+ORDINAL, 57th,13
+ORDINAL, 1malaysia,12
+ORDINAL, 58th,12
+ORDINAL, 22nd,12
+ORDINAL, ninemonth,12
+ORDINAL, 74th,11
+ORDINAL, 55th,11
+ORDINAL, 43rd,10
+ORDINAL, obamas,10
+ORDINAL, 72nd,10
+ORDINAL, 80th,10
+ORDINAL, 96th,10
+ORDINAL, 27th,9
+ORDINAL, fivemonth,9
+ORDINAL, 56th,9
+ORDINAL, 17th,8
+ORDINAL, 150th,8
+ORDINAL, 41st,8
+ORDINAL, 89th,8
+ORDINAL, 46th,7
+ORDINAL, 23rd,7
+ORDINAL, 82nd,7
+ORDINAL, 47th,7
+ORDINAL, 94th,6
+ORDINAL, 65th,6
+ORDINAL, twelfth,6
+ORDINAL, 38th,6
+ORDINAL, 83rd,6
+ORDINAL, 36th,6
+ORDINAL, 24th,6
+ORDINAL, sevenmonth,5
+ORDINAL, 35th,5
+ORDINAL, 87th,5
+ORDINAL, 69th,5
+ORDINAL, 68th,5
+ORDINAL, 52nd,5
+ORDINAL, 79th,5
+ORDINAL, 78th,5
+ORDINAL, 37th,5
+ORDINAL, thirteenth,5
+ORDINAL, 250th,5
+ORDINAL, 33rd,5
+ORDINAL, 39th,5
+ORDINAL, threemonth,4
+ORDINAL, onemonth,4
+ORDINAL, 67th,4
+ORDINAL, 28th,4
+ORDINAL, 63rd,4
+ORDINAL, 85th,4
+ORDINAL, 92nd,4
+MONEY, billion dollar,427
+MONEY, million dollar,298
+MONEY, hundred million dollar,158
+MONEY, ten million dollar,115
+MONEY, thousand dollar,59
+MONEY, 600 900 eastern,57
+MONEY, trillion dollar,56
+MONEY, 1 billion,47
+MONEY, ten billion dollar,45
+MONEY, multibillion dollar,42
+MONEY, hundred billion dollar,41
+MONEY, hundred thousand dollar,32
+MONEY, ten thousand dollar,30
+MONEY, 12 billion,29
+MONEY, 200 billion,26
+MONEY, 1 5 million,26
+MONEY, 1 1 billion,24
+MONEY, 1 6 billion,24
+MONEY, 1 2 billion,23
+MONEY, 10 billion,21
+MONEY, 1 5 billion,20
+MONEY, 3 5 billion,18
+MONEY, half billion dollar,17
+MONEY, 1 8 million,17
+MONEY, hundred dollar,17
+MONEY, 2 billion,16
+MONEY, several thousand dollar,16
+MONEY, nearly 1 billion,16
+MONEY, 1 7 billion,16
+MONEY, 1 4 billion,16
+MONEY, multimillion dollar,14
+MONEY, 50 billion,14
+MONEY, 1 8 billion,14
+MONEY, 100 billion,13
+MONEY, 3 billion,13
+MONEY, 2 6 billion,13
+MONEY, 1 6 million,13
+MONEY, 50 cent,13
+MONEY, 3 7 billion,12
+MONEY, 1 3 billion,12
+MONEY, 3 5 million,11
+MONEY, 2 5 million,11
+MONEY, 2 5 billion,11
+MONEY, many billion dollar,10
+MONEY, 4 billion,10
+MONEY, 24 billion,10
+MONEY, 1 4 million,10
+MONEY, roughly 500 billion,10
+MONEY, 8 billion,9
+MONEY, 16 billion,9
+MONEY, 6 billion,9
+MONEY, 25 billion,9
+MONEY, 36 billion,9
+MONEY, 75 billion,9
+MONEY, 17 billion,9
+MONEY, 50 per cent,9
+MONEY, 20 billion euro,9
+MONEY, 4 8 billion,9
+MONEY, one penny,8
+MONEY, 338 billion,8
+MONEY, 603 billion,8
+MONEY, 15 billion,8
+MONEY, 22 billion,8
+MONEY, 14 billion,8
+MONEY, 70 billion,8
+MONEY, 34 billion,8
+MONEY, 5 billion,8
+MONEY, roughly 70 billion,8
+MONEY, 12 billion roman,8
+MONEY, 4 5 billion,8
+MONEY, 3 4 billion,8
+MONEY, 2 9 billion,8
+MONEY, 26 2 billion,8
+MONEY, 4 1 billion,8
+MONEY, 2 7 billion,8
+MONEY, 35 billion,7
+MONEY, 400 billion,7
+MONEY, nearly billion dollar,7
+MONEY, 500 billion,7
+MONEY, nearly 2 billion,7
+MONEY, 2 million euro,7
+MONEY, half million dollar,7
+MONEY, ten billion euro,7
+MONEY, one cent,7
+MONEY, 2 9 million,7
+MONEY, 3 8 billion,7
+MONEY, 1 9 billion,7
+MONEY, 10 cent,6
+MONEY, 854 billion,6
+MONEY, roughly 8 billion,6
+MONEY, 56 billion,6
+MONEY, 800 billion,6
+MONEY, 45 billion,6
+MONEY, 20 billion,6
+MONEY, several billion dollar,6
+MONEY, 21 billion,6
+MONEY, one dollar,6
+MONEY, 5000 55 million,6
+MONEY, 8 5 billion,6
+MONEY, 3 2 billion,6
+TIME, morning,2011
+TIME, night,1367
+TIME, evening,1255
+TIME, hour,967
+TIME, afternoon,944
+TIME, tonight,647
+TIME, last night,457
+TIME, tuesday night,452
+TIME, sunday night,302
+TIME, saturday night,278
+TIME, two hour,225
+TIME, thursday night,225
+TIME, 24 hour,203
+TIME, monday night,177
+TIME, wednesday night,151
+TIME, late wednesday,138
+TIME, friday night,134
+TIME, overnight,133
+TIME, midnight,129
+TIME, three hour,125
+TIME, 60 minute,116
+TIME, several hour,109
+TIME, 48 hour,104
+TIME, sunday morning,104
+TIME, last minute,99
+TIME, five minute,98
+TIME, late night,96
+TIME, early morning,95
+TIME, earlier wednesday,92
+TIME, 30 minute,90
+TIME, 10 minute,89
+TIME, hourly,89
+TIME, tuesday morning,87
+TIME, 15 minute,85
+TIME, 20 minute,85
+TIME, one night,84
+TIME, midday,82
+TIME, late thursday,80
+TIME, next morning,80
+TIME, early hour,77
+TIME, noon,76
+TIME, four hour,64
+TIME, tuesday evening,59
+TIME, late tuesday,57
+TIME, 90 minute,55
+TIME, later wednesday,54
+TIME, five hour,52
+TIME, early wednesday,50
+TIME, 15 hour,48
+TIME, one morning,48
+TIME, two minute,47
+TIME, earlier thursday,46
+TIME, 45 minute,46
+TIME, late saturday,45
+TIME, 10 hour,42
+TIME, 12 hour,42
+TIME, sunday evening,42
+TIME, minute,40
+TIME, sunday afternoon,39
+TIME, one hour,36
+TIME, couple hour,35
+TIME, tuesday afternoon,35
+TIME, six hour,35
+TIME, later thursday,33
+TIME, half hour,33
+TIME, 72 hour,33
+TIME, eight hour,32
+TIME, earlier tuesday,31
+TIME, several minute,31
+TIME, seven hour,31
+TIME, 40 minute,31
+TIME, three minute,30
+TIME, late afternoon,29
+TIME, middle night,28
+TIME, early afternoon,26
+TIME, later tuesday,26
+TIME, long hour,26
+TIME, previous night,26
+TIME, 30 hour,25
+TIME, earlier today,25
+TIME, early evening,25
+TIME, one evening,25
+TIME, 36 hour,25
+TIME, 9 pm,24
+TIME, 20 hour,24
+TIME, one minute,24
+TIME, 6 pm,24
+TIME, midafternoon,23
+TIME, saturday morning,23
+TIME, late evening,23
+TIME, 40 hour,22
+TIME, earlier saturday,22
+TIME, 5 pm,22
+TIME, last hour,22
+TIME, 7 pm,22
+TIME, 8 pm,20
+TIME, late monday,20
+TIME, next hour,20
+TIME, every morning,20
+TIME, early thursday,19
+QUANTITY, 600 900 eastern,60
+QUANTITY, 30 mile,55
+QUANTITY, 50 mile,50
+QUANTITY, 40 mile,50
+QUANTITY, 10 000,46
+QUANTITY, 100 mile,36
+QUANTITY, 20 mile,35
+QUANTITY, 60 mile,34
+QUANTITY, 50 000,32
+QUANTITY, 10 mile,31
+QUANTITY, 1 000,30
+QUANTITY, 25 mile,26
+QUANTITY, 200 mile,23
+QUANTITY, three mile,23
+QUANTITY, 20 000,23
+QUANTITY, 90 mile,22
+QUANTITY, 300 000,22
+QUANTITY, hundred mile,20
+QUANTITY, 2 degree celsius,18
+QUANTITY, 35 mile,18
+QUANTITY, two mile,18
+QUANTITY, 150 mile,17
+QUANTITY, 80 mile,17
+QUANTITY, 300 mile,15
+QUANTITY, 10 foot,15
+QUANTITY, 70 mile,15
+QUANTITY, 100 km 60 mile,14
+QUANTITY, 15 mile,14
+QUANTITY, three foot,14
+QUANTITY, 3 000,14
+QUANTITY, 6 000,14
+QUANTITY, half mile,13
+QUANTITY, four mile,13
+QUANTITY, 20 foot,13
+QUANTITY, 400 meter,12
+QUANTITY, 100 foot,12
+QUANTITY, 75 mile,12
+QUANTITY, six inch,12
+QUANTITY, 80 km 50 mile,11
+QUANTITY, hundred meter,11
+QUANTITY, 14 mile,11
+QUANTITY, six foot,11
+QUANTITY, 400 mile,11
+QUANTITY, thousand mile,11
+QUANTITY, 50 km 30 mile,11
+QUANTITY, 125 mile,11
+QUANTITY, seven mile,11
+QUANTITY, 2 000,11
+QUANTITY, 50 foot,11
+QUANTITY, 100 000,11
+QUANTITY, 1 1 million,11
+QUANTITY, 4 000,11
+QUANTITY, five foot,11
+QUANTITY, 120 mile,10
+QUANTITY, 15 foot,10
+QUANTITY, 250 mile,10
+QUANTITY, 180 degree,10
+QUANTITY, 185 mph,10
+QUANTITY, 25 000,10
+QUANTITY, 400 000,10
+QUANTITY, 30 foot,9
+QUANTITY, 600 mile,9
+QUANTITY, 400 pound,9
+QUANTITY, six mile,9
+QUANTITY, 55 mile,9
+QUANTITY, 9mm,9
+QUANTITY, 12 mile,9
+QUANTITY, 1 5 million,9
+QUANTITY, five mile,9
+QUANTITY, 50 pound,9
+QUANTITY, 48 km,8
+QUANTITY, 725 hour,8
+QUANTITY, eight mile,8
+QUANTITY, 155 mile,8
+QUANTITY, 30 000,8
+QUANTITY, 5 foot,8
+QUANTITY, several mile,8
+QUANTITY, 60 000,8
+QUANTITY, 25 foot,8
+QUANTITY, 2 000 mile,8
+QUANTITY, 545 mile,7
+QUANTITY, 17 trillion,7
+QUANTITY, 1000 mile,7
+QUANTITY, 1 million barrel,7
+QUANTITY, 15 km 10 mile,7
+QUANTITY, 50 meter,7
+QUANTITY, 130 mile,7
+QUANTITY, 180 mile,7
+QUANTITY, roughly 11 million,7
+QUANTITY, 1 000 mile,7
+QUANTITY, 40 000,7
+QUANTITY, 2 5 million,7
+QUANTITY, 1 3 million,7
+QUANTITY, 200 meter,7
+QUANTITY, 10 000 meter,7
+QUANTITY, 30 pound,7
+QUANTITY, thirty meter,7
+QUANTITY, one foot,6
+QUANTITY, 60 km 37 mile,6
+QUANTITY, hundred thousand barrel,6
+LOC, europe,2628
+LOC, middle east,1127
+LOC, asia,617
+LOC, africa,367
+LOC, silicon valley,302
+LOC, latin america,253
+LOC, u district,192
+LOC, south china sea,190
+LOC, mediterranean,186
+LOC, north america,139
+LOC, midwest,94
+LOC, west coast,78
+LOC, east coast,65
+LOC, south china,64
+LOC, eastern europe,61
+LOC, caribbean island,59
+LOC, bay area,57
+LOC, western europe,47
+LOC, south america,44
+LOC, central america,43
+LOC, caribbean,37
+LOC, san bernardino,35
+LOC, mideast,34
+LOC, atlantic,34
+LOC, gulf coast,33
+LOC, balkan,33
+LOC, mediterranean sea,33
+LOC, south asia,28
+LOC, east bay,28
+LOC, middle east north africa,24
+LOC, middle america,23
+LOC, south bronx,22
+LOC, middle east south asia,21
+LOC, europe asia,21
+LOC, north south,20
+LOC, red sea,20
+LOC, mediterranean island,19
+LOC, kashmir,19
+LOC, eastern city,19
+LOC, east asia,18
+LOC, atlantic coast,18
+LOC, europe middle east,17
+LOC, middle east europe,17
+LOC, middle east africa,16
+LOC, pacific ocean,16
+LOC, asia europe,16
+LOC, pacific island,16
+LOC, san juan,16
+LOC, asia china,15
+LOC, rikers island,15
+LOC, west london,15
+LOC, jupiter,15
+LOC, suez,14
+LOC, asia pacific region,13
+LOC, east china sea,13
+LOC, south east,13
+LOC, hudson river,13
+LOC, atlantic ocean,13
+LOC, taiwan strait,12
+LOC, delta,12
+LOC, sahara,12
+LOC, mount everest,12
+LOC, green bay packer,12
+LOC, u middle east,11
+LOC, latin america caribbean,11
+LOC, north east,11
+LOC, u gulf coast,10
+LOC, asia middle east,9
+LOC, atlantic city,9
+LOC, africa middle east,9
+LOC, south atlantic,9
+LOC, baltic sea,9
+LOC, east west,9
+LOC, western mosul,9
+LOC, marina,9
+LOC, central valley,9
+LOC, nyc,8
+LOC, africa europe,8
+LOC, asia pacific,8
+LOC, u europe,8
+LOC, europe europe,8
+LOC, north london,8
+LOC, asia australia,8
+LOC, u virgin island,7
+LOC, guantanamo bay,7
+LOC, north vietnam,7
+LOC, north atlantic,7
+LOC, lake michigan,7
+LOC, great america,7
+LOC, gulf mexico,7
+LOC, chesapeake bay,7
+LOC, antarctica,7
+LOC, south china sea china,7
+LOC, black sea resort,7
+LOC, north sea,7
+LOC, east river,7
+LOC, euphrates valley,7
+LOC, south london,7
+LOC, north paris,7
+LOC, hudson valley,7
+PRODUCT, air force,72
+PRODUCT, dnc,64
+PRODUCT, cole,63
+PRODUCT, air force one,45
+PRODUCT, krg,29
+PRODUCT, discovery,24
+PRODUCT, a320,23
+PRODUCT, qa,19
+PRODUCT, 757,19
+PRODUCT, jessica,18
+PRODUCT, olympics,17
+PRODUCT, apache,16
+PRODUCT, obamas,16
+PRODUCT, giffords,16
+PRODUCT, sundance,15
+PRODUCT, nafta,14
+PRODUCT, s400,14
+PRODUCT, barack,13
+PRODUCT, rafale,13
+PRODUCT, abrams,11
+PRODUCT, assad,11
+PRODUCT, galileo,11
+PRODUCT, mattis,10
+PRODUCT, 747,10
+PRODUCT, jack,10
+PRODUCT, a380,9
+PRODUCT, zara,9
+PRODUCT, 777,8
+PRODUCT, barack obamas,8
+PRODUCT, atlas 5,8
+PRODUCT, 460,8
+PRODUCT, 307s,8
+PRODUCT, 4point,7
+PRODUCT, 5star,7
+PRODUCT, atlas,7
+PRODUCT, multiplex,7
+PRODUCT, ruger,6
+PRODUCT, quds,6
+PRODUCT, minuteman,6
+PRODUCT, enquirer,6
+PRODUCT, 737,6
+PRODUCT, broadway,6
+PRODUCT, corolla,6
+PRODUCT, scion,6
+PRODUCT, dnc hack,6
+PRODUCT, nom de guerre,6
+PRODUCT, barack obama,6
+PRODUCT, mercedes,6
+PRODUCT, vauxhall,6
+PRODUCT, acu,5
+PRODUCT, molina healthcare,5
+PRODUCT, f35,5
+PRODUCT, ar15,5
+PRODUCT, corsica,5
+PRODUCT, maltese,5
+PRODUCT, mosque,5
+PRODUCT, koranic,5
+PRODUCT, gitmo,5
+PRODUCT, trailblazer,5
+PRODUCT, escort,4
+PRODUCT, 982,4
+PRODUCT, x,4
+PRODUCT, u force,4
+PRODUCT, martin,4
+PRODUCT, cruze,4
+PRODUCT, jetta,4
+PRODUCT, fulbright,4
+PRODUCT, haram,4
+PRODUCT, cherokee,4
+PRODUCT, 320,4
+PRODUCT, roe,4
+PRODUCT, 210,4
+PRODUCT, xcel,4
+PRODUCT, section 702,3
+PRODUCT, ms13,3
+PRODUCT, minuteman iii,3
+PRODUCT, martin f35,3
+PRODUCT, mmr,3
+PRODUCT, nato dean fletcher school law diplomacy tuft university,3
+PRODUCT, lara,3
+PRODUCT, inauguration,3
+PRODUCT, giffords bloomberg,3
+PRODUCT, dnc dnc,3
+PRODUCT, metin,3
+PRODUCT, soyuz,3
+PRODUCT, c919,3
+PRODUCT, moyo,3
+PRODUCT, 550seat,3
+PRODUCT, airbus,3
+PRODUCT, atlantis,3
+PRODUCT, nautilus,3
+PRODUCT, moneyball,3
+PRODUCT, quran,3
+PRODUCT, oriole,3
+PRODUCT, toni,3
+PRODUCT, 880,3
+PRODUCT, anna,3
+PRODUCT, 300,3
+PRODUCT, delaney,3
+PRODUCT, queensboro bridge,3
+FAC, vatican,125
+FAC, guantanamo,67
+FAC, nafta,44
+FAC, suu kyi,41
+FAC, fifth avenue,29
+FAC, madison square,25
+FAC, broadway,23
+FAC, madison avenue,19
+FAC, le hour,16
+FAC, bergen county,15
+FAC, vermont sen bernie sander,13
+FAC, rubio,12
+FAC, la guardia,12
+FAC, kellyanne conway,11
+FAC, tiananmen square,11
+FAC, madison square garden,11
+FAC, heathrow,10
+FAC, white house,9
+FAC, mir,8
+FAC, le minute,8
+FAC, gitmo,8
+FAC, wrigley,8
+FAC, mid2018,7
+FAC, kennedy international airport,7
+FAC, pershing square,7
+FAC, madison county,7
+FAC, washington square park,6
+FAC, fort lee,5
+FAC, metro,5
+FAC, kpk,5
+FAC, coney island,5
+FAC, kennedy international airport new york,5
+FAC, gramercy park,5
+FAC, fort leavenworth,5
+FAC, mid2015,4
+FAC, fort lee new jersey,4
+FAC, kennedy airport,4
+FAC, fort greene,4
+FAC, eiffel tower,4
+FAC, pennsylvania avenue,4
+FAC, dulles international airport,3
+FAC, mid2013 mass,3
+FAC, fordham,3
+FAC, u senator vermont,3
+FAC, ataturk airport,3
+FAC, highland park,3
+FAC, khizr khan,3
+FAC, hudson valley,3
+FAC, u city,3
+FAC, menlo park,3
+FAC, clinton iowa,3
+FAC, deescalation zone,3
+FAC, red square,3
+FAC, alexandria va,3
+FAC, park avenue,3
+FAC, westminster bridge,3
+FAC, flatbush avenue,3
+FAC, lexington avenue,3
+FAC, fort wayne ind,3
+FAC, fort pierce,3
+FAC, ashburn va,3
+FAC, lake champlain,3
+FAC, u virgin island,3
+FAC, san bernardino,3
+FAC, grosvenor square area,2
+FAC, europe rex tillerson,2
+FAC, myanmar capital naypyitaw,2
+FAC, melania draped traditional lei necklace,2
+FAC, asia white house,2
+FAC, bannon white house,2
+FAC, u immigration,2
+FAC, havana hotel,2
+FAC, tappan zee,2
+FAC, lafayette square,2
+FAC, shannon,2
+FAC, washington square,2
+FAC, pearl harbor,2
+FAC, berlin wall,2
+FAC, fort worth,2
+FAC, melania,2
+FAC, u senator,2
+FAC, vermont shirley,2
+FAC, st peter basilica,2
+FAC, khan prince shah karim al husseini,2
+FAC, moscow u,2
+FAC, myanmar bangladesh,2
+FAC, deescalation zone eastern,2
+FAC, geneva helle thorningschmidt,2
+FAC, fowler,2
+FAC, erbil,2
+FAC, barcelona diagonal avenue,2
+FAC, u colombia,2
+FAC, second avenue subway,2
+FAC, second avenue,2
+FAC, heller 2008,2
+FAC, van wyck,2
+FAC, westminster abbey,2
+FAC, fort international,2
+FAC, york avenue,2
+FAC, seventh avenue,2
+EVENT, world war ii,343
+EVENT, olympics,187
+EVENT, world cup,45
+EVENT, hurricane maria,33
+EVENT, hurricane katrina,23
+EVENT, hugo,23
+EVENT, watergate,22
+EVENT, vietnam war,19
+EVENT, wimbledon,14
+EVENT, hurricane harvey,13
+EVENT, winter olympics,11
+EVENT, hurricane irma,11
+EVENT, world series,11
+EVENT, iran ballistic missile,10
+EVENT, katrina,10
+EVENT, geneva week,8
+EVENT, nikkireed_i_am,8
+EVENT, vietnam week,7
+EVENT, gulf war,7
+EVENT, chinese new year,7
+EVENT, tampa bay,6
+EVENT, london olympics,5
+EVENT, myanmar bangladesh,5
+EVENT, world war,5
+EVENT, santa monica,5
+EVENT, le hour,5
+EVENT, postworld war ii,5
+EVENT, hurricane katrina 2005,4
+EVENT, geneva nov 28,4
+EVENT, miami marlin,4
+EVENT, iran ballistic missile program,3
+EVENT, cold war,3
+EVENT, medina 1916,3
+EVENT, tokyo olympics,3
+EVENT, 2014 sochi olympics,3
+EVENT, summer olympics,3
+EVENT, post march 4,3
+EVENT, colorado spring,3
+EVENT, end world war ii,3
+EVENT, tampa bay time,3
+EVENT, iraq war,3
+EVENT, geneva nov 28 united state,2
+EVENT, myanmar bangladesh 480000,2
+EVENT, hurricane harvey jones,2
+EVENT, georgia 2008,2
+EVENT, america week,2
+EVENT, le week,2
+EVENT, anniversary world war,2
+EVENT, miami herald,2
+EVENT, iran notice flynn,2
+EVENT, usa today,2
+EVENT, american 2008,2
+EVENT, world cup russia,2
+EVENT, interview iran arabic language alalam,2
+EVENT, world war twoera,2
+EVENT, olympics international olympics committee,2
+EVENT, world eight,2
+EVENT, rakhine bangladesh recent day,2
+EVENT, balkan war,2
+EVENT, kosovo war,2
+EVENT, wimbledon 2012,2
+EVENT, daleiden merritt,2
+EVENT, world cup qualifier,2
+EVENT, title wimbledon,2
+EVENT, nafta immigration war,2
+EVENT, beijing olympics,2
+EVENT, hurricane hugo,2
+EVENT, new england,2
+EVENT, ww2,2
+EVENT, world cup series,2
+EVENT, paris week,2
+EVENT, world cup brazil,2
+EVENT, world war ii america,2
+EVENT, world war ii bomb,2
+EVENT, world war ii u,2
+EVENT, world war ii war,2
+EVENT, и,2
+EVENT, white house,2
+EVENT, world war ii m yau,2
+EVENT, second cup,2
+EVENT, hurricane wildfire,1
+EVENT, york jerry brown andrew cuomo,1
+EVENT, vietnam war war,1
+EVENT, hurricane harvey irma maria,1
+EVENT, hurricane july,1
+EVENT, disrespected0628 edt,1
+EVENT, blackrock second quarter,1
+EVENT, pakistan 2011,1
+EVENT, september 11th every three week,1
+EVENT, hamburg week,1
+EVENT, vietnam war bobby,1
+EVENT, bill iran,1
+EVENT, utah 2020,1
+EVENT, iran india,1
+EVENT, taxplan detail month,1
+EVENT, post week deployment,1
+EVENT, area crimeridden war zone,1
+EVENT, avenue subway,1
+EVENT, america war,1
+EVENT, january carson 65,1
+LAW, roe v wade,82
+LAW, section 702,41
+LAW, superfund,26
+LAW, article 50,26
+LAW, article 5,23
+LAW, article 155,17
+LAW, article 7,16
+LAW, title x,15
+LAW, chapter 11,14
+LAW, chapter 19,10
+LAW, section 301,10
+LAW, article 23,7
+LAW, wrigley,7
+LAW, article 9,6
+LAW, roe v wade supreme court,6
+LAW, article 50 lisbon,5
+LAW, section 5,5
+LAW, article 28,4
+LAW, article 50 lisbon treaty,4
+LAW, section 111,4
+LAW, section 215,4
+LAW, section 230,3
+LAW, section 385,3
+LAW, tappan zee bridge,3
+LAW, barack obamas,3
+LAW, obamas,3
+LAW, constitution,3
+LAW, article 155 constitution,3
+LAW, section 2,3
+LAW, section 3,3
+LAW, giffords,3
+LAW, section 8,3
+LAW, article ii constitution,3
+LAW, section 20000km,2
+LAW, section u constitution,2
+LAW, 39324 34000,2
+LAW, roe v wade ruling,2
+LAW, roe v wade legalizing abortion,2
+LAW, chapter 9,2
+LAW, article 44,2
+LAW, section 13,2
+LAW, 154th,2
+LAW, article 155 puigdemont,2
+LAW, article two,2
+LAW, article 2012,2
+LAW, 113th,2
+LAW, fauci,2
+LAW, section 11,2
+LAW, section patriot,2
+LAW, resolution 2334,2
+LAW, article one,2
+LAW, article 32,2
+LAW, section 112,2
+LAW, section 215 patriot,2
+LAW, le 30000,2
+LAW, 355th,2
+LAW, chapter 11 bankruptcy year,1
+LAW, johnson 28,1
+LAW, article book,1
+LAW, u territory,1
+LAW, massachusetts 29yearold,1
+LAW, article 1 power ryan,1
+LAW, section 4,1
+LAW, chapter 9 u,1
+LAW, section 205 promesa,1
+LAW, section 385 u,1
+LAW, section 232,1
+LAW, 130th 190,1
+LAW, article ii u constitution bar,1
+LAW, section 301 tariff act,1
+LAW, section 702 flynn,1
+LAW, section 2010,1
+LAW, section 1332,1
+LAW, india 150billion,1
+LAW, article 39,1
+LAW, 3920,1
+LAW, resolution 2231,1
+LAW, roe v wade abortion opponent,1
+LAW, roe v wade overruled abortion,1
+LAW, roe v wade cuomo,1
+LAW, 445th mission air force one,1
+LAW, guantanamo january,1
+LAW, article january,1
+LAW, nafta treaty,1
+LAW, article five,1
+LAW, article 5 kerry,1
+LAW, article 5 treaty,1
+LAW, article 2205,1
+LAW, section michelle,1
+LAW, roe v wade decision abortion,1
+LAW, roe v wade ruling court,1
+LAW, forney 52yearold,1
+LAW, chapter 9 spencer,1
+LAW, u constitution pas law limiting,1
+LAW, u municipal bankruptcy,1
+LAW, article 18,1
+LAW, para 1 6,1
+LAW, bill least 100 million,1
+LAW, article 19,1
+LAW, resolution 2231 resolution,1
+LANGUAGE, english,223
+LANGUAGE, filipino,77
+LANGUAGE, arabic,37
+LANGUAGE, mandarin,13
+LANGUAGE, hebrew,8
+LANGUAGE, catalan,8
+LANGUAGE, spanish,7
+LANGUAGE, tino,3
+LANGUAGE, quran,3
+LANGUAGE, taiwanese,2
+LANGUAGE, chinese,2
+LANGUAGE, burmese,1
+LANGUAGE, malay,1
+LANGUAGE, latin night club bill orlando premier gay nightclub located 1912 south orange avenue,1
+LANGUAGE, portuguese,1
+LANGUAGE, cantonese,1
+LANGUAGE, nuschese,1
+LANGUAGE, japanese,1
+LANGUAGE, persian,1
+LANGUAGE, quranic,1
+WORK_OF_ART, bible,133
+WORK_OF_ART, nobel,103
+WORK_OF_ART, nobel peace,26
+WORK_OF_ART, hardball,12
+WORK_OF_ART, nobel peace prize,10
+WORK_OF_ART, assad,6
+WORK_OF_ART, u edition,4
+WORK_OF_ART, nobel prize physiology medicine,4
+WORK_OF_ART, nobel prize physic,4
+WORK_OF_ART, hallatt,4
+WORK_OF_ART, picasso,4
+WORK_OF_ART, seventyfive nobel,3
+WORK_OF_ART, zeinab shrine,3
+WORK_OF_ART, nobel prize,3
+WORK_OF_ART, jack conger gunnar bentz,3
+WORK_OF_ART, moneyball,3
+WORK_OF_ART, vietnam war,2
+WORK_OF_ART, asia new u administration start trade war china,2
+WORK_OF_ART, turnbull,2
+WORK_OF_ART, yasukuni shrine,2
+WORK_OF_ART, csu,2
+WORK_OF_ART, nobel prize chemistry,2
+WORK_OF_ART, willy wonka chocolate factory,2
+WORK_OF_ART, nobel prize committee,2
+WORK_OF_ART, eiffel,2
+WORK_OF_ART, giulianis,2
+WORK_OF_ART, dreisinger,2
+WORK_OF_ART, tampa bay,2
+WORK_OF_ART, damac,2
+WORK_OF_ART, bannon esoteric italian,2
+WORK_OF_ART, sharia,2
+WORK_OF_ART, paperback edition,2
+WORK_OF_ART, gearan,2
+WORK_OF_ART, earlymorning tweet lavar,1
+WORK_OF_ART, cbs morning,1
+WORK_OF_ART, mattis tour america,1
+WORK_OF_ART, june alfred knopf,1
+WORK_OF_ART, soninlaw jared kushner grilled capitol hill,1
+WORK_OF_ART, vietnam war mccain veteran,1
+WORK_OF_ART, starledger,1
+WORK_OF_ART, ohio jerry moran kansa shelley moore capito west virginia,1
+WORK_OF_ART, pronetanyahu,1
+WORK_OF_ART, tpcio2n1mdwi,1
+WORK_OF_ART, perry perry,1
+WORK_OF_ART, haq monitored u monitoring service,1
+WORK_OF_ART, nobel laureate,1
+WORK_OF_ART, nobel prize economics,1
+WORK_OF_ART, u airtight,1
+WORK_OF_ART, mattis nov 19,1
+WORK_OF_ART, white nobel,1
+WORK_OF_ART, jack dalrymple,1
+WORK_OF_ART, jessica chamber sander delegate wyoming,1
+WORK_OF_ART, orlando nightclub series,1
+WORK_OF_ART, bible verse patrick,1
+WORK_OF_ART, bible verse,1
+WORK_OF_ART, u measure,1
+WORK_OF_ART, haass,1
+WORK_OF_ART, stuart grudgings bill trott,1
+WORK_OF_ART, snyders resignation valerie brader snyders,1
+WORK_OF_ART, florida rubio,1
+WORK_OF_ART, jim water president,1
+WORK_OF_ART, bible cook,1
+WORK_OF_ART, church england,1
+WORK_OF_ART, zhengsheng head,1
+WORK_OF_ART, nobel committee cited spread nuclear weapon growing risk atomic war ican,1
+WORK_OF_ART, nobel committee cited spread nuclear weapon country like north korea growing risk atomic war graphic,1
+WORK_OF_ART, assad residence sochi,1
+WORK_OF_ART, sechin,1
+WORK_OF_ART, simba willy,1
+WORK_OF_ART, soros,1
+WORK_OF_ART, us73530,1
+WORK_OF_ART, doha corniche night,1
+WORK_OF_ART, beirut sudden,1
+WORK_OF_ART, saturday edition die welt newspaper party,1
+WORK_OF_ART, ano,1
+WORK_OF_ART, humphreys,1
+WORK_OF_ART, kenyatta wedding,1
+WORK_OF_ART, tuz,1
+WORK_OF_ART, odessa,1
+WORK_OF_ART, phd disaster medicine 2012,1
+WORK_OF_ART, assad sixyearlong,1
+WORK_OF_ART, nighttime airstrikes,1
+WORK_OF_ART, sufi shrine,1
+WORK_OF_ART, soninlaw,1
+WORK_OF_ART, nobel prize committee choice government,1
+WORK_OF_ART, 0762hk,1
+WORK_OF_ART, nobel committee pick laureate hope carry recent,1
+WORK_OF_ART, europe brexit,1
+WORK_OF_ART, arabic daily,1
+WORK_OF_ART, ryabkov,1
+WORK_OF_ART, serbin,1
+WORK_OF_ART, de armas,1
+WORK_OF_ART, saturday edition north korea,1
+WORK_OF_ART, last edition,1
+WORK_OF_ART, 200am,1
+WORK_OF_ART, recinos,1
+WORK_OF_ART, juncker echoed bloc,1
+WORK_OF_ART, james giant peach,1
+WORK_OF_ART, horowitz professional independent,1
+WORK_OF_ART, madina morsal,1
