@@ -4,6 +4,7 @@
   "description": "CANIS Hackathon 2023",
   "main": "index.js",
   "scripts": {
+    "build": "npm run buiuld",
     "test": "echo \"Error: no test specified\" && exit 1", 
     "start": "node server.js"
   },
