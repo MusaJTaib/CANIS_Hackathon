@@ -4,32 +4,31 @@ const app = express();
 app.use(express.static('public'));
 
 app.get('/fakepeople', (req, res) => {
-  res.sendFile(__dirname + '/public/fake_entity_people.html')
+  res.sendFile(__dirname + '/public/fakepeople.html')
 })
 
 app.get('/fakegpe', (req, res) => {
-  res.sendFile(__dirname + '/public/fake_entity_gpe.html')
+  res.sendFile(__dirname + '/public/fakegpe.html')
 })
 
 app.get('/fakelocations', (req, res) => {
-  res.sendFile(__dirname + '/public/fake_entity_locations.html')
+  res.sendFile(__dirname + '/public/fakelocations.html')
 })
 
 app.get('/fake', (req, res) => {
   res.sendFile(__dirname + '/public/fake.html')
 })
 
-
 app.get('/truepeople', (req, res) => {
-  res.sendFile(__dirname + '/public/true_entity_people.html')
+  res.sendFile(__dirname + '/public/truepeople.html')
 })
 
 app.get('/truegpe', (req, res) => {
-  res.sendFile(__dirname + '/public/true_entity_gpe.html')
+  res.sendFile(__dirname + '/public/truegpe.html')
 })
 
 app.get('/truelocations', (req, res) => {
-  res.sendFile(__dirname + '/public/true_entity_locations.html')
+  res.sendFile(__dirname + '/public/truelocations.html')
 })
 
 app.get('/true', (req, res) => {
@@ -37,16 +36,16 @@ app.get('/true', (req, res) => {
 })
 
 app.get('/russiagpe', (req, res) => {
-  res.sendFile(__dirname + '/public/russia_gpe.html')
+  res.sendFile(__dirname + '/public/russiagpe.html')
 })
 
 app.get('/russiapeople', (req, res) => {
-  res.sendFile(__dirname + '/public/russia_people.html')
+  res.sendFile(__dirname + '/public/russiapeople.html')
 })
 
 
 app.get('/russialocations', (req, res) => {
-  res.sendFile(__dirname + '/public/russia_locations.html')
+  res.sendFile(__dirname + '/public/russialocations.html')
 })
 
 
