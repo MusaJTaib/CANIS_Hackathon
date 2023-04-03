@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Fake Data</title>
+    <style>
+    .animation {
+        margin-top: 30px;
+        display: block;
+        text-align: center;
+    }
+    input[type=range].anim-slider {
+        width: 374px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .anim-buttons {
+        margin: 8px 0px;
+    }
+    .anim-buttons button {
+        padding: 0;
+        width: 36px;
+    }
+    .anim-state label {
+        margin-right: 8px;
+    }
+    .anim-state input {
+        margin: 0;
+        vertical-align: middle;
+    }
+    </style>
+    <link rel="stylesheet"
+    href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+            
+  </head>
+  <body>
+
+    <div id="navbar"></div>
+
+    <h2 style="margin-top: 100px; text-align: center;">Readability Score</h2>
+    <div style="text-align: center; margin-left: 30vw; margin-right:30vw;"> Readability score is a measure of how easy it is to read and understand a written text. It's commonly used to assess the level of readability of a piece of writing, such as an article, blog post, or academic paper. The higher the easier it is to read.</div>
+    <div class="animation">
+      <img id="_anim_img54e774fb28b74cafb977d83c5e2f9d01">
+      <div class="anim-controls">
+        <input id="_anim_slider54e774fb28b74cafb977d83c5e2f9d01" type="range" class="anim-slider"
+               name="points" min="0" max="1" step="1" value="0"
+               oninput="anim54e774fb28b74cafb977d83c5e2f9d01.set_frame(parseInt(this.value));"></input>
+        <div class="anim-buttons">
+          <button title="Decrease speed" aria-label="Decrease speed" onclick="anim54e774fb28b74cafb977d83c5e2f9d01.slower()">
+              <i class="fa fa-minus"></i></button>
+          <button title="First frame" aria-label="First frame" onclick="anim54e774fb28b74cafb977d83c5e2f9d01.first_frame()">
+            <i class="fa fa-fast-backward"></i></button>
+          <button title="Previous frame" aria-label="Previous frame" onclick="anim54e774fb28b74cafb977d83c5e2f9d01.previous_frame()">
+              <i class="fa fa-step-backward"></i></button>
+          <button title="Play backwards" aria-label="Play backwards" onclick="anim54e774fb28b74cafb977d83c5e2f9d01.reverse_animation()">
+              <i class="fa fa-play fa-flip-horizontal"></i></button>
+          <button title="Pause" aria-label="Pause" onclick="anim54e774fb28b74cafb977d83c5e2f9d01.pause_animation()">
+              <i class="fa fa-pause"></i></button>
+          <button title="Play" aria-label="Play" onclick="anim54e774fb28b74cafb977d83c5e2f9d01.play_animation()">
+              <i class="fa fa-play"></i></button>
+          <button title="Next frame" aria-label="Next frame" onclick="anim54e774fb28b74cafb977d83c5e2f9d01.next_frame()">
+              <i class="fa fa-step-forward"></i></button>
+          <button title="Last frame" aria-label="Last frame" onclick="anim54e774fb28b74cafb977d83c5e2f9d01.last_frame()">
+              <i class="fa fa-fast-forward"></i></button>
+          <button title="Increase speed" aria-label="Increase speed" onclick="anim54e774fb28b74cafb977d83c5e2f9d01.faster()">
+              <i class="fa fa-plus"></i></button>
+        </div>
+        <form title="Repetition mode" aria-label="Repetition mode" action="#n" name="_anim_loop_select54e774fb28b74cafb977d83c5e2f9d01"
+              class="anim-state">
+          <input type="radio" name="state" value="once" id="_anim_radio1_54e774fb28b74cafb977d83c5e2f9d01"
+                 >
+          <label for="_anim_radio1_54e774fb28b74cafb977d83c5e2f9d01">Once</label>
+          <input type="radio" name="state" value="loop" id="_anim_radio2_54e774fb28b74cafb977d83c5e2f9d01"
+                 checked>
+          <label for="_anim_radio2_54e774fb28b74cafb977d83c5e2f9d01">Loop</label>
+          <input type="radio" name="state" value="reflect" id="_anim_radio3_54e774fb28b74cafb977d83c5e2f9d01"
+                 >
+          <label for="_anim_radio3_54e774fb28b74cafb977d83c5e2f9d01">Reflect</label>
+        </form>
+      </div>
+    </div>
+
+    <h2 style="margin-top: 100px; text-align: center;">Sentiment Analysis</h2>
+    <div style="text-align: center; margin-left: 30vw; margin-right:30vw;">Sentiment score is a numerical score assigned to a piece of text that indicates the overall sentiment expressed in the text. </div>
+    <img src = "FAKE_News_Score.png" style= "display: block; margin: auto;"/>
+    <div style="text-align: center; margin-left: 30vw; margin-right:30vw;">Polarity score is a numerical score assigned to a text that indicates the degree of positive or negative sentiment expressed in the text. Polarity score ranges from -1 to +1, where -1 indicates highly negative sentiment and +1 indicates highly positive sentiment, while a score of 0 indicates neutral sentiment.</div>
+    <img src = "FAKE_News_Polarity.png" style="display: block; margin: auto"/>
+    <div style="text-align: center; margin-left: 30vw; margin-right:30vw;">Subjectivity score is a numerical score assigned to a piece of text that indicates the degree to which the text expresses a subjective opinion or a factual statement. Subjectivity score ranges from 0 to 1, where 0 indicates a completely objective text, and 1 indicates a completely subjective text.</div>
+    <img src = "FAKE_News_Subjectivity.png" style="display: block; margin: auto"/>
+
+    <h2 style="margin-top: 100px; text-align: center;">WordCloud</h2>
+    <div style="text-align: center; margin-left: 30vw; margin-right:30vw; font-size: 25px;">Topic wordcloud, common topics among factual news</div>
+    <img src = "Topic-wordcloud-FAKE.png" style="display: block; margin: auto; width: 60vw;"/>
+
+    <div style="text-align: center; margin-left: 30vw; margin-right:30vw; margin-top: 40px; font-size: 25px">Nationalities/Religions/Political wordcloud, common nationalities, religions, and political words among factual news</div>
+    <img src = "NER-NationalitiesReligiousPolitical-FAKE.png" style="display: block; margin: auto; width: 60vw;"/>
+
+    <script>
+        // Load the navbar HTML file and insert it into the #navbar div
+        fetch('/nav/nav.html')
+          .then(response => response.text())
+          .then(html => {
+            document.querySelector('#navbar').innerHTML = html;
+          });
+    </script>
+
+    <script language="javascript">
+      function isInternetExplorer() {
+        ua = navigator.userAgent;
+        /* MSIE used to detect old browsers and Trident used to newer ones*/
+        return ua.indexOf("MSIE ") > -1 || ua.indexOf("Trident/") > -1;
+      }
+    
+      /* Define the Animation class */
+      function Animation(frames, img_id, slider_id, interval, loop_select_id){
+        this.img_id = img_id;
+        this.slider_id = slider_id;
+        this.loop_select_id = loop_select_id;
+        this.interval = interval;
+        this.current_frame = 0;
+        this.direction = 0;
+        this.timer = null;
+        this.frames = new Array(frames.length);
+    
+        for (var i=0; i<frames.length; i++)
+        {
+         this.frames[i] = new Image();
+         this.frames[i].src = frames[i];
+        }
+        var slider = document.getElementById(this.slider_id);
+        slider.max = this.frames.length - 1;
+        if (isInternetExplorer()) {
+            // switch from oninput to onchange because IE <= 11 does not conform
+            // with W3C specification. It ignores oninput and onchange behaves
+            // like oninput. In contrast, Microsoft Edge behaves correctly.
+            slider.setAttribute('onchange', slider.getAttribute('oninput'));
+            slider.setAttribute('oninput', null);
+        }
+        this.set_frame(this.current_frame);
+      }
+    
+      Animation.prototype.get_loop_state = function(){
+        var button_group = document[this.loop_select_id].state;
+        for (var i = 0; i < button_group.length; i++) {
+            var button = button_group[i];
+            if (button.checked) {
+                return button.value;
+            }
+        }
+        return undefined;
+      }
+    
+      Animation.prototype.set_frame = function(frame){
+        this.current_frame = frame;
+        document.getElementById(this.img_id).src =
+                this.frames[this.current_frame].src;
+        document.getElementById(this.slider_id).value = this.current_frame;
+      }
+    
+      Animation.prototype.next_frame = function()
+      {
+        this.set_frame(Math.min(this.frames.length - 1, this.current_frame + 1));
+      }
+    
+      Animation.prototype.previous_frame = function()
+      {
+        this.set_frame(Math.max(0, this.current_frame - 1));
+      }
+    
+      Animation.prototype.first_frame = function()
+      {
+        this.set_frame(0);
+      }
+    
+      Animation.prototype.last_frame = function()
+      {
+        this.set_frame(this.frames.length - 1);
+      }
+    
+      Animation.prototype.slower = function()
+      {
+        this.interval /= 0.7;
+        if(this.direction > 0){this.play_animation();}
+        else if(this.direction < 0){this.reverse_animation();}
+      }
+    
+      Animation.prototype.faster = function()
+      {
+        this.interval *= 0.7;
+        if(this.direction > 0){this.play_animation();}
+        else if(this.direction < 0){this.reverse_animation();}
+      }
+    
+      Animation.prototype.anim_step_forward = function()
+      {
+        this.current_frame += 1;
+        if(this.current_frame < this.frames.length){
+          this.set_frame(this.current_frame);
+        }else{
+          var loop_state = this.get_loop_state();
+          if(loop_state == "loop"){
+            this.first_frame();
+          }else if(loop_state == "reflect"){
+            this.last_frame();
+            this.reverse_animation();
+          }else{
+            this.pause_animation();
+            this.last_frame();
+          }
+        }
+      }
+    
+      Animation.prototype.anim_step_reverse = function()
+      {
+        this.current_frame -= 1;
+        if(this.current_frame >= 0){
+          this.set_frame(this.current_frame);
+        }else{
+          var loop_state = this.get_loop_state();
+          if(loop_state == "loop"){
+            this.last_frame();
+          }else if(loop_state == "reflect"){
+            this.first_frame();
+            this.play_animation();
+          }else{
+            this.pause_animation();
+            this.first_frame();
+          }
+        }
+      }
+    
+      Animation.prototype.pause_animation = function()
+      {
+        this.direction = 0;
+        if (this.timer){
+          clearInterval(this.timer);
+          this.timer = null;
+        }
+      }
+    
+      Animation.prototype.play_animation = function()
+      {
+        this.pause_animation();
+        this.direction = 1;
+        var t = this;
+        if (!this.timer) this.timer = setInterval(function() {
+            t.anim_step_forward();
+        }, this.interval);
+      }
+    
+      Animation.prototype.reverse_animation = function()
+      {
+        this.pause_animation();
+        this.direction = -1;
+        var t = this;
+        if (!this.timer) this.timer = setInterval(function() {
+            t.anim_step_reverse();
+        }, this.interval);
+      }
+    </script>
+    <script language="javascript">
+      /* Instantiate the Animation class. */
+      /* The IDs given should match those used in the template above. */
+      (function() {
+        var img_id = "_anim_img54e774fb28b74cafb977d83c5e2f9d01";
+        var slider_id = "_anim_slider54e774fb28b74cafb977d83c5e2f9d01";
+        var loop_select_id = "_anim_loop_select54e774fb28b74cafb977d83c5e2f9d01";
+        var frames = new Array(3);
+        
+        frames[0] = "boxplot_animation_frames/frame" + ("00000000").slice(-7) +
+                        ".png";
+        frames[1] = "boxplot_animation_frames/frame" + ("00000002").slice(-7) +
+                        ".png";
+        frames[2] = "boxplot_animation_frames/frame" + ("00000001").slice(-7) +
+        ".png";
+    
+        /* set a timeout to make sure all the above elements are created before
+           the object is initialized. */
+        setTimeout(function() {
+            anim54e774fb28b74cafb977d83c5e2f9d01 = new Animation(frames, img_id, slider_id, 1000.0,
+                                     loop_select_id);
+        }, 0);
+      })()
+    </script>
+    
+  </body>
+</html>

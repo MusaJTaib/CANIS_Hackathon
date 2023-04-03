@@ -52,22 +52,22 @@
 <body>
   <div id="navbar"></div>
   <h1 style="text-align: center; margin-top: 100px;">
-    Information on Fake News About Locations
+    Information on Fake News about People
   </h1>
 
   <div style="text-align: center; margin-top: 100px; font-size: 30px;"> 
-    Top 100 Locations Mentioned Bubble Graph
+    Top 100 People Mentioned Bubble Graph
   </div>
   <div id="bubble_chart" style="margin-top: 100px"></div>
 
   <div style="text-align: center; margin-top: 100px; font-size: 30px;"> 
-    Top Locations Mentioned Pie Chart
+    Top People Mentioned Pie Chart
   </div>
   <div id="chart"></div>
   <div style="text-align: center; margin-top: 100px; font-size: 30px;"> 
-    Top Locations Mentioned Wordcloud
+    Top People Mentioned Wordcloud
   </div>
-  <img src = "NER-LOC-FAKE.png"  width="70%" style="margin-left:14vw; margin-right: 14vw; margin-top: 50px"/>
+  <img src = "NER-Person-wordcloud-FAKE.png"  width="70%" style="margin-left:14vw; margin-right: 14vw; margin-top: 50px"/>
 
 
   <script>
@@ -82,9 +82,9 @@
   <script>
     d3.csv("TOP100_sorted_entities_Misinfo_FAKE.csv").then(function(data) {
 
-      // Filter data by Entity = "LOC"
+      // Filter data by Entity = "PERSON"
       data = data.filter(function(d) {
-          return d.Entity === "LOC";
+          return d.Entity === "PERSON";
       });
       
       // Set up dimensions and margins for chart
@@ -197,7 +197,7 @@
 
       d3.csv("TOP100_sorted_entities_Misinfo_FAKE.csv").then(function (data) {
         data = data.filter(function(d) {
-          return d.Entity === "LOC";
+          return d.Entity === "PERSON";
         });
 
         const threshold = 0.2; // set the threshold for slice display
